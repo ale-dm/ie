@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "technique.schema.json",
+  "title": "Técnica",
+  "type": "object",
+  "required": ["id", "nombre", "tipo", "categoria", "elemento", "huecos"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "nombre": { "type": "string" },
+    "tipo": {
+      "enum": ["supertecnica", "hipertecnica", "transformacion-basica", "transformacion-avanzada"]
+    },
+    "categoria": {
+      "description": "Acción del duelo en la que se usa. Las transformaciones usan 'estado'.",
+      "enum": ["tiro", "regate", "bloqueo", "parada", "estado"]
+    },
+    "elemento": { "enum": ["fuego", "aire", "tierra", "bosque", "neutro"] },
+    "huecos": {
+      "description": "Huecos que ocupa (GDD 4.2): 1 estándar/transformación básica, 2 hiper/avanzada.",
+      "enum": [1, 2]
+    },
+    "potenciaBase": { "type": "integer", "minimum": 1, "description": "Pendiente de definir su escala." },
+    "costeTension": { "type": "integer", "minimum": 0, "maximum": 100, "description": "Pendiente de balanceo." },
+    "mejorable": {
+      "type": "boolean",
+      "description": "Si admite Mejora de Grado. Siempre false en transformaciones.",
+      "default": true
+    },
+    "requiereCompanero": {
+      "description": "Ids de personaje necesarios para una combinada.",
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

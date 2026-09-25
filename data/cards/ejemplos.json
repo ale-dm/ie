@@ -1,0 +1,43 @@
+[
+  {
+    "id": "mark-evans-ie1-oro",
+    "personaje": "mark-evans",
+    "nombre": "Mark Evans",
+    "version": "Torneo Fútbol Frontier",
+    "posicion": "PR", "equipo": "Raimon", "elemento": "tierra", "era": "IE1", "rareza": "oro",
+    "stats": { "ATT": 45, "CTL": 60, "DEF": 84 },
+    "huecos": 4,
+    "tecnicas": [
+      { "tecnica": "mano-celestial" },
+      { "tecnica": "mano-magica" },
+      { "tecnica": "remate-inazuma" }
+    ]
+  },
+  {
+    "id": "mark-evans-ie1-final-especial",
+    "personaje": "mark-evans",
+    "nombre": "Mark Evans",
+    "version": "Final del Fútbol Frontier vs. Zeus",
+    "posicion": "PR", "equipo": "Raimon", "elemento": "tierra", "era": "IE1", "rareza": "especial",
+    "stats": { "ATT": 50, "CTL": 66, "DEF": 92 },
+    "huecos": 6,
+    "tecnicas": [
+      { "tecnica": "mano-celestial" },
+      { "tecnica": "mano-magica", "grado": 3 },
+      { "tecnica": "remate-inazuma" }
+    ]
+  },
+  {
+    "id": "axel-blaze-ie1-oro",
+    "personaje": "axel-blaze",
+    "nombre": "Axel Blaze",
+    "version": "Torneo Fútbol Frontier",
+    "posicion": "DL", "equipo": "Raimon", "elemento": "fuego", "era": "IE1", "rareza": "oro",
+    "stats": { "ATT": 88, "CTL": 70, "DEF": 38 },
+    "huecos": 4,
+    "tecnicas": [
+      { "tecnica": "tornado-de-fuego", "grado": 2 },
+      { "tecnica": "despertar" }
+    ]
+  }
+]

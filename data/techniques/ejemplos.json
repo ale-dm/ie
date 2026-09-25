@@ -1,0 +1,7 @@
+[
+  { "id": "mano-celestial", "nombre": "Mano Celestial", "tipo": "supertecnica", "categoria": "parada", "elemento": "tierra", "huecos": 1, "potenciaBase": 40, "costeTension": 20, "mejorable": true },
+  { "id": "mano-magica", "nombre": "Mano Mágica", "tipo": "supertecnica", "categoria": "parada", "elemento": "tierra", "huecos": 1, "potenciaBase": 55, "costeTension": 30, "mejorable": true },
+  { "id": "tornado-de-fuego", "nombre": "Tornado de Fuego", "tipo": "supertecnica", "categoria": "tiro", "elemento": "fuego", "huecos": 1, "potenciaBase": 45, "costeTension": 25, "mejorable": true },
+  { "id": "remate-inazuma", "nombre": "Remate Inazuma", "tipo": "hipertecnica", "categoria": "tiro", "elemento": "fuego", "huecos": 2, "potenciaBase": 75, "costeTension": 45, "mejorable": true, "requiereCompanero": ["mark-evans", "jude-sharp"] },
+  { "id": "despertar", "nombre": "Despertar", "tipo": "transformacion-basica", "categoria": "estado", "elemento": "neutro", "huecos": 1, "mejorable": false }
+]

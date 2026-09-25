@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "card.schema.json",
+  "title": "Carta",
+  "type": "object",
+  "required": ["id", "personaje", "version", "posicion", "equipo", "elemento", "era", "rareza", "stats", "huecos", "tecnicas"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "personaje": { "type": "string", "description": "Id del personaje, común a todas sus versiones." },
+    "nombre": { "type": "string" },
+    "version": { "type": "string", "description": "Momento o era que representa la carta." },
+    "posicion": { "enum": ["PR", "DF", "MC", "DL"] },
+    "equipo": { "type": "string" },
+    "elemento": { "enum": ["fuego", "aire", "tierra", "bosque"] },
+    "era": { "enum": ["IE1", "IE2", "IE3", "GO", "GO2", "GO3", "ARES", "ORION", "VR"] },
+    "rareza": { "enum": ["bronce", "plata", "oro", "especial"] },
+    "stats": {
+      "type": "object",
+      "required": ["ATT", "CTL", "DEF"],
+      "additionalProperties": false,
+      "properties": {
+        "ATT": { "type": "integer", "minimum": 1, "maximum": 100 },
+        "CTL": { "type": "integer", "minimum": 1, "maximum": 100 },
+        "DEF": { "type": "integer", "minimum": 1, "maximum": 100 }
+      }
+    },
+    "huecos": {
+      "description": "4 en bronce/plata/oro; 5 o 6 en especial.",
+      "enum": [4, 5, 6]
+    },
+    "tecnicas": {
+      "description": "Huecos usados = suma de (huecos de la técnica + grado - 1). Debe ser <= huecos. Se valida fuera del esquema.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["tecnica"],
+        "additionalProperties": false,
+        "properties": {
+          "tecnica": { "type": "string", "description": "Id de técnica." },
+          "grado": { "type": "integer", "minimum": 1, "maximum": 3, "default": 1 }
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "rareza": { "enum": ["bronce", "plata", "oro"] } } },
+      "then": { "properties": { "huecos": { "const": 4 } } },
+      "else": { "properties": { "huecos": { "enum": [5, 6] } } }
+    }
+  ]
+}
