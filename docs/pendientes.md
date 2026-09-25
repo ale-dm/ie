@@ -8,17 +8,13 @@
 - [ ] Catálogo de formaciones y sus adyacencias.
 
 ## Técnicas
-- [ ] Qué representa la "potencia" de una técnica en números (¿suma a la stat? ¿multiplica?).
-- [ ] Coste de Tensión por tipo de técnica.
-- [ ] Modificadores de cada transformación (Keshin, Mixi-Max, Armadura, Tótem, Despertar).
-- [ ] ¿Las combinadas exigen tener al compañero en el once?
+- [ ] ¿Diferenciar bonus entre transformaciones del mismo nivel (p. ej. Tótem vs Armadura)?
 - [ ] ¿Ventaja elemental (Fuego > Bosque > Tierra > Aire > Fuego o similar)?
 
 ## Modo Fatal
-- [ ] Qué se enfrenta en cada uno de los 11 duelos (¿jugador contra jugador por posición?).
-- [ ] Fórmula de resolución y grado de aleatoriedad.
-- [ ] Condición de victoria y desempate.
-- [ ] ¿Se puede usar más de una técnica por duelo?
+- [ ] Balanceo con simulaciones: ¿+5 de portero y +5 de Ventaja son adecuados? ¿Tiene ventaja quien ataca en la ronda 1?
+- [ ] Comportamiento de la IA rival (cómo elige carta, acción y uso de recursos).
+- [ ] Tiempo límite por decisión en PvP.
 
 ## Economía y modos
 - [ ] Monedas, precios de sobres y probabilidades por rareza.

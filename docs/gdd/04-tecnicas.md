@@ -31,8 +31,8 @@ Nomenclatura de la franquicia (Nv.1 → Nv.2 → Nv.3 → Final / G1–G5 / Shin
 | Grado | Cómo se obtiene | Potencia |
 |---|---|---|
 | 1 (Base) | Técnica equipada una vez | Base |
-| 2 | + 1 Mejora de Grado | Base +15 % |
-| 3 / Final | + 2 Mejoras de Grado | Base +30 % |
+| 2 | + 1 Mejora de Grado | Base ×1,15 (redondeado) |
+| 3 / Final | + 2 Mejoras de Grado | Base ×1,30 (redondeado) |
 
 **Reglas:**
 

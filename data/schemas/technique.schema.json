@@ -20,8 +20,8 @@
       "description": "Huecos que ocupa (GDD 4.2): 1 estándar/transformación básica, 2 hiper/avanzada.",
       "enum": [1, 2]
     },
-    "potenciaBase": { "type": "integer", "minimum": 1, "description": "Pendiente de definir su escala." },
-    "costeTension": { "type": "integer", "minimum": 0, "maximum": 100, "description": "Pendiente de balanceo." },
+    "potenciaBase": { "type": "integer", "minimum": 1, "maximum": 20, "description": "Puntos que se suman a la stat en el duelo (GDD 5.5): 6-10 estándar, 12-16 hiper." },
+    "costeTension": { "type": "integer", "minimum": 0, "maximum": 100, "description": "20 estándar, 40 hiper (GDD 5.5)." },
     "mejorable": {
       "type": "boolean",
       "description": "Si admite Mejora de Grado. Siempre false en transformaciones.",
