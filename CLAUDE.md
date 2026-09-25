@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-Proyecto de diseño del juego "Inazuma Eleven Mobile" (repo `burro`). Idioma del proyecto: español.
+Proyecto de diseño del juego "Inazuma Eleven Mobile" (repo `ie`). Idioma del proyecto: español.
 
 - El GDD vive en `docs/gdd/`, una sección por archivo. Es la fuente de verdad del diseño.
 - Toda decisión nueva se registra en `docs/decisiones.md` (fecha, decisión, motivo) y se aplica al GDD.

@@ -1,4 +1,4 @@
-# Burro — Inazuma Eleven Mobile
+# Inazuma Eleven Mobile
 
 Juego móvil de coleccionismo, construcción de plantillas y combate táctico por turnos ambientado en el universo de Inazuma Eleven, con mecánicas al estilo Madfut / Pacybits (sobres, Draft, SBC y duelos 1vs1).
 
