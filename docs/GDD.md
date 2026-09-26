@@ -37,7 +37,16 @@ Las cartas cuentan con tres estadísticas principales alineadas verticalmente en
 
 (mínimo · jugador normal · máximo). Balance buscado: el portero tiene más DEF que los defensas, un delantero gana a un defensa ~68 % de las veces y al portero ~35 %, y un medio atacando gana a un defensa ~50 %.
 
-Cada personaje tiene **una carta por juego y versión** (estilo Strikers): p. ej. Axel Blaze IE1, Axel Blaze GO2 y Axel Blaze Adulto son cartas distintas. Por encima de 89 solo están las cartas Especiales.
+**Qué versiones existen (estilo Strikers):** cada equipo aparece una sola vez, en el juego en que es original. La única excepción es la línea del Raimon, que tiene una versión por juego:
+
+| Saga | Versiones que se repiten |
+|---|---|
+| Original | Raimon 1 (IE1) · Raimon 2 (IE2) · Inazuma Japón (IE3) |
+| GO | Raimon (GO1) · Raimon 2 / Chrono Stone (GO2) · Earth Eleven (GO3) |
+
+- El resto de equipos solo aparece en su juego original, aunque salga en más juegos: p. ej. Wild solo en IE1, Emperadores Oscuros solo en IE2, Orfeo solo en IE3.
+- Así, Axel Blaze tiene cartas de Raimon 1, Raimon 2 e Inazuma Japón (más las especiales), mientras que un jugador de Orfeo solo tiene su carta de IE3.
+- Por encima de 89 solo están las cartas Especiales.
 
 ### 2.3 Rareza
 

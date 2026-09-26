@@ -33,6 +33,7 @@ Lo que el GDD todavía no define. Las referencias de Madfut y Pacybits están en
 - [ ] **Pesos de la valoración por posición** y rangos de valoración de cada rareza.
 - [ ] Personajes de Ares, Orion y Victory Road: no están en la Ultimate Database; stats a mano o con otra fuente.
 - [ ] Revisar a mano las cartas de los personajes principales (la fórmula no es perfecta).
+- [ ] **Equipo de cada ficha:** la Ultimate Database no trae el equipo. Hace falta la lista de equipos por juego con sus plantillas para cribar las fichas (regla de equipos únicos, GDD 2.2).
 - [ ] Cartas Especiales: ¿se basan en los Héroes de Victory Road (6 técnicas, stats ≈ +25 %)?
 - [ ] Qué series y divisiones hay, cuántos partidos tiene cada una y cuáles son sus recompensas.
 
