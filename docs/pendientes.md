@@ -11,7 +11,7 @@ Lo que el GDD todavía no define. Las referencias de Madfut y Pacybits están en
 - [ ] Penalización por jugar fuera de posición (Madfut la tiene; no está documentado cuánto).
 
 ## Técnicas
-- [ ] Potencia y coste de Tensión de cada técnica (en Victory Road el coste es relativo a la potencia).
+- [ ] Potencia y coste de Tensión de cada técnica (los asigna el autor, técnica a técnica).
 - [ ] Técnicas de Habilidad: ¿ocupan hueco? ¿Cuestan Tensión? ¿Qué efectos tienen (sobre la carta o sobre el equipo)?
 - [ ] Qué rarezas (Verde, Azul, Lila, Amarillo, Naranja) tienen 2 huecos y cuáles 4.
 - [ ] Valor de la ventaja elemental.
@@ -31,7 +31,7 @@ Lo que el GDD todavía no define. Las referencias de Madfut y Pacybits están en
 - [ ] Reglas de Trading (en Pacybits solo se intercambian duplicadas).
 - [ ] Recompensas de Draft y SBC.
 - [ ] **Pesos de la valoración por posición** y rangos de valoración de cada rareza.
-- [ ] **Paso de las stats de Victory Road a ATT / CTL / DEF (1–100).** Las 7 stats y las fórmulas de duelo están en `referencias/victory-road-datos.md`.
+- [ ] **Cálculo de ATT / CTL / DEF de cada personaje.** Referencias: stats individuales de DS/3DS y pesos por acción en `referencias/stats-juegos-ds.md`; stats de Victory Road en `referencias/victory-road-datos.md` (sirven para personajes que solo salen en GO/Ares/VR).
 - [ ] Cartas Especiales: ¿se basan en los Héroes de Victory Road (6 técnicas, stats ≈ +25 %)?
 - [ ] Qué series y divisiones hay, cuántos partidos tiene cada una y cuáles son sus recompensas.
 

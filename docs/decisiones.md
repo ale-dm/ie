@@ -24,3 +24,5 @@ Solo decisiones tomadas por el autor del diseño.
 | 2026-09-26 | Todas las técnicas ocupan 1 hueco; no hay técnicas de dos huecos. |
 | 2026-09-26 | Rarezas por color como en Victory Road (Verde, Azul, Lila, Amarillo, Naranja) en lugar de Bronce/Plata/Oro, más las cartas Especiales. |
 | 2026-09-26 | Valoración de carta ponderada por posición y valoración de equipo = media de los 11 (pesos y rangos por definir). |
+| 2026-09-26 | Stats individuales por personaje, como en DS/3DS (jugadores mejores y peores), no la base casi igual de Victory Road. |
+| 2026-09-26 | Cada supertécnica tiene su propio valor de potencia y coste, asignado por el autor, como en DS/3DS; no escalones fijos como en Victory Road. |

@@ -13,4 +13,5 @@ docs/
 data/
   schemas/                      JSON Schema de cartas y técnicas
   fuentes/victory-road/         CSV de personajes, héroes, técnicas y poderes de Victory Road
+  fuentes/ds/                   Stats a nivel 99 de IE1, IE2 e IE3
 ```

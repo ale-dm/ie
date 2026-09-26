@@ -24,6 +24,8 @@ Las cartas cuentan con tres estadísticas principales alineadas verticalmente en
 | CTL | Control / Pase / Regate | Utilizado en disputas del centro del campo y movilidad. |
 | DEF | Defensa / Parada | Utilizado para cortar avances o detener tiros en portería. |
 
+**Stats individuales:** cada personaje tiene sus propias stats, como en los juegos de DS/3DS: hay jugadores mejores y peores. No se sigue el modelo de Victory Road, donde casi todos tienen la misma base.
+
 ### 2.3 Rareza
 
 Como en Victory Road, las cartas base tienen 5 rarezas por color, en lugar de Bronce, Plata y Oro:
@@ -145,7 +147,7 @@ El modo Fatal se desarrolla a lo largo de 10 duelos individuales por turnos, má
 
 - **Los dos jugadores** pueden usarlas: el que elige primero y el que responde.
 - Se deciden **al elegir la carta**, de forma **oculta**, y se revelan al resolver la ronda.
-- Una supertécnica **suma puntos fijos** a la stat del duelo. Cada técnica tiene su propia potencia y su propio coste de Tensión (valores por definir técnica a técnica).
+- Una supertécnica **suma puntos fijos** a la stat del duelo. Cada técnica tiene su propia potencia y su propio coste de Tensión, asignados técnica a técnica como en los juegos de DS/3DS (no por escalones como en Victory Road).
 - Los estados especiales (Hiperenergía) también dan **bonus en puntos fijos**, no porcentajes.
 - **Duración:** un estado especial y su técnica duran **solo esa ronda**. Excepción: el **Espíritu Guerrero dura 2 rondas**, por la pasiva o el boost que da al equipo.
 - **Técnicas de Habilidad:** existen técnicas pasivas, como en los juegos. Cuando se activa la Hiperenergía, si el estado especial tiene técnica propia, esta se suma al árbol de habilidades de la carta (ver 4.1).
