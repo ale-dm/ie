@@ -14,7 +14,49 @@ Solo lo que dicen las fuentes consultadas, con enlace. Lo que no aparece documen
 - Hay dos variantes: **Fatal My Club** (plantilla de tu colección) y **Fatal Draft** (equipo construido durante el partido). [3]
 - Las "Fatal stats" dan bonus pasivos según la valoración Fatal o las estrellas del jugador (ej. MADFUT 25: 2 estrellas = +1 a todas las stats; 1 estrella = sin bonus). [2]
 
-**No documentado en las fuentes:** cuánto se reducen las stats fuera de posición, cómo se marcan goles, si una carta se puede reutilizar, número de cartas por equipo y reglas de desempate.
+**No documentado en las fuentes:** cuánto se reducen las stats fuera de posición. Rondas, puntuación y desempate: ver la guía de r/MADFUT más abajo.
+
+## Madfut — Guía de Fatal de r/MADFUT [11]
+
+Guía para principiantes publicada por un moderador de r/MADFUT (hace ~4 años). La aportó el autor del proyecto copiando la traducción al español de Reddit.
+
+### Modalidades
+- **Fatal My Club:** construyes un equipo por serie que no supere la valoración requerida (ej. serie 75 → equipo de 75 o menos; igual para 82, 85…). Solo con cartas de tu club.
+- **Fatal Draft:** equipo sacado de un draft; en el partido solo se usan los 11 titulares. Sin restricción de club.
+
+### Rondas y resolución
+- Si eliges una **stat de ataque**, el rival tiene que usar una **stat de defensa**, y al revés.
+- La tercera opción es **control**: eliges control y el rival también responde con control.
+- Si las dos stats enfrentadas son iguales, se **suman las stats totales de cada carta** y gana la más alta.
+- Si también empatan las totales, **nadie se lleva el punto**.
+- **10 rondas.** Gana quien tenga más puntos.
+
+### Desempate
+- Si tras 10 rondas el marcador está igualado (5-5, 4-4…), hay una **ronda de desempate**: se enfrenta la **última carta de cada equipo** y se suman todas sus stats. La más alta gana el partido.
+- Si la diferencia en el desempate **no es mayor que 5**, el partido termina en **empate**.
+- Deducción (la guía no lo dice explícitamente): con 11 cartas, 10 rondas y "la última carta" en el desempate, cada carta se juega una vez.
+
+### Información durante la ronda
+- Quien elige primero se decide **al azar**; según la guía, no es un factor importante.
+- El que responde no ve la carta del rival, solo pistas: la guía pone de ejemplo "control con un centrocampista italiano" o "un delantero del Manchester United", y hay que adivinar quién es.
+- Se puede **igualar** la carta del rival para no perder la ronda, o sacrificar una **carta "desechable"**: una carta floja que está para cuadrar química, valoración o impulsos, y que se gasta contra una carta que no puedes ganar para guardar las buenas.
+- Consejo del autor de la guía: abrir con una carta de **"clase media"**.
+
+### Impulsos Fatales
+- Cada temporada hay impulsos distintos por serie (My Club) y por división (Draft).
+- Ejemplo: +2 a todas las stats si el equipo tiene 6 o más tipos de cartas.
+
+### Química
+- **10 de química: +1** a las stats. **9:** la stat de la carta. **Menos de 9:** se pierden puntos, más cuanto menor es la química.
+- Nota: nuestro GDD (3.2) da **+2** con 10 de química; Madfut da +1.
+
+### Puntos de liga
+| Rival | Victoria | Empate | Derrota |
+|---|---|---|---|
+| Online | 4 | 2 | 1 |
+| IA | 3 | 1 | 0 |
+
+Las recompensas por completar serie o división son las mismas online y contra la IA.
 
 ## Pacybits — Versus
 
@@ -39,3 +81,4 @@ Solo lo que dicen las fuentes consultadas, con enlace. Lo que no aparece documen
 8. [PACYBITS FAQ](https://www.pacybits.com/faq)
 9. [PACYBITS FUT 19 (soft112)](https://pacybits-fut-19.soft112.com/). Descripción de la tienda de apps.
 10. [MADFUT 23 – Tips, Cheats, Tricks and Strategy Guide (WriterParty)](https://writerparty.com/party/madfut-23-tips-cheats-tricks-and-strategy-guide/)
+11. Guía de r/MADFUT "Fatal – Guía para principiantes y consejos" (u/tm4p29, moderador; texto facilitado por el autor del proyecto).
