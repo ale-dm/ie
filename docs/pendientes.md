@@ -31,7 +31,8 @@ Lo que el GDD todavía no define. Las referencias de Madfut y Pacybits están en
 - [ ] Reglas de Trading (en Pacybits solo se intercambian duplicadas).
 - [ ] Recompensas de Draft y SBC.
 - [ ] **Pesos de la valoración por posición** y rangos de valoración de cada rareza.
-- [ ] **Cálculo de ATT / CTL / DEF de cada personaje.** Propuesta actual: `propuestas/formula-stats.md` (v4, Ultimate Database). Referencias: stats individuales de DS/3DS y pesos por acción en `referencias/stats-juegos-ds.md`; stats de Victory Road en `referencias/victory-road-datos.md` (sirven para personajes que solo salen en GO/Ares/VR).
+- [ ] Personajes de Ares, Orion y Victory Road: no están en la Ultimate Database; stats a mano o con otra fuente.
+- [ ] Revisar a mano las cartas de los personajes principales (la fórmula no es perfecta).
 - [ ] Cartas Especiales: ¿se basan en los Héroes de Victory Road (6 técnicas, stats ≈ +25 %)?
 - [ ] Qué series y divisiones hay, cuántos partidos tiene cada una y cuáles son sus recompensas.
 

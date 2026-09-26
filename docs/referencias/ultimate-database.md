@@ -31,7 +31,7 @@ Cada juego llama distinto a las stats. Así quedan agrupadas:
 | GO2 | 1501 | 32–196 (96) | 45–196 (104) | 45–171 (102) | 9–196 (104) | 34–196 (85) | 50–178 (106) | 35–171 (96) | 30–178 (90) |
 | GO3 | 2000 | 32–196 (100) | 45–196 (106) | 45–171 (105) | 42–191 (106) | 34–196 (89) | 50–197 (107) | 47–171 (98) | 35–178 (93) |
 
-**La saga GO usa casi el doble de escala que la original** (medias de ~100 frente a ~57). Para compararlas hay que normalizar cada juego por separado (ver `propuestas/formula-stats.md`).
+**La saga GO usa casi el doble de escala que la original** (medias de ~100 frente a ~57). Para compararlas hay que normalizar cada juego por separado (ver `../formula-stats.md`).
 
 ## Otros datos de la base
 

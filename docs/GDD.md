@@ -26,6 +26,17 @@ Las cartas cuentan con tres estadísticas principales alineadas verticalmente en
 
 **Stats individuales:** cada personaje tiene sus propias stats, como en los juegos de DS/3DS: hay jugadores mejores y peores. No se sigue el modelo de Victory Road, donde casi todos tienen la misma base.
 
+**Cálculo de ATT / CTL / DEF:** con la fórmula de `formula-stats.md`, a partir de las stats a nivel 99 de IE1, IE2, IE3, GO1, GO2 y GO3, normalizadas por juego y llevadas al rango de Madfut de cada posición:
+
+| Posición | ATT | CTL | DEF |
+|---|---|---|---|
+| PR | 25–45 | 25–45 | 60–89 |
+| DF | 40–70 | 45–75 | 60–89 |
+| MC | 55–86 | 60–89 | 40–80 |
+| DL | 60–89 | 55–88 | 30–62 |
+
+Cada personaje tiene **una carta por juego y versión** (estilo Strikers): p. ej. Axel Blaze IE1, Axel Blaze GO2 y Axel Blaze Adulto son cartas distintas. Por encima de 89 solo están las cartas Especiales.
+
 ### 2.3 Rareza
 
 Como en Victory Road, las cartas base tienen 5 rarezas por color, en lugar de Bronce, Plata y Oro:

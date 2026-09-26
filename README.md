@@ -10,13 +10,14 @@ docs/
   decisiones.md                 Decisiones de diseño tomadas
   pendientes.md                 Preguntas abiertas
   referencias/                  Madfut, Pacybits, juegos de Inazuma y datos de Victory Road
-  propuestas/                   Propuestas pendientes de aprobar
+  formula-stats.md              Fórmula de ATT / CTL / DEF
+  ejemplos-cartas.md            Ejemplos de cartas calculadas
 data/
   schemas/                      JSON Schema de cartas y técnicas
   fuentes/victory-road/         CSV de personajes, héroes, técnicas y poderes de Victory Road
   fuentes/ds/                   Stats a nivel 99 de IE1, IE2 e IE3
   fuentes/strikers/             Jugadores y técnicas de GO Strikers 2013 Xtreme
   fuentes/udb/                  Ultimate Database: IE1–IE3 y GO1–GO3 a nivel 99, unificados
-  propuestas/                   Resultados de propuestas (p. ej. stats calculadas)
+  stats/                        ATT / CTL / DEF calculados por juego y versión
 scripts/                        Scripts de cálculo
 ```

@@ -1,10 +1,14 @@
-# Propuesta: Fórmula de ATT / CTL / DEF (v4)
+# Fórmula de ATT / CTL / DEF (v4)
 
-Estado: **propuesta, no aprobada**. Script: `scripts/stats_cartas.py`. Datos: `data/fuentes/udb/jugadores-nivel99.csv` (Ultimate Database, IE1–IE3 y GO1–GO3; ver `referencias/ultimate-database.md`).
+Estado: **aprobada** (2026-09-26). Las cartas usan la **versión por juego**, al estilo Strikers: cada personaje tiene una carta por cada juego y versión en que aparece. Script: `scripts/stats_cartas.py`. Datos: `data/fuentes/udb/jugadores-nivel99.csv` (Ultimate Database, IE1–IE3 y GO1–GO3; ver `referencias/ultimate-database.md`).
+
+**Conocido:** no es perfecta; algunos valores concretos pueden ajustarse a mano carta a carta.
 
 Resultados:
-- `data/propuestas/stats-cartas.csv`: 9498 fichas, una por versión y juego.
-- `data/propuestas/stats-media-personaje.csv`: media de las versiones base de cada personaje en todos los juegos en que aparece.
+- `data/stats/stats-por-juego.csv`: 9498 fichas, una por versión y juego. **Es la que se usa para las cartas.**
+- `data/stats/stats-media-personaje.csv`: media de las versiones base de cada personaje (solo como referencia).
+
+Ejemplos de cartas: `ejemplos-cartas.md`.
 
 ## Historial
 

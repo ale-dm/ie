@@ -1,14 +1,14 @@
-"""Propuesta v4 de ATT / CTL / DEF a partir de la Ultimate Database (IE1-IE3 y GO1-GO3).
+"""Fórmula v4 (aprobada) de ATT / CTL / DEF a partir de la Ultimate Database (IE1-IE3 y GO1-GO3).
 
-Ver docs/propuestas/formula-stats.md. Uso: python3 scripts/stats_cartas.py
+Ver docs/formula-stats.md. Uso: python3 scripts/stats_cartas.py
 """
 import csv
 import re
 import statistics
 
 ENTRADA = 'data/fuentes/udb/jugadores-nivel99.csv'
-SALIDA = 'data/propuestas/stats-cartas.csv'
-SALIDA_MEDIA = 'data/propuestas/stats-media-personaje.csv'
+SALIDA = 'data/stats/stats-por-juego.csv'
+SALIDA_MEDIA = 'data/stats/stats-media-personaje.csv'
 STATS = ['tiro', 'regate', 'tecnica', 'defensa', 'parada', 'velocidad', 'aguante', 'extra']
 
 # Rango de cada stat por posición, de la carta base más floja a la oro top (calibrado con Madfut).

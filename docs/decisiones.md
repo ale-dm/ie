@@ -26,3 +26,5 @@ Solo decisiones tomadas por el autor del diseño.
 | 2026-09-26 | Valoración de carta ponderada por posición y valoración de equipo = media de los 11 (pesos y rangos por definir). |
 | 2026-09-26 | Stats individuales por personaje, como en DS/3DS (jugadores mejores y peores), no la base casi igual de Victory Road. |
 | 2026-09-26 | Cada supertécnica tiene su propio valor de potencia y coste, asignado por el autor, como en DS/3DS; no escalones fijos como en Victory Road. |
+| 2026-09-26 | Stats de las cartas con la fórmula v4 (`formula-stats.md`): Ultimate Database IE1–GO3, normalizada por juego, rangos de Madfut por posición. |
+| 2026-09-26 | Cartas por versión y juego (estilo Strikers), no una media por personaje. |
