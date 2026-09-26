@@ -19,3 +19,5 @@ Solo decisiones tomadas por el autor del diseño.
 | 2026-09-26 | Huecos agrupados de dos en dos: cartas muy básicas solo el grupo 1 (2 huecos), cartas mejores hasta el grupo 2 (4), especiales los 3 grupos (6). Sustituye a "Bronce/Plata/Oro: 4 huecos; Especiales: 5 o 6". |
 | 2026-09-26 | Una única notación para el nivel de una técnica repetida. |
 | 2026-09-26 | La técnica de un estado especial se añade al árbol sustituyendo la posición del estado, y se muestra con un aspecto distinto. |
+| 2026-09-26 | Solo Espíritu Guerrero, Mixi-Max y Tótem dan técnica (sustituye el hueco del estado); Armadura, Cambio de Forma y Despertar solo dan boost de puntos. |
+| 2026-09-26 | Los estados especiales y su técnica duran solo esa ronda; el Espíritu Guerrero dura 2 rondas por su pasiva o boost al equipo. |
