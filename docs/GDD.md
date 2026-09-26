@@ -45,6 +45,9 @@ Las cartas cuentan con tres estadísticas principales alineadas verticalmente en
 | GO | Raimon (GO1) · Raimon 2 / Chrono Stone (GO2) · Earth Eleven (GO3) |
 
 - El resto de equipos solo aparece en su juego original, aunque salga en más juegos: p. ej. Wild solo en IE1, Emperadores Oscuros solo en IE2, Orfeo solo en IE3.
+- **Criba de la base de datos:** se recorren los juegos en orden IE1 → IE2 → IE3 → GO1 → GO2 → GO3 y, si un jugador se repite, se queda su primera ficha (salvo la línea del Raimon).
+- Los jugadores de la saga original que reaparecen en GO se descartan, salvo sus **versiones adultas**. Los personajes nuevos de GO conservan sus versiones especiales (Mixi-Max, niño…).
+- Las técnicas de cada carta salen de la misma base de datos.
 - Así, Axel Blaze tiene cartas de Raimon 1, Raimon 2 e Inazuma Japón (más las especiales), mientras que un jugador de Orfeo solo tiene su carta de IE3.
 - Por encima de 89 solo están las cartas Especiales.
 

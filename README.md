@@ -18,6 +18,8 @@ data/
   fuentes/ds/                   Stats a nivel 99 de IE1, IE2 e IE3
   fuentes/strikers/             Jugadores y técnicas de GO Strikers 2013 Xtreme
   fuentes/udb/                  Ultimate Database: IE1–IE3 y GO1–GO3 a nivel 99, unificados
-  stats/                        ATT / CTL / DEF calculados por juego y versión
-scripts/                        Scripts de cálculo
+  stats/                        ATT / CTL / DEF de todas las fichas de la base
+  cartas/                       Cartas cribadas (las que entran en el juego), con técnicas
+  config/                       Plantillas de la línea del Raimon
+scripts/                        stats_cartas.py → cribar_cartas.py → ejemplos_cartas.py
 ```

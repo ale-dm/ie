@@ -33,7 +33,11 @@ Lo que el GDD todavía no define. Las referencias de Madfut y Pacybits están en
 - [ ] **Pesos de la valoración por posición** y rangos de valoración de cada rareza.
 - [ ] Personajes de Ares, Orion y Victory Road: no están en la Ultimate Database; stats a mano o con otra fuente.
 - [ ] Revisar a mano las cartas de los personajes principales (la fórmula no es perfecta).
-- [ ] **Equipo de cada ficha:** la Ultimate Database no trae el equipo. Hace falta la lista de equipos por juego con sus plantillas para cribar las fichas (regla de equipos únicos, GDD 2.2).
+- [ ] **Plantillas de la línea del Raimon GO** (`data/config/linea-raimon.csv`): solo están Arion, Riccardo, Victor y JP. Completar Raimon GO, Raimon 2 / Chrono y Earth Eleven.
+- [ ] Raimon 1 y Raimon 2 salen casi iguales: la base da las mismas stats a nivel 99 en IE1 y IE2. ¿Se diferencian a mano o se quita una de las dos?
+- [ ] Técnicas de GO3 en japonés y GO1 sin técnicas en la base de datos: traducir o completar.
+- [ ] Fichas repetidas dentro de un juego (p. ej. Shawn Froste en IE2 como DF y como DL): ahora se queda la primera; revisar las de personajes importantes.
+- [ ] Jugadores genéricos de fichaje (sin equipo): de momento se quedan como cartas.
 - [ ] Cartas Especiales: ¿se basan en los Héroes de Victory Road (6 técnicas, stats ≈ +25 %)?
 - [ ] Qué series y divisiones hay, cuántos partidos tiene cada una y cuáles son sus recompensas.
 

@@ -1,4 +1,4 @@
-"""Genera docs/ejemplos-cartas.md a partir de data/stats/stats-por-juego.csv. Uso: python3 scripts/ejemplos_cartas.py"""
+"""Genera docs/ejemplos-cartas.md a partir de data/cartas/cartas.csv (cartas ya cribadas). Uso: python3 scripts/ejemplos_cartas.py"""
 import collections
 import csv
 import random
@@ -18,31 +18,20 @@ GRUPOS = [
 ]
 
 
-def fila(filas, nombre):
-    todas = [d for d in filas if d['nombre'].lower().startswith(nombre.lower())]
-    base = [d for d in todas if d['nombre'].strip().lower() == nombre.lower()]
-    if not base:
+def fila(cartas, nombre):
+    """Una fila por personaje con todas sus cartas: versión y ATT/CTL/DEF."""
+    import re
+    base = re.sub(r'\s+', ' ', nombre).lower()
+    propias = [c for c in cartas if re.sub(r'\s*\(.*?\)', '', c['nombre']).strip().lower().replace('-', ' ') == base.replace('-', ' ')]
+    if not propias:
         return None
-    pos = collections.Counter(d['posicion'] for d in base).most_common(1)[0][0]
-    elem = next((d['elemento'] for d in base if d['elemento']), '')
-    celdas = []
-    for j in JUEGOS:
-        vals = []
-        for d in base:
-            if d['juego'] == j:
-                t = '%s/%s/%s' % (d['ATT'], d['CTL'], d['DEF']) + ('' if d['posicion'] == pos else ' (%s)' % d['posicion'])
-                if t not in vals:
-                    vals.append(t)
-        celdas.append(' · '.join(vals) or '—')
-    especiales = []
-    for d in todas:
-        if d not in base:
-            etiqueta = d['nombre'][len(nombre):].strip(' ()　') or d['nombre']
-            etiqueta = etiqueta.replace('Adult', 'Adulto').replace('adulto', 'Adulto').replace('Adultoo', 'Adulto').replace('Adultoe', 'Adulto')
-            t = '%s %s: %s/%s/%s' % (d['juego'], etiqueta, d['ATT'], d['CTL'], d['DEF'])
-            if t not in especiales:
-                especiales.append(t)
-    return '| %s | %s | %s | %s | %s |' % (nombre, pos, ELEMENTOS.get(elem, elem), ' | '.join(celdas), ' · '.join(especiales) or '—')
+    pos = collections.Counter(c['posicion'] for c in propias).most_common(1)[0][0]
+    elem = next((c['elemento'] for c in propias if c['elemento']), '')
+    lista = ' · '.join('%s (%s): %s/%s/%s%s' % (c['version'], c['juego'], c['ATT'], c['CTL'], c['DEF'],
+                                               '' if c['posicion'] == pos else ' [%s]' % c['posicion']) if c['version'] != c['juego']
+                       else '%s: %s/%s/%s%s' % (c['juego'], c['ATT'], c['CTL'], c['DEF'], '' if c['posicion'] == pos else ' [%s]' % c['posicion'])
+                       for c in propias)
+    return '| %s | %s | %s | %s |' % (nombre, pos, ELEMENTOS.get(elem, elem), lista)
 
 
 def porcentaje(filas, pa, sa, pb, sb, rnd):
@@ -52,19 +41,17 @@ def porcentaje(filas, pa, sa, pb, sb, rnd):
 
 
 def main():
-    filas = list(csv.DictReader(open('data/stats/stats-por-juego.csv')))
-    out = ['# Ejemplos de Cartas (fórmula v4, versión por juego)', '',
-           'Calculadas con `formula-stats.md`. Formato: **ATT / CTL / DEF**. Cada valor es una carta distinta (juego y versión). '
-           'Datos completos: `data/stats/stats-por-juego.csv`. Este archivo se genera con `scripts/ejemplos_cartas.py`.', '',
-           '- Si la base tiene dos fichas del mismo personaje en un juego (p. ej. dos equipos en IE3), aparecen las dos.',
+    filas = list(csv.DictReader(open('data/cartas/cartas.csv')))
+    out = ['# Ejemplos de Cartas', '',
+           'Cartas ya cribadas (`data/cartas/cartas.csv`, reglas en GDD 2.2) con stats de `formula-stats.md`. Formato: **versión (juego): ATT / CTL / DEF**. '
+           'Este archivo se genera con `scripts/ejemplos_cartas.py`.', '',
            '- GO1 no indica el elemento en la base de datos.', '']
     for titulo, nombres in GRUPOS:
-        out += ['## ' + titulo, '', '| Personaje | Pos | Elemento | ' + ' | '.join(JUEGOS) + ' | Versiones especiales |',
-                '|---|---|---|' + '---|' * len(JUEGOS) + '---|']
+        out += ['## ' + titulo, '', '| Personaje | Pos | Elemento | Cartas |', '|---|---|---|---|']
         out += [f for f in (fila(filas, n) for n in nombres) if f]
         out.append('')
     rnd = random.Random(3)
-    out += ['## Balance de duelos', '', 'Cartas al azar de cada posición (todas las versiones de los 6 juegos):', '',
+    out += ['## Balance de duelos', '', 'Cartas al azar de cada posición (todas las cartas cribadas):', '',
             '| Duelo | Gana el primero |', '|---|---|']
     for texto, args in [('Delantero (ATT) vs. defensa (DEF)', ('DL', 'ATT', 'DF', 'DEF')),
                         ('Delantero (ATT) vs. portero (DEF)', ('DL', 'ATT', 'PR', 'DEF')),
@@ -72,7 +59,7 @@ def main():
                         ('Medio (CTL) vs. delantero (CTL)', ('MC', 'CTL', 'DL', 'CTL')),
                         ('Portero (DEF) más alta que defensa (DEF)', ('PR', 'DEF', 'DF', 'DEF'))]:
         out.append('| %s | %d %% |' % (texto, porcentaje(filas, *args, rnd)))
-    out += ['', '## Jugadores normales', '', 'Mínimo · flojo (p25) · normal (mediana) · bueno (p75) · máximo, con todas las versiones de los 6 juegos:', '',
+    out += ['', '## Jugadores normales', '', 'Mínimo · flojo (p25) · normal (mediana) · bueno (p75) · máximo, con todas las cartas cribadas:', '',
             '| Posición | ATT | CTL | DEF |', '|---|---|---|---|']
     for p in ['PR', 'DF', 'MC', 'DL']:
         celdas = []

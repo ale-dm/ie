@@ -227,7 +227,7 @@ Argie Bargie,DF,IE2 IE3,64,68,73
 Argo Burgess,PR,GO3,32,35,81
 Argyr,DF,GO2 GO3,56,62,80
 Arion Matlock,MC,GO1 GO2 IE1 IE2 IE3,72,78,68
-Arion SherAire,MC,GO2,76,81,66
+Arion SherWind,MC,GO2,76,81,66
 Arion Sherwind,MC,GO1 GO3,74,84,66
 Aris Tottle,DF,GO1 GO3,51,58,70
 Ark,MC,GO2 GO3 IE2,68,78,60
@@ -530,8 +530,6 @@ Boomer Smolen,PR,IE2 IE3,36,34,76
 Borboleta Barboza,MC,IE3,83,81,72
 Borel Aurora,MC,GO1 GO2 GO3,64,80,51
 Bos Horne,DF,IE1 IE2 IE3,58,62,66
-Bosquerow Stake,DL,GO2,84,79,46
-Bosquey Prince,DL,GO2,69,71,41
 Bot 1,PR,GO2 GO3,25,29,79
 Bot 10,DL,GO2 GO3,76,66,42
 Bot 11,DL,GO2 GO3,76,68,45
@@ -556,8 +554,7 @@ Bramley Cox,DL,IE1 IE2 IE3,75,71,51
 Brane Friese,DL,GO1 GO2 GO3,74,58,40
 Brava Hardy,DL,IE3,82,67,30
 Bravo,MC,GO2 GO3,72,68,64
-"Breeze ""Flurry"" Aireward",DL,GO2,83,74,43
-"Breeze ""Flurry"" Windward",DL,GO3,82,73,42
+"Breeze ""Flurry"" Windward",DL,GO2 GO3,82,74,42
 Breeze Skyler,PR,GO2 GO3,32,30,81
 Breeze Windward,DL,GO1,75,66,42
 Brenda Brandish,DL,IE2 IE3,76,64,48
@@ -592,9 +589,8 @@ Bryce Whitingale,DL,GO1 IE2 IE3,79,78,52
 Buck Choy,MC,GO1 GO2 GO3,67,75,69
 Buck Teachey,DF,IE1 IE2 IE3,55,62,67
 Buck Tucker,DF,GO1 GO2 GO3,48,55,70
-Bucky Bosquechuck,MC,GO2,68,72,59
 Bucky Colt,DL,IE3,77,69,45
-Bucky Woodchuck,MC,GO1 GO3,70,75,60
+Bucky Woodchuck,MC,GO1 GO2 GO3,69,74,60
 Bud Dahman,DL,IE1 IE2 IE3,70,63,36
 Bud Hunter,PR,IE1 IE2 IE3,32,35,73
 "Buddy ""Muscles"" Arnolds",PR,GO3,29,32,77
@@ -1208,7 +1204,7 @@ Edison Ford,MC,IE3,71,71,62
 Edward Albion,PR,IE1 IE2 IE3,38,39,74
 Edward Baron,DL,IE2 IE3,82,77,55
 Edward Gladstone,MC,IE1 IE2 IE3,79,80,68
-Edward HeadBosque,DF,GO2,50,65,62
+Edward HeadWood,DF,GO2,50,65,62
 Edward Headwood,DF,GO1 GO3,51,68,62
 Eggbert Heading,DL,IE1 IE2 IE3,77,62,53
 Egon Omercer,PR,IE2 IE3,40,36,77
@@ -1692,7 +1688,7 @@ Harry Angue,DF,IE2 IE3,53,64,68
 Harry Boufante,DF,IE3,57,65,70
 Harry Caine,PR,IE1 IE2 IE3,42,41,77
 Harry Closs,DF,IE1 IE2 IE3,61,67,80
-Harry DAire,DL,GO2,83,72,44
+Harry DWind,DL,GO2,83,72,44
 Harry Dwind,DL,GO1 GO3,80,69,45
 Harry Harper,PR,IE1 IE2 IE3,30,33,75
 Harry Keenan,DL,IE2 IE3,77,78,56
@@ -2668,8 +2664,7 @@ Monarch Rome,DF,GO2 GO3 IE3,56,69,80
 Monstro Ximenes,DF,IE3,70,60,67
 Montaine Skalin,DL,GO2 GO3 IE3,81,71,38
 Montana Fleetfoot,MC,GO1 GO2,70,75,48
-Montaña Tábano,PR,GO1 GO2,29,30,79
-Montaña a Toughlove,PR,GO2,36,31,86
+Montaña Tábano,PR,GO1,29,31,81
 Monty Burrows,PR,IE1 IE2 IE3,25,29,69
 Monty Hillary,DL,IE1 IE2 IE3,65,70,47
 Monty Montague,PR,GO1 GO2 GO3,28,28,80
@@ -2690,6 +2685,8 @@ Morty Portland,MC,IE3,65,74,56
 Moses Pumper,DL,IE1 IE2 IE3,74,71,51
 Moth Gar,DF,GO3,58,58,75
 Mountain,PR,GO3,28,30,77
+Mountain Tábano,PR,GO2,29,30,77
+Mountain a Toughlove,PR,GO2,36,31,86
 Mozunoha,DF,GO3,55,59,76
 Mr. Sheepwood,PR,GO3,33,30,79
 Mr. Tetsu.,DF,GO3,53,51,73
@@ -3064,8 +3061,8 @@ Phillipa Konik,MC,GO2 GO3,76,80,65
 Phineas Hudd,DL,IE3,66,68,38
 Phobos Quasar,PR,GO3,36,35,87
 Phoebus Moonlight,DF,GO1 GO2 GO3,58,59,70
+"Phoenix ""Fire bird"" Southers",DL,GO2,80,71,41
 "Phoenix ""Firebird"" Southers",DL,GO3,79,70,40
-"Phoenix ""Fuego bird"" Southers",DL,GO2,80,71,41
 Phoenix Southers,DL,GO1,67,70,47
 Pica Vellosum,DL,IE1 IE2 IE3,73,66,43
 Piero Mantisse,DL,GO1 GO2 GO3,70,77,42
@@ -3409,7 +3406,7 @@ Ruth Karnes,MC,IE2 IE3,73,74,66
 Ruugaa,DF,GO3,57,62,74
 Ry Sling,DF,IE1 IE2 IE3,52,64,60
 Ryan Ferry,DL,IE1 IE2 IE3,72,64,35
-Ryan HayBosque,DF,GO2,48,54,67
+Ryan HayWood,DF,GO2,48,54,67
 Ryan Haywood,DF,IE2 IE3,54,56,64
 Ryan O'Laugh,DF,GO2 IE2,54,58,69
 Ryan O’Laugh,DF,IE3,54,59,65
@@ -3655,8 +3652,7 @@ Silica Gel,DF,GO3,48,60,74
 Silke Coombe,MC,GO1 GO2 GO3,67,73,57
 Silvain Hache,DL,GO2 GO3,80,79,40
 Silver Platt,DF,IE1 IE2 IE3,56,60,64
-Silvia Bosques,PR,GO2,29,30,81
-Silvia Woods,PR,GO1 GO3 IE2 IE3,28,33,80
+Silvia Woods,PR,GO1 GO2 GO3 IE2 IE3,28,32,80
 Silvia Woods Adulta,PR,GO3,31,30,82
 Silvio Di Fence,DL,GO1 GO2 GO3,76,63,42
 Sim Cebus,MC,GO2,73,78,64
@@ -4284,9 +4280,10 @@ Wittz,DL,GO2 GO3 IE2,79,68,37
 Wolfe Whyte,PR,GO1 GO2 GO3,32,32,79
 Wolfram Vulpeen,DL,GO2 GO3,86,81,38
 Wonderbot,DL,GO3,62,55,28
-Woodrow Stake,DL,GO3,84,79,46
+Woodrow Stake,DL,GO2 GO3,84,79,46
 Woody Ellement,DF,IE3,51,73,70
 Woody Prince,DF,IE3,47,57,68
+Woody Prince,DL,GO2,69,71,41
 Worff Chewback,DF,GO1 GO2 GO3,47,58,73
 Wormy Morm,DL,GO3,78,76,28
 Wowah Zumu,MC,GO2 GO3,72,76,60
@@ -4372,8 +4369,7 @@ Zhang,DL,GO2,85,70,44
 Zhang Fei,DL,GO3,84,69,43
 Zhuge Liang,MC,GO2 GO3,74,82,64
 Zin Giber,MC,IE1 IE2 IE3,59,76,63
-Zip Airerush,DL,GO2,81,76,42
-Zip Windrush,DL,GO3 IE3,72,80,50
+Zip Windrush,DL,GO2 GO3 IE3,75,79,47
 Zipp Fastener,DL,IE3,75,61,35
 Zippy Lerner,DF,GO3,50,65,78
 Zohan,DF,GO2 GO3,44,52,76

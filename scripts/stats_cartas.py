@@ -90,7 +90,7 @@ def main():
         r['bruto'] = brutas(r)
     escalar(filas)
     with open(SALIDA, 'w', newline='') as f:
-        w = csv.DictWriter(f, fieldnames=['juego', 'nombre', 'posicion', 'elemento', 'ATT', 'CTL', 'DEF'], extrasaction='ignore')
+        w = csv.DictWriter(f, fieldnames=['juego', 'orden', 'hex', 'nombre', 'posicion', 'elemento', 'ATT', 'CTL', 'DEF', 'tecnicas'], extrasaction='ignore')
         w.writeheader()
         w.writerows(filas)
     with open(SALIDA_MEDIA, 'w', newline='') as f:
