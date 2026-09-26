@@ -1,0 +1,2271 @@
+juego,equipo,nombre,posicion,elemento,ATT,CTL,DEF,Kick,Body,Control,Guard,Speed,Stamina,Guts
+IE1,Raimon,Mark Evans,PR,tierra,52,77,98,72,72,70,77,68,69,79
+IE1,Raimon,Jack Wallside,DF,tierra,62,73,80,62,68,62,66,49,54,54
+IE1,Raimon,Jim Wraith,DF,bosque,60,62,75,58,53,75,59,53,62,60
+IE1,Raimon,Bobby Shearer,DF,bosque,78,77,97,76,61,72,76,60,72,72
+IE1,Raimon,Tod Ironside,DF,fuego,52,54,64,54,55,53,56,59,56,65
+IE1,Raimon,Nathan Swift,DF,aire,67,80,62,64,58,68,54,76,58,56
+IE1,Raimon,Steve Grim,MC,aire,75,93,73,62,64,71,64,71,71,71
+IE1,Raimon,Tim Saunders,MC,bosque,73,93,59,63,76,61,60,55,48,58
+IE1,Raimon,Sam Kincaid,MC,fuego,84,60,57,71,57,56,56,52,56,76
+IE1,Raimon,Jude Sharp,MC,aire,77,99,84,63,79,79,79,76,76,68
+IE1,Raimon,Maxwell Carson,DL,aire,80,75,50,60,56,78,64,60,56,62
+IE1,Raimon,Kevin Dragonfly,DL,bosque,93,67,47,71,60,59,61,60,64,70
+IE1,Raimon,Axel Blaze,DL,fuego,98,86,51,79,66,76,64,72,68,60
+IE1,Raimon,William Glass,DL,bosque,69,56,40,56,51,68,57,56,53,60
+IE1,Occult,Mask,PR,aire,42,59,88,58,56,70,68,56,60,68
+IE1,Occult,Zombie,PR,tierra,30,42,50,47,46,50,40,51,74,56
+IE1,Occult,Styx,DF,bosque,59,58,60,60,53,60,52,63,65,58
+IE1,Occult,Franky,DF,tierra,49,52,84,55,59,47,70,52,61,48
+IE1,Occult,Undead,DF,fuego,47,58,76,52,58,56,61,56,79,53
+IE1,Occult,Creepy,DF,aire,49,56,66,52,54,57,57,60,54,63
+IE1,Occult,Jiangshi,MC,aire,60,75,51,55,62,60,52,56,61,62
+IE1,Occult,Mummy,MC,bosque,58,63,53,54,52,60,52,62,75,61
+IE1,Occult,Grave,MC,fuego,61,89,49,57,65,60,52,71,56,55
+IE1,Occult,Wolfy,MC,fuego,75,98,57,61,70,77,52,79,69,67
+IE1,Occult,Ghost,MC,bosque,58,54,44,55,50,54,44,48,56,54
+IE1,Occult,Blood,MC,tierra,78,56,48,68,52,52,51,56,62,60
+IE1,Occult,Dollman,DL,bosque,58,48,32,52,53,45,48,49,53,55
+IE1,Occult,Noir,DL,bosque,57,46,33,52,45,48,52,52,58,45
+IE1,Occult,Alien,DL,aire,54,48,32,48,51,51,50,48,55,44
+IE1,Occult,Talisman,DL,bosque,79,71,33,62,64,56,48,60,62,63
+IE1,Wild,Boar,PR,fuego,48,42,87,68,44,44,69,60,62,69
+IE1,Wild,Bullford,PR,fuego,28,45,97,41,68,48,77,31,51,64
+IE1,Wild,Toad,DF,bosque,44,49,53,48,52,48,48,54,57,50
+IE1,Wild,Fishman,DF,bosque,47,59,56,52,64,51,51,51,62,51
+IE1,Wild,Raccoon,DF,bosque,47,50,51,53,53,53,44,51,44,47
+IE1,Wild,Lion,DF,tierra,77,49,81,78,52,47,64,55,69,68
+IE1,Wild,Monkey,MC,aire,56,67,45,54,64,51,48,53,52,54
+IE1,Wild,Chameleon,MC,aire,46,51,49,44,45,45,55,53,60,48
+IE1,Wild,Mouseman,MC,tierra,46,66,43,42,50,52,44,79,54,45
+IE1,Wild,Koala,MC,bosque,52,52,46,52,45,53,51,48,46,49
+IE1,Wild,Chicken,MC,fuego,47,61,46,44,52,56,46,64,67,54
+IE1,Wild,Eagle,MC,aire,72,92,54,61,68,62,52,68,71,68
+IE1,Wild,Panda,DL,fuego,57,48,33,52,51,48,52,52,51,46
+IE1,Wild,Cheetah,DL,aire,80,69,35,63,47,69,55,79,42,47
+IE1,Wild,Gorilla,DL,tierra,96,63,46,78,66,49,64,54,52,67
+IE1,Wild,Snake,DL,bosque,64,70,33,55,63,62,49,55,65,45
+IE1,Brainwashing,Feldt,PR,bosque,53,77,97,75,69,68,76,75,78,76
+IE1,Brainwashing,Under,PR,bosque,29,40,87,44,40,40,69,48,42,70
+IE1,Brainwashing,Waters,DF,bosque,46,47,55,52,48,51,52,45,54,45
+IE1,Brainwashing,Good,DF,bosque,41,46,56,44,44,48,55,44,48,45
+IE1,Brainwashing,Stronger,DF,fuego,41,46,55,44,46,46,52,47,52,52
+IE1,Brainwashing,Marvel,DF,tierra,42,49,53,44,53,52,48,49,50,51
+IE1,Brainwashing,Leading,DF,aire,46,48,52,52,52,44,47,50,52,48
+IE1,Brainwashing,Stiller,MC,aire,53,51,46,53,45,47,52,44,46,53
+IE1,Brainwashing,Oughtry,MC,tierra,55,52,43,55,52,45,45,46,44,48
+IE1,Brainwashing,Tell,MC,bosque,46,53,43,44,53,48,46,45,44,47
+IE1,Brainwashing,Rock,MC,fuego,51,51,44,51,46,46,48,48,47,52
+IE1,Brainwashing,Kind,MC,bosque,49,54,46,49,53,48,51,48,53,46
+IE1,Brainwashing,Buster,MC,fuego,56,52,45,55,46,52,49,48,50,49
+IE1,Brainwashing,Mooney,DL,fuego,59,49,32,53,49,54,50,55,53,46
+IE1,Brainwashing,Seller,DL,aire,61,49,32,55,50,50,49,55,45,46
+IE1,Brainwashing,Turner,DL,fuego,54,47,33,48,48,52,52,44,50,45
+IE1,Otaku,Idol,PR,tierra,41,51,64,60,58,54,55,58,45,67
+IE1,Otaku,Eldorado,PR,fuego,31,53,87,49,63,61,69,43,28,49
+IE1,Otaku,Train,DF,fuego,59,56,58,61,60,53,56,52,41,54
+IE1,Otaku,Vox,DF,aire,44,50,55,48,55,57,51,44,50,47
+IE1,Otaku,Cosplay,DF,tierra,57,52,63,59,52,56,58,56,40,62
+IE1,Otaku,Formby,DF,tierra,51,54,52,54,58,61,45,46,48,51
+IE1,Otaku,Net,DF,bosque,42,54,53,44,62,54,48,44,51,49
+IE1,Otaku,Hero,MC,fuego,74,76,55,62,62,61,55,56,50,71
+IE1,Otaku,Signalman,MC,aire,57,59,48,54,56,55,52,53,48,59
+IE1,Otaku,Novel,MC,bosque,67,63,54,60,55,56,58,61,44,61
+IE1,Otaku,Online,DL,bosque,64,54,43,54,56,56,62,55,44,60
+IE1,Otaku,Custom,DL,aire,69,59,41,58,62,52,61,54,47,59
+IE1,Otaku,Gamer,DL,fuego,72,62,35,58,60,59,52,55,45,69
+IE1,Otaku,Artist,DL,aire,62,54,46,52,56,58,63,53,51,64
+IE1,Otaku,Arcade,DL,bosque,68,53,37,57,57,55,56,52,47,60
+IE1,Royal Academy,Joe King,PR,fuego,51,76,94,72,75,69,72,55,74,60
+IE1,Royal Academy,Bob Carlton,PR,bosque,41,46,61,58,55,63,54,45,62,70
+IE1,Royal Academy,Peter Drent,DF,tierra,74,53,81,71,54,67,64,44,59,62
+IE1,Royal Academy,Ben Simmons,DF,bosque,73,83,80,68,63,72,60,69,70,69
+IE1,Royal Academy,Gus Martin,DF,bosque,77,84,89,76,67,73,67,63,66,63
+IE1,Royal Academy,Alan Master,MC,aire,77,91,77,64,64,72,69,64,62,66
+IE1,Royal Academy,John Bloom,MC,fuego,71,96,76,61,71,67,70,71,54,62
+IE1,Royal Academy,Derek Swing,MC,aire,83,87,64,70,56,76,59,69,60,61
+IE1,Royal Academy,Herman Waldon,MC,aire,87,93,83,76,64,72,79,70,57,69
+IE1,Royal Academy,Barry Potts,MC,aire,53,55,51,53,52,54,56,52,60,44
+IE1,Royal Academy,Cliff Tomlinson,DL,aire,60,56,41,53,60,52,61,54,52,53
+IE1,Royal Academy,Steve Ingham,DL,tierra,72,50,33,61,53,57,52,47,54,46
+IE1,Royal Academy,Jim Lawrenson,DL,aire,63,55,45,54,57,57,63,53,56,55
+IE1,Royal Academy,David Samford,DL,bosque,94,82,54,70,60,78,66,66,67,71
+IE1,Royal Academy,Daniel Hatch,DL,bosque,95,87,53,75,69,68,68,78,61,64
+IE1,Shuriken,Hood,PR,bosque,33,45,81,53,59,44,64,52,55,62
+IE1,Shuriken,Castle,PR,aire,33,49,85,53,60,52,68,52,52,52
+IE1,Shuriken,Bandit,DF,fuego,52,52,65,54,53,57,56,55,58,63
+IE1,Shuriken,Crackshot,DF,tierra,63,61,73,62,61,56,60,55,60,63
+IE1,Shuriken,Hopper,DF,tierra,49,61,76,52,58,62,62,55,61,54
+IE1,Shuriken,Hillfort,DF,aire,53,66,61,55,62,60,53,54,63,61
+IE1,Shuriken,Thunder,DF,tierra,66,65,76,63,60,63,62,54,57,60
+IE1,Shuriken,Cleats,MC,aire,59,79,56,56,61,53,56,69,68,59
+IE1,Shuriken,Spook,MC,aire,60,64,64,56,56,52,63,64,55,62
+IE1,Shuriken,Trops,MC,bosque,64,83,54,58,61,69,55,59,57,54
+IE1,Shuriken,Star,MC,aire,57,67,56,53,63,59,56,47,65,60
+IE1,Shuriken,Hattori,MC,bosque,66,65,45,60,55,59,44,60,60,56
+IE1,Shuriken,Code,MC,tierra,68,63,59,60,56,60,57,54,68,61
+IE1,Shuriken,Samurai,DL,bosque,73,64,43,60,60,60,60,56,60,53
+IE1,Shuriken,Ronin,DL,aire,77,58,35,62,56,56,53,60,54,57
+IE1,Shuriken,Cloak,DL,fuego,61,70,38,52,61,61,54,60,68,55
+IE1,Farm,Greeny,PR,fuego,34,47,94,50,53,60,73,53,64,77
+IE1,Farm,Mower,PR,tierra,29,45,92,46,56,41,72,62,61,60
+IE1,Farm,Sherman,DF,fuego,46,62,96,49,60,62,79,52,70,56
+IE1,Farm,Hillvalley,DF,tierra,40,57,95,40,56,52,79,63,66,53
+IE1,Farm,Lively,DF,bosque,43,51,89,47,57,44,73,56,63,54
+IE1,Farm,Hayseed,DF,tierra,41,54,95,42,56,52,77,58,68,61
+IE1,Farm,Grower,DF,tierra,48,50,93,53,53,44,76,61,68,61
+IE1,Farm,Nevis,DF,aire,47,54,86,52,56,51,70,59,64,53
+IE1,Farm,Work,DF,bosque,42,54,88,44,57,54,70,54,65,60
+IE1,Farm,Howells,DF,aire,44,60,92,48,62,54,75,54,60,56
+IE1,Farm,Milky,MC,tierra,46,58,71,40,54,54,68,56,63,56
+IE1,Farm,Dawson,MC,aire,64,66,81,57,55,56,75,64,66,76
+IE1,Farm,Spray,MC,fuego,82,82,77,71,70,46,72,62,66,71
+IE1,Farm,Mother,MC,bosque,47,63,80,42,55,63,76,53,60,55
+IE1,Farm,Roast,MC,tierra,74,74,78,63,58,52,73,71,61,70
+IE1,Farm,Muffs,DL,bosque,70,76,57,56,62,62,74,66,63,72
+IE1,Kirkwood,John Neville,PR,fuego,52,50,96,78,62,54,79,48,51,44
+IE1,Kirkwood,Simon Calier,PR,bosque,30,40,85,50,41,46,71,45,48,47
+IE1,Kirkwood,Malcom Night,DF,fuego,68,88,97,63,76,68,78,67,64,70
+IE1,Kirkwood,Ricky Clover,DF,tierra,49,57,55,53,52,56,52,67,45,54
+IE1,Kirkwood,Alfred Meenan,DF,bosque,59,53,67,61,55,55,60,55,53,52
+IE1,Kirkwood,Dan Mirthful,DF,bosque,55,63,74,59,70,49,65,46,51,52
+IE1,Kirkwood,Eren Middleton,DF,tierra,44,48,53,48,44,55,47,55,54,52
+IE1,Kirkwood,Peter Wells,DF,aire,50,48,51,55,52,52,46,47,45,48
+IE1,Kirkwood,Zachary Moore,MC,bosque,55,78,49,52,60,60,52,63,53,58
+IE1,Kirkwood,Toby Damian,MC,aire,57,61,52,54,56,55,56,57,56,55
+IE1,Kirkwood,York Nashmith,MC,bosque,54,70,60,52,62,57,61,54,52,56
+IE1,Kirkwood,Brody Gloom,MC,tierra,55,51,48,54,46,48,53,45,52,54
+IE1,Kirkwood,Victor Talis,MC,bosque,56,54,44,55,52,52,46,47,45,48
+IE1,Kirkwood,Tyler Murdock,DL,tierra,97,78,39,79,64,68,56,60,59,54
+IE1,Kirkwood,Thomas Murdock,DL,aire,89,84,45,68,70,65,60,64,62,61
+IE1,Kirkwood,Marvin Murdock,DL,fuego,88,70,50,68,61,61,66,60,60,61
+IE1,Zeus,Icarus,PR,aire,51,63,98,71,67,66,79,44,71,64
+IE1,Zeus,Apollo,DF,bosque,78,85,90,79,79,62,73,53,48,55
+IE1,Zeus,Hephestus,DF,fuego,64,86,91,60,64,78,69,70,64,62
+IE1,Zeus,Ares,DF,tierra,74,87,92,71,79,70,72,56,57,60
+IE1,Zeus,Dionysus,DF,aire,65,76,96,62,68,66,79,50,53,64
+IE1,Zeus,Heracles,DF,fuego,67,78,98,63,60,66,79,69,71,65
+IE1,Zeus,Chronos,DF,bosque,46,78,96,48,66,62,79,63,61,66
+IE1,Zeus,Artemis,MC,aire,74,84,71,62,66,76,67,44,45,58
+IE1,Zeus,Medusa,MC,tierra,83,98,75,69,78,79,67,63,62,62
+IE1,Zeus,Hera,MC,fuego,51,89,73,48,68,60,67,64,70,60
+IE1,Zeus,Hermes,MC,bosque,62,91,75,56,69,69,68,57,62,62
+IE1,Zeus,Athena,DL,bosque,81,88,50,60,76,64,63,71,64,77
+IE1,Zeus,Demeter,DL,fuego,98,85,44,77,64,79,56,68,63,68
+IE1,Zeus,Achilles,DL,tierra,98,82,35,78,69,61,50,65,60,70
+IE1,Raimon Old Boys,Hairtown,DF,aire,74,83,80,70,65,65,62,73,60,71
+IE1,Raimon Old Boys,Steaky,DF,tierra,68,88,91,62,75,78,68,68,67,68
+IE1,Raimon Old Boys,MacHines,DF,fuego,73,88,94,68,68,75,71,76,68,73
+IE1,Raimon Old Boys,Foreman,MC,tierra,87,95,72,76,72,64,64,68,72,70
+IE1,Raimon Old Boys,Butler,MC,bosque,85,97,79,72,71,69,70,74,69,78
+IE1,Raimon Old Boys,Nathaniel,MC,bosque,77,98,81,64,73,73,75,71,66,65
+IE1,Raimon Old Boys,Suffolk,MC,fuego,84,96,78,71,68,70,69,77,68,68
+IE1,Raimon Old Boys,Tailor,MC,tierra,86,98,82,73,72,76,76,79,72,70
+IE1,Raimon Old Boys,Gladstone,MC,fuego,82,94,66,68,66,68,60,72,63,69
+IE1,Raimon Old Boys,Heart,DL,aire,78,81,49,60,62,66,63,72,65,64
+IE1,Raimon Old Boys,Poe,DL,bosque,88,87,56,64,68,79,70,69,64,69
+IE1,Raimon Old Boys,Barista,DL,aire,83,87,58,62,72,72,76,65,72,65
+IE1,Raimon Old Boys,Builder,DL,fuego,91,82,47,69,69,64,60,63,77,64
+IE1,Street Sally's,Yuma,PR,tierra,28,41,58,44,44,43,56,49,46,45
+IE1,Street Sally's,Holmes,PR,bosque,28,40,77,34,28,34,64,39,31,77
+IE1,Street Sally's,Daltry,DF,bosque,41,46,53,44,45,49,51,49,40,43
+IE1,Street Sally's,Lovely,DF,aire,43,46,50,49,44,44,44,44,51,44
+IE1,Street Sally's,Fielding,DF,bosque,41,47,53,44,49,48,51,48,44,40
+IE1,Street Sally's,Knuckles,DF,fuego,56,47,50,60,52,51,41,41,48,49
+IE1,Street Sally's,Crumb,DF,tierra,40,46,50,40,44,44,43,44,48,45
+IE1,Street Sally's,Stager,DF,bosque,40,47,54,40,49,44,51,49,50,51
+IE1,Street Sally's,Sheldon,DF,tierra,40,46,54,42,48,45,53,42,40,43
+IE1,Street Sally's,Squirrel,MC,aire,46,51,43,43,44,50,45,47,45,44
+IE1,Street Sally's,Sandstone,MC,fuego,53,54,44,54,58,41,48,45,46,51
+IE1,Street Sally's,Riversong,MC,tierra,45,52,44,40,50,50,48,40,42,47
+IE1,Street Sally's,Prentice,DL,tierra,54,46,31,46,46,56,44,42,48,49
+IE1,Street Sally's,Baughan,DL,aire,52,45,31,45,41,46,48,40,51,44
+IE1,Inazuma KFC,Herman Muller,PR,aire,28,41,52,40,50,44,47,44,46,45
+IE1,Inazuma KFC,Bart Grantham,PR,bosque,28,40,79,38,35,29,66,28,29,64
+IE1,Inazuma KFC,Izzy Island,DF,bosque,40,45,50,42,40,48,41,41,48,44
+IE1,Inazuma KFC,Robert Silver,DF,aire,42,46,51,46,41,51,44,41,48,44
+IE1,Inazuma KFC,Sothern Newman,DF,tierra,42,46,63,45,44,48,60,43,49,47
+IE1,Inazuma KFC,Keth Claus,DF,aire,40,46,50,41,41,48,40,60,40,46
+IE1,Inazuma KFC,Irwin Hall,MC,bosque,45,51,43,40,48,51,43,41,40,41
+IE1,Inazuma KFC,Mitch Grumble,MC,aire,48,51,44,48,48,43,48,40,46,41
+IE1,Inazuma KFC,Taylor Higgins,MC,aire,46,51,44,44,43,50,48,40,48,40
+IE1,Inazuma KFC,Michael Riverside,MC,tierra,51,51,45,51,46,50,49,40,43,48
+IE1,Inazuma KFC,Jamie Cool,MC,aire,48,51,45,47,40,44,48,52,52,51
+IE1,Inazuma KFC,Karl Blue,MC,tierra,47,52,43,46,48,47,44,51,46,48
+IE1,Inazuma KFC,Theakston Plank,DL,aire,54,48,30,48,50,42,45,58,41,51
+IE1,Inazuma KFC,Hans Randall,DL,fuego,74,45,32,64,40,40,51,48,56,44
+IE1,Inazuma KFC,Ken Cake,DL,tierra,54,45,30,49,40,40,40,51,49,46
+IE1,Umbrella,Ingram,PR,fuego,30,61,96,44,71,52,74,47,57,78
+IE1,Umbrella,Banker,PR,aire,33,41,79,50,45,51,63,50,45,75
+IE1,Umbrella,Sefton,DF,aire,50,56,60,53,49,61,54,67,54,55
+IE1,Umbrella,Caperock,DF,aire,48,49,51,54,50,46,45,58,48,53
+IE1,Umbrella,Strike,DF,fuego,45,53,54,48,50,64,47,56,51,53
+IE1,Umbrella,Chops,DF,bosque,60,62,51,62,63,55,44,53,55,49
+IE1,Umbrella,Porter,DF,tierra,41,48,63,45,56,44,60,44,52,46
+IE1,Umbrella,Molehill,DF,aire,50,53,54,53,48,68,48,55,49,46
+IE1,Umbrella,Most,DF,tierra,68,70,86,65,60,60,68,63,61,64
+IE1,Umbrella,Chaney,MC,bosque,48,55,43,46,48,48,45,66,48,49
+IE1,Umbrella,Rhymes,MC,aire,49,52,47,47,48,52,53,46,45,48
+IE1,Umbrella,Tunk,MC,fuego,56,54,57,55,53,44,62,55,47,54
+IE1,Umbrella,Morefield,MC,aire,68,58,50,59,56,58,52,48,52,72
+IE1,Umbrella,Scott,MC,bosque,46,54,45,44,52,47,50,55,52,44
+IE1,Umbrella,Cyborg,DL,bosque,58,55,35,49,55,63,51,51,56,65
+IE1,Top-Left Panel,Balt Decker,DF,aire,53,51,71,56,46,47,60,75,61,67
+IE1,Top-Left Panel,Art Pendragon,PR,aire,39,59,79,60,65,46,63,63,71,59
+IE1,Top-Left Panel,Nev Erin,DL,aire,81,88,49,60,70,71,61,76,68,71
+IE1,Top-Left Panel,Christian Dear,DF,bosque,61,73,80,59,64,76,64,44,52,55
+IE1,Top-Left Panel,Jeeves Dropper,MC,aire,48,82,50,45,61,58,53,68,60,54
+IE1,Top-Left Panel,Iggy Loyaller,DL,bosque,73,50,44,61,62,53,62,34,64,53
+IE1,Top-Left Panel,Spike Needle,PR,aire,28,40,64,42,32,39,60,71,59,54
+IE1,Top-Left Panel,Chaz Biggins,DL,tierra,71,49,42,63,61,28,63,57,64,56
+IE1,Top-Left Panel,Macky Valley,DL,aire,71,50,31,58,59,45,44,47,52,78
+IE1,Top-Left Panel,Percy Coldstair,DF,bosque,42,67,60,42,59,56,52,65,64,63
+IE1,Top-Left Panel,Hank Halberd,PR,bosque,47,48,74,66,62,61,61,37,62,55
+IE1,Top-Left Panel,Don Keys,DL,fuego,52,45,33,45,36,32,53,64,55,56
+IE1,Top-Left Panel,Berty Adman,PR,tierra,33,53,67,52,52,56,59,71,64,55
+IE1,Top-Left Panel,Joe Straiter,PR,fuego,36,46,90,56,53,52,71,58,58,59
+IE1,Top-Left Panel,Rocky Shears,PR,tierra,39,59,97,58,58,60,79,63,60,60
+IE1,Top-Left Panel,Sham Spike,MC,tierra,73,60,53,64,58,52,56,55,58,58
+IE1,Top-Left Panel,Colin Salts,DL,bosque,72,46,30,63,44,46,41,44,48,41
+IE1,Top-Left Panel,Tony Hacker,MC,bosque,58,90,78,52,60,67,69,76,75,64
+IE1,Top Panel,Andrew Meikle,PR,fuego,31,57,54,48,56,61,48,63,53,62
+IE1,Top Panel,Arthur Dox,DL,tierra,69,62,47,60,67,40,66,60,68,55
+IE1,Top Panel,Len Scapp,PR,tierra,28,41,60,41,36,33,56,74,56,63
+IE1,Top Panel,Penfold Pulper,DL,aire,52,62,43,41,52,59,59,71,64,62
+IE1,Top Panel,Carl Gnu,DL,bosque,51,62,46,42,55,53,62,71,72,54
+IE1,Top Panel,Scean Spector,DF,aire,42,45,57,47,30,28,56,62,56,60
+IE1,Top Panel,Bo Ling,DF,bosque,44,72,58,45,55,79,50,56,57,52
+IE1,Top Panel,Troy Trucker,DL,aire,85,58,44,66,53,63,58,60,79,52
+IE1,Top Panel,Drew Straitedge,PR,tierra,30,41,50,49,46,44,44,46,42,47
+IE1,Top Panel,Bos Horne,DF,tierra,59,63,64,61,61,54,56,59,68,55
+IE1,Top Panel,Pete Grimes,PR,fuego,29,46,50,44,53,60,41,52,62,52
+IE1,Top Panel,Homer Pidgeon,DF,fuego,58,64,61,60,60,56,52,60,77,56
+IE1,Top Panel,Kit Chapman,DL,fuego,89,58,37,69,59,57,54,53,62,61
+IE1,Top Panel,Joe Nalist,PR,bosque,44,42,85,63,53,55,68,38,68,58
+IE1,Top Panel,Davy Johns,DL,aire,82,51,37,68,51,41,60,71,56,40
+IE1,Top Panel,Phil Anthropic,DL,tierra,98,88,58,77,77,78,78,68,43,75
+IE1,Top Panel,Florian Hutter,MC,fuego,58,58,53,55,54,52,56,59,62,57
+IE1,Top Panel,Peter Malus,MC,tierra,70,77,50,63,63,56,53,60,61,53
+IE1,Top Panel,Dom Ittory,PR,tierra,32,50,51,51,52,60,44,62,62,52
+IE1,Top Panel,Sol Crater,DL,fuego,61,49,37,53,52,52,56,52,57,56
+IE1,Top Panel,Dex Territy,PR,tierra,40,47,56,60,52,58,52,59,56,56
+IE1,Top-Right Panel,Ramsey Faroe,PR,fuego,28,46,90,37,77,32,71,30,79,34
+IE1,Top-Right Panel,Tim Piece,DL,aire,55,69,43,47,61,54,60,66,60,62
+IE1,Top-Right Panel,Hike Basher,DL,bosque,74,63,38,60,60,54,56,61,54,63
+IE1,Top-Right Panel,Madison Cabinet,PR,fuego,28,49,50,40,52,61,42,60,63,57
+IE1,Top-Right Panel,Viv Grey,DF,fuego,50,48,51,55,57,42,44,47,61,56
+IE1,Top-Right Panel,Dan Drobium,DL,bosque,61,66,36,52,60,62,53,56,62,57
+IE1,Top-Right Panel,Walter Mendip,DL,aire,71,49,33,61,62,40,51,42,54,59
+IE1,Top-Right Panel,Cal Cooler,DL,bosque,88,58,45,68,56,61,60,55,69,57
+IE1,Top-Right Panel,Shirley Ladyman,DF,bosque,45,45,56,51,31,30,53,68,60,62
+IE1,Top-Right Panel,Callan Trens,DL,fuego,78,62,47,62,61,57,65,55,52,57
+IE1,Top-Right Panel,Grant Slammer,DL,aire,57,62,31,48,57,63,43,57,54,58
+IE1,Top-Right Panel,Pascal Richter,MC,tierra,54,69,45,51,60,62,45,52,60,57
+IE1,Top-Right Panel,Florian Selles,DL,bosque,60,66,44,52,60,59,63,59,52,52
+IE1,Top-Right Panel,Oscar Esher,PR,aire,28,40,50,35,31,28,36,38,32,32
+IE1,Top-Right Panel,Perry Pincher,DL,tierra,70,56,35,58,56,55,52,59,63,61
+IE1,Top-Right Panel,Bill Phee,PR,bosque,49,46,71,70,52,52,60,60,69,60
+IE1,Top-Right Panel,Sonny Rentman,DL,tierra,67,82,52,56,71,60,69,62,63,57
+IE1,Top-Right Panel,Rod Entwhistle,PR,aire,47,45,87,66,58,56,68,39,79,60
+IE1,Top-Right Panel,Alec Dote,PR,aire,29,55,50,41,55,64,40,60,58,60
+IE1,Top-Right Panel,Pay Chance,PR,fuego,38,49,68,59,56,53,59,60,56,56
+IE1,Left Panel,John Corder,DL,fuego,67,75,43,56,63,62,61,62,56,52
+IE1,Left Panel,Carey Ginu,DL,bosque,51,69,45,40,52,60,62,78,55,60
+IE1,Left Panel,Jack Trumper,DL,aire,51,68,32,40,58,68,44,57,57,52
+IE1,Left Panel,Colin Lection,DF,fuego,52,52,69,56,57,52,60,52,62,52
+IE1,Left Panel,Conor Abley,PR,fuego,46,46,85,64,58,62,67,38,78,62
+IE1,Left Panel,Rick Hatter,DL,fuego,77,75,50,60,61,64,65,64,62,64
+IE1,Left Panel,Percy Stent,PR,fuego,53,69,79,76,63,60,62,68,69,67
+IE1,Left Panel,Luke Raffles,MC,bosque,70,72,51,62,59,56,52,63,68,60
+IE1,Left Panel,Trey Spotter,MC,aire,49,59,47,47,54,61,51,51,44,52
+IE1,Left Panel,Hollis Ticure,DL,fuego,68,56,41,58,60,53,59,52,69,52
+IE1,Left Panel,Dash Dotter,MC,aire,54,66,50,51,52,61,52,65,62,58
+IE1,Left Panel,Guy Dance,MC,tierra,47,74,66,42,58,63,62,60,67,55
+IE1,Left Panel,Brendan Branch,PR,tierra,29,63,73,44,58,60,61,68,56,55
+IE1,Left Panel,Slim Lanky,PR,aire,28,40,63,44,36,35,58,66,55,63
+IE1,Left Panel,Bob Whittle,DL,aire,78,86,50,60,68,70,64,70,64,62
+IE1,Left Panel,Ringo Stagg,DF,aire,60,70,83,60,65,57,67,56,56,63
+IE1,Left Panel,Sam O'Reilly,MC,fuego,69,52,44,63,54,44,44,41,55,56
+IE1,Left Panel,Theo Broma,DF,fuego,46,48,54,52,54,49,49,41,55,53
+IE1,Left Panel,Gwyn Penn,PR,aire,33,62,51,49,57,71,43,58,53,61
+IE1,Left Panel,Thor Toise,MC,tierra,52,54,43,52,54,48,41,50,59,53
+IE1,Left Panel,Nick Yergrub,DL,aire,77,68,57,62,70,48,76,52,76,62
+IE1,Left Panel,Don Snow,PR,fuego,41,45,80,60,58,60,64,35,64,61
+IE1,Left Panel,Walter Card,DL,tierra,50,46,30,32,30,79,33,39,36,35
+IE1,Middle Panel,Sonny Welkin,MC,fuego,77,56,61,68,62,54,60,35,68,54
+IE1,Middle Panel,Joe Lamkin,MC,bosque,54,73,50,52,60,56,53,62,58,56
+IE1,Middle Panel,Bud Hunter,PR,bosque,30,55,56,47,56,59,52,63,64,56
+IE1,Middle Panel,Crane Clawson,MC,aire,68,79,71,60,64,60,68,56,52,61
+IE1,Middle Panel,Ernest Byer,DL,fuego,66,57,42,56,57,52,57,61,78,61
+IE1,Middle Panel,Thomas Cott,PR,aire,33,55,63,53,59,53,56,63,59,56
+IE1,Middle Panel,Bo Luger,DL,bosque,96,53,38,78,56,54,56,54,58,61
+IE1,Middle Panel,Rory Polisher,PR,fuego,31,58,51,47,59,61,43,58,61,62
+IE1,Middle Panel,Willow Withers,MC,bosque,48,66,58,42,56,59,55,60,62,76
+IE1,Middle Panel,Stu Perstitious (Lucky),DF,fuego,41,71,51,40,56,69,40,63,53,53
+IE1,Middle Panel,Hal Leeward,MC,bosque,61,95,58,55,71,75,56,58,63,56
+IE1,Middle Panel,Den Taligene,MC,fuego,83,53,45,72,49,50,48,50,40,70
+IE1,Middle Panel,Isaiah Shutt,DL,tierra,80,69,41,64,68,54,60,52,56,52
+IE1,Middle Panel,Sandy Hope,DF,tierra,70,48,87,68,58,52,70,32,60,63
+IE1,Middle Panel,Gill O'Mend,MC,fuego,60,68,51,56,60,56,55,57,52,57
+IE1,Middle Panel,Tim Mittus,DF,tierra,71,57,67,68,56,62,56,53,65,60
+IE1,Middle Panel,Vince Bull,MC,aire,58,64,60,55,56,52,60,64,64,57
+IE1,Middle Panel,Ches Nutcracracker (Gnashers),PR,fuego,52,78,94,71,71,69,71,78,28,70
+IE1,Middle Panel,Cody Barani,PR,tierra,29,40,66,47,35,32,61,68,61,52
+IE1,Right Panel,John Demi,DF,tierra,57,72,89,59,62,60,71,62,60,57
+IE1,Right Panel,Bud Dahman,DL,bosque,62,49,32,54,56,51,48,43,59,54
+IE1,Right Panel,Les Tarrant,PR,aire,32,45,52,52,63,40,44,47,53,56
+IE1,Right Panel,Buck Teachey,DF,tierra,50,62,68,54,60,54,60,60,52,56
+IE1,Right Panel,Monty Burrows,PR,tierra,28,41,50,29,32,65,38,60,57,64
+IE1,Right Panel,Ryder Wheeling,DF,tierra,55,49,51,60,55,49,44,48,56,49
+IE1,Right Panel,Wes Abbey,DL,bosque,89,77,46,68,64,64,61,62,66,60
+IE1,Right Panel,Benedict Eggers,DF,bosque,66,51,90,64,60,58,71,36,65,62
+IE1,Right Panel,Nick Savers,PR,aire,51,65,94,71,70,68,72,40,76,65
+IE1,Right Panel,Sly Winker,DF,aire,42,45,64,48,34,28,62,72,52,52
+IE1,Right Panel,Manny Carbs,DF,tierra,47,60,52,50,55,68,42,53,59,54
+IE1,Right Panel,Jonny Strutt,DL,bosque,50,49,34,40,48,53,55,57,47,46
+IE1,Right Panel,Arthur Myrddin,DF,fuego,59,62,73,60,58,63,61,55,60,54
+IE1,Right Panel,Aaron Peacy,PR,tierra,28,56,67,42,54,56,59,71,52,52
+IE1,Right Panel,Hank Shortman,MC,aire,51,66,45,47,52,74,43,52,61,52
+IE1,Right Panel,Dylan Swan,DL,tierra,51,45,30,44,40,40,43,49,41,47
+IE1,Right Panel,Andy Sided,DF,tierra,63,75,82,63,66,60,67,59,59,52
+IE1,Right Panel,Michael Angeloni,PR,aire,29,69,53,40,60,74,46,60,56,61
+IE1,Right Panel,Teagen Brewer,DF,bosque,43,47,66,47,42,40,60,67,57,56
+IE1,Right Panel,Seymor Senary,DL,fuego,53,61,38,45,55,52,56,71,62,59
+IE1,Right Panel,Armstrong Peck,PR,fuego,34,42,62,53,48,54,57,42,54,57
+IE1,Right Panel,Colin Eager,DL,tierra,58,51,32,52,60,45,49,48,52,56
+IE1,Bottom-Left Panel,Lon Grainger,PR,fuego,40,48,56,60,52,55,52,63,72,60
+IE1,Bottom-Left Panel,Tom Felix,MC,aire,60,90,68,54,60,71,63,71,61,59
+IE1,Bottom-Left Panel,Fred Makepeace,DF,bosque,40,47,85,40,63,29,76,42,55,40
+IE1,Bottom-Left Panel,Hunter Glory,MC,bosque,72,89,76,62,70,63,71,56,55,60
+IE1,Bottom-Left Panel,Shay Chez,MC,tierra,61,86,62,56,66,59,61,63,52,63
+IE1,Bottom-Left Panel,Preston Gumbs,DL,aire,77,57,32,61,62,55,45,48,63,63
+IE1,Bottom-Left Panel,Buster Clout,DF,fuego,61,72,87,60,62,63,69,59,56,63
+IE1,Bottom-Left Panel,Sam Firman,PR,fuego,40,47,63,60,54,60,57,52,67,52
+IE1,Bottom-Left Panel,Cruz Ligner,MC,tierra,63,59,59,59,53,52,60,62,59,58
+IE1,Bottom-Left Panel,Olly Popman,MC,aire,79,75,59,67,63,61,58,53,60,62
+IE1,Bottom-Left Panel,Shemmy Ramis,MC,tierra,66,77,62,60,60,60,60,62,63,56
+IE1,Bottom-Left Panel,Rab Acus,DL,aire,56,70,34,48,63,53,52,64,57,58
+IE1,Bottom-Left Panel,Ryder Waverly,MC,fuego,49,50,58,49,39,33,62,60,62,56
+IE1,Bottom-Left Panel,Adam Nesiac,DF,tierra,69,73,93,68,70,55,76,52,61,55
+IE1,Bottom-Left Panel,Tosh Coach,DF,tierra,40,52,84,34,70,39,78,37,32,32
+IE1,Bottom-Left Panel,Max Bright,MC,aire,50,52,49,50,44,41,55,67,52,58
+IE1,Bottom-Left Panel,Harry Harper,PR,aire,29,49,68,43,52,60,60,60,56,52
+IE1,Bottom-Left Panel,Moses Pumper,DL,fuego,76,68,51,63,67,46,70,60,68,54
+IE1,Bottom-Left Panel,Phil O'Biblist,MC,fuego,76,54,70,65,58,60,67,30,52,61
+IE1,Bottom-Left Panel,Onslow Ball,DF,bosque,54,72,86,58,69,47,70,61,63,60
+IE1,Bottom-Left Panel,Django Keyes,PR,aire,28,60,95,43,76,46,76,42,38,41
+IE1,Bottom-Left Panel,Cory Andish,DL,bosque,69,74,50,59,70,47,69,62,62,57
+IE1,Bottom Panel,Winston Windfall,MC,bosque,50,54,58,50,48,40,62,68,58,53
+IE1,Bottom Panel,Trey Dalbum,DL,bosque,58,47,33,52,54,41,49,45,62,60
+IE1,Bottom Panel,Mark Tinney,MC,tierra,66,61,49,60,58,56,53,52,53,60
+IE1,Bottom Panel,Chaz Anover,MC,bosque,54,70,59,53,62,53,61,58,56,53
+IE1,Bottom Panel,Theo Riser,MC,fuego,46,60,62,42,60,60,64,43,44,48
+IE1,Bottom Panel,Rob Zervatory,DL,bosque,86,55,39,68,52,58,57,62,63,52
+IE1,Bottom Panel,Rob Ottman,PR,aire,38,45,53,58,52,55,48,54,54,58
+IE1,Bottom Panel,Glen Garry,MC,aire,48,53,43,48,51,44,44,51,48,40
+IE1,Bottom Panel,Gauge Diven,DF,fuego,51,66,72,54,61,59,61,57,55,55
+IE1,Bottom Panel,Al Mannack,DF,tierra,41,66,77,40,56,63,63,63,60,55
+IE1,Bottom Panel,Pica Vellosum,DL,tierra,72,53,39,59,56,56,56,52,60,63
+IE1,Bottom Panel,Bramley Cox,DL,aire,82,67,52,64,62,54,71,61,52,60
+IE1,Bottom Panel,Rufus Judge,DL,fuego,61,53,43,52,58,52,61,52,52,63
+IE1,Bottom Panel,Adam Icklock,PR,fuego,28,40,52,45,44,42,48,42,42,44
+IE1,Bottom Panel,Creed Wrighter,DL,bosque,65,56,35,55,56,58,53,56,60,53
+IE1,Bottom Panel,Barry Strerr,MC,aire,47,75,47,41,63,61,48,53,62,61
+IE1,Bottom Panel,Finn Carper,PR,tierra,42,42,70,62,52,49,60,42,63,57
+IE1,Bottom Panel,Guy Forker,DF,fuego,44,47,53,50,50,44,51,48,44,46
+IE1,Bottom Panel,Toby Patient,DF,bosque,42,68,64,44,57,55,60,71,32,58
+IE1,Bottom-Right Panel,Dec Orum,DL,bosque,91,66,42,70,56,63,56,63,74,60
+IE1,Bottom-Right Panel,Bill Looney,DF,bosque,50,78,77,52,61,72,63,61,53,52
+IE1,Bottom-Right Panel,Pete Sadow,MC,fuego,46,84,64,40,62,52,61,76,72,60
+IE1,Bottom-Right Panel,Benny Factor,PR,fuego,36,55,64,56,61,54,56,58,63,58
+IE1,Bottom-Right Panel,Cole Easteroll,DL,bosque,50,47,30,40,51,48,42,45,49,40
+IE1,Bottom-Right Panel,Clark Roach,MC,tierra,76,53,61,66,54,57,60,36,63,56
+IE1,Bottom-Right Panel,Connor Bation,DL,bosque,64,49,30,55,59,45,41,44,56,61
+IE1,Bottom-Right Panel,Kevin Boardman,PR,aire,29,67,51,41,60,75,42,56,61,62
+IE1,Bottom-Right Panel,Simon Stryker,PR,bosque,30,58,53,45,60,61,46,56,59,60
+IE1,Bottom-Right Panel,Rory Circles,MC,tierra,47,50,51,45,37,36,55,62,63,63
+IE1,Bottom-Right Panel,Nick Turine,DF,bosque,72,57,77,70,62,59,63,44,64,53
+IE1,Bottom-Right Panel,Jacob Grimley,DL,aire,87,49,34,69,58,44,51,44,62,62
+IE1,Bottom-Right Panel,Tim Crochett,DF,aire,48,70,87,52,62,57,70,62,62,53
+IE1,Bottom-Right Panel,Will Bayeux,PR,tierra,40,51,74,61,57,55,62,58,55,52
+IE1,Bottom-Right Panel,Norm Drilling,DL,fuego,67,53,39,57,53,54,58,60,57,54
+IE1,Bottom-Right Panel,Al Chemmy,DF,fuego,72,80,81,69,68,60,65,64,62,60
+IE1,Bottom-Right Panel,Braden Bakewell,DL,tierra,92,46,31,76,33,39,48,70,40,44
+IE1,Bottom-Right Panel,Dexter Raleigh,DF,tierra,42,45,63,46,34,35,59,69,55,60
+IE1,Bottom-Right Panel,Gary Osoto,DF,aire,44,73,63,48,60,57,56,71,61,53
+IE1,Bottom-Right Panel,Spike Clutcher,DL,aire,61,53,35,53,53,53,54,60,55,56
+IE1,Bottom-Right Panel,Carter Nightly,DF,bosque,71,81,76,68,65,63,61,68,60,63
+IE1,Bottom-Right Panel,Scot Enguard,DF,tierra,68,71,76,65,60,64,60,60,62,65
+IE1,Bottom-Right Panel,Max Hurt,PR,fuego,30,59,73,45,59,52,60,69,65,63
+IE1,Bottom-Right Panel,Olly Gammy,MC,tierra,53,69,45,51,68,50,44,48,69,66
+IE1,Scouting by name,Edward Albion,PR,tierra,43,70,65,60,60,69,56,68,62,61
+IE1,Scouting by name,Stu Born,PR,fuego,38,42,53,60,56,40,48,46,56,52
+IE1,Scouting by name,Kevin Doors,PR,aire,50,72,92,70,66,68,71,62,63,63
+IE1,Scouting by name,Hugh Dyer,PR,tierra,31,62,57,48,56,61,52,70,71,60
+IE1,Scouting by name,Marv Errick,PR,fuego,52,66,96,74,71,64,76,43,68,60
+IE1,Scouting by name,Alfie Fine,PR,bosque,46,44,86,66,52,52,69,50,68,57
+IE1,Scouting by name,Randolf Finn,PR,tierra,47,67,66,66,63,63,56,63,68,63
+IE1,Scouting by name,Rex George,PR,aire,49,70,76,68,68,60,60,62,67,66
+IE1,Scouting by name,Den Hidden,PR,tierra,52,51,95,73,60,64,76,44,79,60
+IE1,Scouting by name,Trey Hugger,PR,fuego,28,61,94,36,73,60,73,35,28,58
+IE1,Scouting by name,Will Noble,PR,bosque,30,43,50,48,48,54,41,52,48,45
+IE1,Scouting by name,Joe Nalist,PR,bosque,44,42,85,63,53,55,68,38,68,58
+IE1,Scouting by name,Billy Nomates,PR,bosque,53,54,96,76,64,64,77,40,76,65
+IE1,Scouting by name,Sly O'Hands,PR,aire,41,74,98,56,72,79,79,45,61,69
+IE1,Scouting by name,Ort Omaton,PR,fuego,44,61,69,63,54,61,60,72,70,53
+IE1,Scouting by name,Jay Pan,PR,tierra,46,61,65,64,79,48,52,36,52,77
+IE1,Scouting by name,Oscar Petty,PR,fuego,53,66,94,76,71,63,70,44,78,82
+IE1,Scouting by name,Sascha Powder,PR,fuego,31,40,66,51,36,33,60,68,56,60
+IE1,Scouting by name,Jen Quibble,PR,tierra,35,57,91,56,67,40,70,62,67,58
+IE1,Scouting by name,Ace Server,PR,aire,53,70,98,76,69,63,78,56,77,68
+IE1,Scouting by name,Shaun Staid,PR,aire,29,69,74,43,61,53,61,79,77,56
+IE1,Scouting by name,Griff Strummer,PR,aire,41,47,70,60,52,60,60,55,57,57
+IE1,Scouting by name,Nick Swagg,PR,fuego,50,75,82,68,69,71,64,64,64,60
+IE1,Scouting by name,Les Tarrant,PR,aire,32,45,52,52,63,40,44,47,53,56
+IE1,Scouting by name,Tim Toppel,PR,bosque,50,70,74,69,65,64,60,64,69,61
+IE1,Scouting by name,Boe Tyer,PR,fuego,32,57,57,49,59,65,51,53,63,62
+IE1,Scouting by name,Julius Vernon,PR,tierra,52,40,93,77,45,44,76,39,51,48
+IE1,Scouting by name,Rainier Welkin,PR,fuego,31,63,95,48,60,68,76,56,61,52
+IE1,Scouting by name,Gerry Attrick,DF,tierra,56,64,85,60,65,44,70,62,60,60
+IE1,Scouting by name,Pascal Blaise,DF,bosque,46,68,69,49,56,60,61,68,45,57
+IE1,Scouting by name,Scot Chopper,DF,bosque,43,45,67,48,28,30,62,70,59,56
+IE1,Scouting by name,Dan Dandy,DF,aire,60,48,77,61,43,44,63,68,65,68
+IE1,Scouting by name,Beau Fort,DF,aire,44,50,65,48,48,45,60,68,52,54
+IE1,Scouting by name,Jack Frosty,DF,aire,69,84,84,65,70,64,65,67,60,68
+IE1,Scouting by name,Shaun Imago,DF,aire,40,45,57,42,36,30,55,60,60,60
+IE1,Scouting by name,Sirley Ladyman,DF,bosque,45,45,56,51,31,30,53,68,60,62
+IE1,Scouting by name,Doug Lee,DF,fuego,41,45,57,44,36,30,55,70,62,57
+IE1,Scouting by name,Scout Messenger,DF,bosque,70,68,65,69,61,56,58,63,56,52
+IE1,Scouting by name,Sam Murray,DF,aire,68,47,87,67,54,52,69,35,68,59
+IE1,Scouting by name,Drew Reiner,DF,tierra,70,85,87,66,71,70,66,62,68,63
+IE1,Scouting by name,Reg Thrift,DF,tierra,43,70,75,45,56,54,63,77,53,60
+IE1,Scouting by name,Dan Vega,DF,bosque,70,77,76,66,64,62,60,64,62,68
+IE1,Scouting by name,Walter Walken,DF,aire,43,46,55,44,42,48,49,50,51,73
+IE1,Scouting by name,Des Ainer,MC,fuego,82,57,66,71,60,61,63,34,60,59
+IE1,Scouting by name,Bryce Bergman,MC,fuego,49,79,63,45,61,59,60,64,69,60
+IE1,Scouting by name,Tim Bergoods,MC,aire,55,79,48,51,52,62,52,78,39,62
+IE1,Scouting by name,Holly Cricket,MC,fuego,65,83,64,61,70,48,63,63,67,56
+IE1,Scouting by name,Grew Driver,MC,aire,79,89,70,67,64,64,64,68,64,64
+IE1,Scouting by name,Waite Forrit,MC,tierra,69,64,60,61,55,59,58,59,68,59
+IE1,Scouting by name,Garland Gathers,MC,tierra,57,52,44,56,44,52,44,52,61,46
+IE1,Scouting by name,Cameron Hameha,MC,bosque,47,54,44,44,49,58,44,46,55,50
+IE1,Scouting by name,Bert Neptune,MC,bosque,75,92,69,64,70,64,64,62,61,61
+IE1,Scouting by name,Ton Nino,MC,aire,78,73,59,66,60,63,56,55,71,63
+IE1,Scouting by name,Phil Occifer,MC,bosque,55,70,46,51,55,65,44,60,61,62
+IE1,Scouting by name,Vinny O'Gaines,MC,bosque,49,73,49,46,61,64,52,52,52,55
+IE1,Scouting by name,Bobby Peel,MC,tierra,67,73,53,60,62,55,56,59,52,62
+IE1,Scouting by name,Biron Pendexter,MC,bosque,70,84,75,62,68,53,71,63,60,59
+IE1,Scouting by name,Harry Redcastle,MC,aire,71,62,72,63,60,53,69,52,56,60
+IE1,Scouting by name,Ollie Seeker,MC,tierra,82,61,58,71,60,52,58,52,63,62
+IE1,Scouting by name,Gabriel Shekinah,MC,aire,75,83,67,62,58,82,60,52,64,56
+IE1,Scouting by name,Rupert Spiers,MC,aire,62,94,78,55,64,70,70,74,68,63
+IE1,Scouting by name,Daley Switcher,MC,tierra,69,86,66,61,66,63,63,59,60,56
+IE1,Scouting by name,Kay Acker,DL,aire,68,76,44,58,71,48,60,62,74,60
+IE1,Scouting by name,Dave Altair,DL,aire,76,64,42,61,63,57,58,53,69,60
+IE1,Scouting by name,Manny Atom,DL,fuego,85,64,50,67,59,54,68,64,61,54
+IE1,Scouting by name,Gene Bottle,DL,aire,71,50,49,62,60,40,68,52,69,52
+IE1,Scouting by name,Ashley Dale,DL,bosque,70,83,49,55,60,78,61,70,61,68
+IE1,Scouting by name,Ike Doerflinger,DL,bosque,61,59,43,53,60,58,61,52,56,52
+IE1,Scouting by name,Ben Evolent,DL,aire,87,52,42,68,52,60,60,52,59,52
+IE1,Scouting by name,Ashley Fay,DL,aire,71,47,33,62,56,40,51,40,57,52
+IE1,Scouting by name,Mo Hawkes,DL,fuego,71,72,45,60,69,47,63,60,62,60
+IE1,Scouting by name,Eggbert Heading,DL,bosque,88,48,55,68,53,58,71,38,76,62
+IE1,Scouting by name,Monty Hillary,DL,tierra,51,64,46,42,56,59,63,65,64,52
+IE1,Scouting by name,Jimmy Mach,DL,aire,59,81,42,52,61,60,58,79,76,50
+IE1,Scouting by name,Pat Maclean,DL,aire,83,75,53,63,64,62,69,60,60,68
+IE1,Scouting by name,Bill Moony,DL,tierra,96,56,42,79,53,56,60,64,61,52
+IE1,Scouting by name,Will Racer,DL,bosque,67,66,42,56,61,56,60,60,54,60
+IE1,Scouting by name,Char Shumaker,DL,tierra,73,64,39,60,60,59,57,57,59,55
+IE1,Scouting by name,Scott Springer,DL,aire,96,61,36,78,59,63,53,52,60,54
+IE1,Scouting by name,Derek Terr,DL,fuego,55,45,40,50,32,31,61,77,58,59
+IE1,Scouting by name,George Winters,DL,bosque,56,88,55,44,72,76,68,79,70,73
+IE1,Scouting by name,Evan Yielding,DL,bosque,62,52,43,53,46,50,60,76,65,64
+IE1,Special Scouting,Darrel Jeeling,PR,bosque,31,64,52,47,60,68,46,58,59,53
+IE1,Special Scouting,Paul Peabody,DF,aire,69,86,92,65,76,62,69,64,73,74
+IE1,Special Scouting,Miles Ryan,DF,aire,56,52,86,59,48,46,69,76,64,65
+IE1,Special Scouting,Duncan Jump,DF,fuego,40,46,51,40,48,48,40,43,76,48
+IE1,Special Scouting,Saul Dowd,DF,tierra,49,60,61,52,56,58,54,61,53,63
+IE1,Special Scouting,Chester Horse jr.,MC,bosque,61,95,61,55,72,71,58,63,59,59
+IE1,Special Scouting,Nathin Gaunt,MC,tierra,46,75,60,40,56,52,61,76,52,61
+IE1,Special Scouting,Rory Boomer,MC,tierra,84,76,60,71,62,57,56,60,65,79
+IE1,Special Scouting,Erik Eagle,MC,bosque,89,89,71,79,60,76,64,63,53,71
+IE1,Special Scouting,Cash Barganier,DL,fuego,51,46,32,43,35,38,52,76,37,61
+IE1,Special Scouting,Saggy,DL,bosque,96,82,55,77,71,60,70,64,70,67
+IE1,Special Scouting,Shadow Cimmerian,DL,bosque,78,86,56,60,74,68,73,63,60,64
+IE1,Wi-fi Downloads,Rich Cave,PR,fuego,30,65,66,44,63,59,56,63,71,63
+IE1,Wi-fi Downloads,Nester Damus,PR,aire,45,57,74,63,60,63,61,53,54,56
+IE1,Wi-fi Downloads,Tabor Drummond,PR,tierra,28,40,57,40,34,29,55,61,58,57
+IE1,Wi-fi Downloads,Cal Emarry,PR,bosque,28,54,61,42,56,52,55,68,57,60
+IE1,Wi-fi Downloads,Max Scara,PR,aire,39,43,50,62,62,40,40,40,52,52
+IE1,Wi-fi Downloads,Lux Sidebottom,PR,fuego,28,54,71,40,59,52,60,63,61,54
+IE1,Wi-fi Downloads,Brook Atwater,DF,aire,54,57,63,57,60,54,56,53,60,59
+IE1,Wi-fi Downloads,Ace Breaker,DF,tierra,58,79,93,57,60,67,71,71,68,70
+IE1,Wi-fi Downloads,Ropert Chapp,DF,aire,60,61,75,61,64,50,62,55,63,62
+IE1,Wi-fi Downloads,Horace Coop,DF,bosque,48,50,53,54,59,44,48,50,60,53
+IE1,Wi-fi Downloads,Jack Mate,DF,aire,63,75,86,62,68,61,69,53,60,56
+IE1,Wi-fi Downloads,Dexter Ambie,DF,tierra,69,64,60,68,59,57,54,61,61,52
+IE1,Wi-fi Downloads,John Maggie,DF,bosque,77,75,94,76,79,61,72,31,79,72
+IE1,Wi-fi Downloads,Chops Denton,MC,fuego,86,86,74,79,76,46,70,56,76,53
+IE1,Wi-fi Downloads,Ainsley Burns,DL,tierra,56,71,36,46,58,68,51,60,62,63
+IE1,Wi-fi Downloads,Esau Fagus,DL,aire,52,47,34,46,52,46,58,41,43,40
+IE1,Wi-fi Downloads,Loughrey Mose,DL,aire,96,76,37,77,69,62,52,52,73,61
+IE1,Wi-fi Downloads,Ty Priter,DL,fuego,91,58,35,71,53,61,52,62,60,54
+IE1,Wi-fi Downloads,Percy Verence,DL,fuego,62,78,53,52,62,64,68,68,72,60
+IE2,Raimon,Mark Evans (Mark),PR,tierra,52,77,98,72,72,70,77,68,69,79
+IE2,Raimon,Jack Wallside (Jack),DF,tierra,62,73,80,62,68,62,66,49,54,54
+IE2,Raimon,Jim Wraith (Jim),DF,bosque,60,62,75,58,53,75,59,53,62,60
+IE2,Raimon,Bobby Shearer (Bobby),DF,bosque,78,77,97,76,61,72,76,60,72,72
+IE2,Raimon,Tod Ironside (Tod),DF,fuego,52,54,64,54,55,53,56,59,56,65
+IE2,Raimon,Nathan Swift (Nathan),DF,aire,67,80,62,64,58,68,54,76,58,56
+IE2,Raimon,Steve Grim (Steve),MC,aire,75,93,73,62,64,71,64,71,71,71
+IE2,Raimon,Tim Saunders (Timmy),MC,bosque,73,93,59,63,76,61,60,55,48,58
+IE2,Raimon,Sam Kincaid (Sam),MC,fuego,84,60,57,71,57,56,56,52,56,76
+IE2,Raimon,Jude Sharp (Jude),MC,aire,77,99,84,63,79,79,79,76,76,68
+IE2,Raimon,Erik Eagle (Erik),MC,bosque,89,89,71,79,60,76,64,63,53,71
+IE2,Raimon,Maxwell Carson (Max),DL,aire,80,75,50,60,56,78,64,60,56,62
+IE2,Raimon,Kevin Dragonfly (Kevin),DL,bosque,93,67,47,71,60,59,61,60,64,70
+IE2,Raimon,Axel Blaze (Axel),DL,fuego,98,86,51,79,66,76,64,72,68,60
+IE2,Raimon,William Glass (Willy),DL,bosque,69,56,40,56,51,68,57,56,53,60
+IE2,Alpine,Adam Ropes,PR,aire,45,67,77,62,56,62,62,77,67,66
+IE2,Alpine,Trent Peggs,PR,tierra,44,57,88,60,60,59,66,57,66,78
+IE2,Alpine,Spike Gleeson,DF,bosque,63,70,62,60,63,65,52,52,60,69
+IE2,Alpine,Milton Bindings,DF,aire,49,72,63,52,67,57,55,54,60,62
+IE2,Alpine,Joaquine Downtown,DF,fuego,56,62,72,57,54,68,59,58,56,60
+IE2,Alpine,Gem Strata,DF,fuego,53,56,57,56,57,52,53,60,53,60
+IE2,Alpine,Martin Ursus,DF,bosque,58,75,83,60,69,56,68,56,58,56
+IE2,Alpine,Kerry Bootgaiter,MC,aire,70,73,62,62,59,57,60,63,64,60
+IE2,Alpine,Maddox Rock (Maddox),MC,bosque,62,77,52,56,60,61,54,61,53,65
+IE2,Alpine,Pete Bogg,MC,fuego,69,72,57,60,54,69,57,60,53,58
+IE2,Alpine,Robert Skipolson,MC,bosque,60,69,50,56,52,62,53,68,54,55
+IE2,Alpine,Sean Snowfield,MC,tierra,67,90,79,59,65,60,72,72,76,68
+IE2,Alpine,Horace Onlign,DL,bosque,65,66,34,55,63,52,52,60,58,60
+IE2,Alpine,Quentin Rackner,DL,bosque,67,62,42,56,57,56,58,64,65,64
+IE2,Alpine,Roland Climbstein,DL,aire,83,62,41,65,62,52,59,58,58,61
+IE2,Cloister Divinity,Crane Kik,PR,bosque,52,76,81,71,71,76,62,58,75,69
+IE2,Cloister Divinity,Earnest Bookworm,PR,aire,36,69,78,53,70,60,60,55,55,70
+IE2,Cloister Divinity,Ollie Gami,DF,bosque,62,59,68,62,57,59,58,57,60,58
+IE2,Cloister Divinity,Parry Waxon,DF,aire,67,79,81,64,64,68,64,62,60,60
+IE2,Cloister Divinity,Max Fortune (Maxi),DF,bosque,55,78,75,56,67,55,59,68,71,70
+IE2,Cloister Divinity,Bri Spark (Sparky),DF,tierra,55,56,62,56,53,62,52,57,69,64
+IE2,Cloister Divinity,Brendan Water,DF,fuego,51,72,65,53,58,67,56,62,59,53
+IE2,Cloister Divinity,Lee Dinglite,MC,bosque,65,66,68,57,52,70,61,56,68,64
+IE2,Cloister Divinity,Ian Telektual,MC,aire,67,72,51,60,57,62,52,61,69,56
+IE2,Cloister Divinity,Roman Kandel,MC,fuego,66,68,49,60,61,54,52,57,58,60
+IE2,Cloister Divinity,Junior Fardream,MC,bosque,67,71,69,58,53,70,62,60,66,63
+IE2,Cloister Divinity,Don Ation,DL,aire,88,56,38,69,60,54,57,52,56,57
+IE2,Cloister Divinity,Tyke Wando,DL,bosque,75,73,44,60,56,65,61,70,58,55
+IE2,Cloister Divinity,Marshall Artz (Marshall),DL,fuego,85,73,52,63,56,68,63,68,74,76
+IE2,Cloister Divinity,Dirk Artz (Dirk),DL,aire,98,75,42,77,55,68,57,72,52,71
+IE2,Royal Academy Redux,Joseph King,PR,fuego,51,76,94,72,75,69,72,55,74,60
+IE2,Royal Academy Redux,Jimbo Cellar,PR,bosque,34,72,95,52,76,56,72,54,63,68
+IE2,Royal Academy Redux,Blade Healen,DF,tierra,52,71,76,53,56,70,60,62,63,62
+IE2,Royal Academy Redux,Argie Bargie,DF,bosque,76,72,84,76,60,62,64,64,79,60
+IE2,Royal Academy Redux,Lee Bamboo,DF,fuego,72,77,89,68,62,68,69,62,59,62
+IE2,Royal Academy Redux,Dawson Little,DF,aire,74,62,61,73,54,61,54,65,60,53
+IE2,Royal Academy Redux,Rowan Beltzer,DF,aire,60,75,75,60,62,63,60,64,69,58
+IE2,Royal Academy Redux,Maston Color,MC,tierra,81,58,70,68,53,59,64,53,66,69
+IE2,Royal Academy Redux,Sue Sparrow,MC,aire,63,84,53,57,63,64,54,62,59,60
+IE2,Royal Academy Redux,Jonah Spark,MC,tierra,74,89,68,62,64,61,62,70,63,74
+IE2,Royal Academy Redux,Cosimo Beck,MC,bosque,68,64,62,59,52,63,60,61,52,68
+IE2,Royal Academy Redux,Eton Messer,MC,bosque,71,91,52,60,63,70,52,68,56,67
+IE2,Royal Academy Redux,Caleb Stonewall,MC,fuego,87,90,69,75,60,78,60,64,66,69
+IE2,Royal Academy Redux,Zenn Wildhorse,DL,aire,76,63,45,60,57,61,61,60,56,64
+IE2,Royal Academy Redux,Riley Jamm,DL,bosque,91,62,49,70,55,64,64,60,69,60
+IE2,Royal Academy Redux,David Samford,DL,bosque,94,82,54,70,60,78,66,66,67,71
+IE2,Triple C,Daisy Fields (Daisy),PR,fuego,44,72,88,60,61,70,67,69,52,71
+IE2,Triple C,Dell Closeout,PR,tierra,32,51,71,52,60,52,60,55,58,52
+IE2,Triple C,Janine Brook,PR,fuego,44,73,79,62,70,63,62,61,57,58
+IE2,Triple C,Rose Pinkpetal,DF,bosque,49,77,71,52,60,68,60,66,52,52
+IE2,Triple C,Esther Greenland,DF,fuego,64,81,67,62,67,60,58,68,52,63
+IE2,Triple C,Alexia Sand,DF,bosque,60,61,78,61,56,61,65,60,52,52
+IE2,Triple C,Amy Spires,DF,bosque,50,52,61,54,55,56,55,52,60,52
+IE2,Triple C,Hellen Hearth (Earth),DF,bosque,64,53,61,63,52,56,55,60,55,57
+IE2,Triple C,Peony Cash,MC,fuego,57,69,52,52,58,60,52,58,62,68
+IE2,Triple C,Natalie Sunrise,MC,bosque,62,80,57,57,58,63,57,67,60,58
+IE2,Triple C,Hillary Bush,MC,aire,71,79,75,63,66,59,71,53,60,54
+IE2,Triple C,Bela Bluebells,MC,aire,61,70,67,56,55,64,63,61,63,59
+IE2,Triple C,Gayle Revel,MC,bosque,84,84,58,71,64,60,56,64,63,70
+IE2,Triple C,Mary Moor,MC,tierra,62,86,56,56,65,58,56,66,54,69
+IE2,Triple C,Lily Willow,DL,bosque,87,70,47,67,64,62,63,53,56,61
+IE2,Triple C,Suzette Hartland,DL,bosque,83,83,48,62,65,70,62,68,60,64
+IE2,Fauxshore,Darren LaChance,PR,bosque,43,76,98,60,76,66,79,56,71,64
+IE2,Fauxshore,Wiley Cracker,PR,fuego,33,63,84,52,64,56,66,60,56,56
+IE2,Fauxshore,Knowle Bathers,PR,aire,39,52,68,59,59,52,58,59,71,62
+IE2,Fauxshore,Maurice Badgame,DF,tierra,75,68,75,73,66,52,60,57,65,71
+IE2,Fauxshore,Mick Mishap,DF,bosque,58,60,72,60,60,53,60,59,66,60
+IE2,Fauxshore,Louis Leave,DF,fuego,71,72,88,69,63,60,70,60,64,52
+IE2,Fauxshore,Drancis Fake,DF,aire,53,60,64,55,56,60,55,60,60,60
+IE2,Fauxshore,Spencer Duskplay,MC,aire,86,58,57,77,52,62,57,52,64,53
+IE2,Fauxshore,Cannon Random,MC,fuego,56,84,51,53,62,60,53,68,63,55
+IE2,Fauxshore,Alton Cotts,MC,tierra,70,84,79,60,68,62,71,54,68,71
+IE2,Fauxshore,Ulric Richmen,MC,bosque,70,73,53,62,61,59,55,57,61,58
+IE2,Fauxshore,Mark Failing,DL,bosque,75,60,38,61,61,56,57,54,54,55
+IE2,Fauxshore,Mike Passing,DL,aire,64,75,42,52,56,71,57,68,57,63
+IE2,Fauxshore,Jonathan Luckyman,DL,bosque,85,78,54,65,62,62,71,69,61,64
+IE2,Fauxshore,Joe Poker,DL,fuego,66,77,38,54,62,63,55,67,55,64
+IE2,Fauxshore,Dave Fate,DL,tierra,64,76,39,54,64,54,56,70,62,61
+IE2,Mary Times Memorial,Rocky Black,PR,fuego,52,64,97,76,72,52,76,50,72,72
+IE2,Mary Times Memorial,Gaston Cooley,PR,aire,38,58,82,57,63,52,64,59,59,66
+IE2,Mary Times Memorial,Hector Redding,DF,fuego,63,61,62,62,57,63,54,56,62,56
+IE2,Mary Times Memorial,Bevan Breakfast,DF,bosque,61,82,79,58,66,71,62,61,52,70
+IE2,Mary Times Memorial,Victor Hills,DF,tierra,72,66,91,68,61,64,71,52,60,68
+IE2,Mary Times Memorial,Chad Taylor (Diver),DF,aire,61,58,60,61,55,60,53,58,61,57
+IE2,Mary Times Memorial,Hurley Kane,DF,aire,75,87,95,72,70,71,73,71,71,65
+IE2,Mary Times Memorial,Tom Contented,MC,tierra,76,78,51,64,60,69,52,54,59,59
+IE2,Mary Times Memorial,Jack Griddle,MC,fuego,67,62,56,60,53,58,56,61,62,61
+IE2,Mary Times Memorial,Stan Andagi,MC,tierra,77,58,67,65,52,58,61,56,68,69
+IE2,Mary Times Memorial,Mackenzie Fordline,MC,aire,65,64,52,60,57,53,56,61,53,60
+IE2,Mary Times Memorial,Dora Delight,MC,fuego,63,62,52,59,60,53,55,52,59,60
+IE2,Mary Times Memorial,Cadence Soundtown,MC,bosque,70,69,66,61,56,62,62,60,63,60
+IE2,Mary Times Memorial,Joston Easton,DL,aire,76,81,49,61,67,60,66,68,64,55
+IE2,Mary Times Memorial,Coral Talent,DL,aire,81,56,46,63,52,57,63,65,58,60
+IE2,Mary Times Memorial,Spring Millpond (Shark),DL,aire,76,86,45,59,63,76,60,77,57,55
+IE2,Secret Service,Ken Ironwall,PR,tierra,48,66,85,68,69,60,66,52,68,56
+IE2,Secret Service,Ian Sights,PR,tierra,34,64,79,52,58,60,63,69,65,62
+IE2,Secret Service,Timothy Western,DF,aire,58,81,77,57,60,74,61,69,53,63
+IE2,Secret Service,Shirley Stevens,DF,bosque,65,63,71,64,60,59,60,56,60,54
+IE2,Secret Service,Ian Smith,DF,bosque,74,77,72,71,67,64,58,56,66,61
+IE2,Secret Service,Greene Beray,DF,aire,67,72,63,63,60,73,54,52,54,60
+IE2,Secret Service,Wallace Hammond,DF,aire,68,81,65,65,63,68,56,68,52,59
+IE2,Secret Service,Sid Safehouse,DF,fuego,57,75,90,59,67,59,71,57,64,58
+IE2,Secret Service,Taylor Firepool,MC,aire,62,71,70,57,57,62,66,60,56,61
+IE2,Secret Service,Marshall Firsthand,MC,bosque,73,74,54,63,58,55,55,68,62,62
+IE2,Secret Service,Ryan Tappin,MC,bosque,81,58,51,68,48,68,52,54,58,59
+IE2,Secret Service,Marge Fielding (Agent M),MC,aire,69,82,52,60,58,64,53,69,58,60
+IE2,Secret Service,Victoria Vanguard (Tori),MC,aire,84,93,76,70,69,78,66,52,69,67
+IE2,Secret Service,Holly Mirror,DL,fuego,88,73,55,67,64,60,71,60,68,64
+IE2,Secret Service,Joe Kenneddy,DL,bosque,75,77,47,60,68,65,64,53,57,56
+IE2,Secret Service,Linda Shadey,DL,aire,91,79,44,69,67,70,60,54,57,56
+IE2,Gemini Storm,Galileo,PR,bosque,53,67,87,77,68,58,67,58,76,59
+IE2,Gemini Storm,Coral,DF,aire,52,84,80,53,57,76,63,79,56,56
+IE2,Gemini Storm,Gigs,DF,fuego,61,74,84,60,55,69,67,70,56,55
+IE2,Gemini Storm,Ganymede,DF,tierra,67,84,72,64,68,67,58,69,68,56
+IE2,Gemini Storm,Charon,DF,fuego,55,58,88,56,55,57,70,61,52,70
+IE2,Gemini Storm,Pandora,MC,aire,71,91,56,60,61,76,54,66,60,60
+IE2,Gemini Storm,Grengo,MC,tierra,60,76,75,56,66,52,69,57,67,65
+IE2,Gemini Storm,Io,MC,fuego,57,89,77,52,60,66,69,73,67,63
+IE2,Gemini Storm,Janus,MC,bosque,77,92,67,63,63,73,61,68,51,71
+IE2,Gemini Storm,Rihm,DL,bosque,77,81,46,60,61,72,61,68,63,57
+IE2,Gemini Storm,Diam,DL,bosque,97,79,46,79,69,68,61,52,67,52
+IE2,Epsilon,Kenville,DF,fuego,59,62,62,59,53,64,52,64,70,60
+IE2,Epsilon,Mole,DF,bosque,74,83,68,71,59,73,56,76,62,58
+IE2,Epsilon,Kayson,DF,aire,71,82,78,67,65,68,60,68,70,64
+IE2,Epsilon,Tytan,DF,tierra,73,69,65,70,64,54,52,60,78,74
+IE2,Epsilon,Fedora,MC,fuego,74,70,50,63,56,63,52,60,57,60
+IE2,Epsilon,Krypto,MC,aire,66,95,55,59,71,61,56,72,53,62
+IE2,Epsilon,Sworm,MC,bosque,61,96,71,53,68,75,63,71,61,68
+IE2,Epsilon,Mercury,DL,aire,90,73,34,70,58,61,52,71,53,53
+IE2,Epsilon,Metron,DL,aire,92,79,49,70,60,71,63,67,65,64
+IE2,Epsilon,Zell,DL,aire,88,70,56,69,64,52,75,63,68,60
+IE2,The Genesis,Nero,PR,aire,53,69,81,77,60,57,63,78,60,70
+IE2,The Genesis,Gele,DF,aire,55,72,62,57,53,60,55,79,60,56
+IE2,The Genesis,Kiburn,DF,fuego,57,82,67,56,63,77,54,62,60,62
+IE2,The Genesis,Zohen,DF,tierra,72,88,89,68,76,71,70,77,56,56
+IE2,The Genesis,Hauser,DF,tierra,68,78,86,64,66,65,66,58,68,66
+IE2,The Genesis,Kormer,MC,fuego,72,93,66,60,64,78,61,65,55,60
+IE2,The Genesis,Kiwill,MC,bosque,61,85,59,55,58,68,57,69,59,61
+IE2,The Genesis,Ark,MC,bosque,66,93,78,56,60,78,69,72,62,70
+IE2,The Genesis,Wittz,DL,bosque,90,82,49,68,67,62,63,70,68,67
+IE2,The Genesis,Bellatrix,MC,aire,80,97,61,65,65,79,55,78,64,68
+IE2,The Genesis,Xene,DL,fuego,98,88,50,79,79,73,63,62,68,63
+IE2,Prominence,Grent,PR,fuego,53,49,75,78,60,52,61,52,56,60
+IE2,Prominence,Baller,DF,bosque,69,75,83,65,64,62,65,61,58,71
+IE2,Prominence,Balcke,DF,fuego,73,69,78,71,64,57,63,57,60,62
+IE2,Prominence,Seats,DF,bosque,70,70,87,66,62,63,68,56,56,70
+IE2,Prominence,Bomber,MC,fuego,62,88,69,55,63,68,62,64,70,65
+IE2,Prominence,Heat,MC,bosque,54,96,63,52,79,60,60,62,71,55
+IE2,Prominence,Lean,MC,fuego,60,96,67,55,72,70,63,69,61,52
+IE2,Prominence,Bountine,MC,bosque,75,89,68,63,62,67,62,68,67,64
+IE2,Prominence,Sidern,DL,fuego,63,80,37,52,69,59,52,62,70,69
+IE2,Prominence,Torch,DL,fuego,91,84,50,69,71,64,64,66,70,63
+IE2,Prominence,Neppten,DL,bosque,75,76,48,60,65,61,63,61,67,60
+IE2,Diamond Dust,Beluga,PR,tierra,50,66,86,70,68,53,66,60,60,64
+IE2,Diamond Dust,Arkew,DF,aire,73,76,72,70,67,56,60,62,52,69
+IE2,Diamond Dust,Clear,DF,aire,68,77,78,65,67,60,62,60,60,68
+IE2,Diamond Dust,Gocker,DF,tierra,71,72,77,69,70,52,64,53,54,63
+IE2,Diamond Dust,Icer,MC,aire,63,93,62,58,68,63,60,70,65,54
+IE2,Diamond Dust,Balen,MC,tierra,66,93,61,58,69,67,58,64,60,62
+IE2,Diamond Dust,Droll,MC,aire,72,92,61,62,68,62,59,69,62,61
+IE2,Diamond Dust,Rhine,MC,aire,73,90,54,63,71,61,55,60,60,60
+IE2,Diamond Dust,Blown,DL,aire,72,71,39,59,60,56,55,68,65,64
+IE2,Diamond Dust,Gazelle,DL,aire,98,84,57,78,65,76,74,66,67,68
+IE2,Diamond Dust,Frost,DL,tierra,76,79,41,60,64,62,56,68,68,63
+IE2,Occult,Nathan Jones (Mask),PR,aire,42,59,88,58,56,70,68,56,60,68
+IE2,Occult,Rob Crombie (Zombie),PR,tierra,30,42,50,47,46,50,40,51,74,56
+IE2,Occult,Russell Walk (Styx),DF,bosque,59,58,60,60,53,60,52,63,65,58
+IE2,Occult,Ken Furan (Franky),DF,tierra,49,52,84,55,59,47,70,52,61,48
+IE2,Occult,Jerry Fulton (Undead),DF,fuego,47,58,76,52,58,56,61,56,79,53
+IE2,Occult,Jason Jones (Creepy),DF,aire,49,56,66,52,54,57,57,60,54,63
+IE2,Occult,Ray Mannings (Jiangshi),MC,aire,60,75,51,55,62,60,52,56,61,62
+IE2,Occult,Robert Mayer (Mummy),MC,bosque,58,63,53,54,52,60,52,62,75,61
+IE2,Occult,Alexander Brave (Grave),MC,fuego,61,89,49,57,65,60,52,71,56,55
+IE2,Occult,Troy Moon (Wolfy),MC,fuego,75,98,57,61,70,77,52,79,69,67
+IE2,Occult,Mick Askley (Ghost),MC,bosque,58,54,44,55,50,54,44,48,56,54
+IE2,Occult,Burt Wolf (Blood),MC,tierra,78,56,48,68,52,52,51,56,62,60
+IE2,Occult,Chuck Dollman,DL,bosque,58,48,32,52,53,45,48,49,53,55
+IE2,Occult,Phil Noir,DL,bosque,57,46,33,52,45,48,52,52,58,45
+IE2,Occult,Uxley Allen (Alien),DL,aire,54,48,32,48,51,51,50,48,55,44
+IE2,Occult,Johan Tassman (Talisman),DL,bosque,79,71,33,62,64,56,48,60,62,63
+IE2,Wild,Charlie Boardfield (Boar),PR,fuego,48,42,87,68,44,44,69,60,62,69
+IE2,Wild,Chad Bullford,PR,fuego,28,45,97,41,68,48,77,31,51,64
+IE2,Wild,Peter Johnson (Toad),DF,bosque,44,49,53,48,52,48,48,54,57,50
+IE2,Wild,Wilson Fishman,DF,bosque,47,59,56,52,64,51,51,51,62,51
+IE2,Wild,Rocky Rackham (Raccoon),DF,bosque,47,50,51,53,53,53,44,51,44,47
+IE2,Wild,Leonard O'Shea (Lion),DF,tierra,77,49,81,78,52,47,64,55,69,68
+IE2,Wild,Bruce Monkey (Monkey),MC,aire,56,67,45,54,64,51,48,53,52,54
+IE2,Wild,Cham Lion (Chameleon),MC,aire,46,51,49,44,45,45,55,53,60,48
+IE2,Wild,Matt Mouseman,MC,tierra,46,66,43,42,50,52,44,79,54,45
+IE2,Wild,Alan Coe (Koala),MC,bosque,52,52,46,52,45,53,51,48,46,49
+IE2,Wild,Hugo Tallgeese (Chicken),MC,fuego,47,61,46,44,52,56,46,64,67,54
+IE2,Wild,Steve Eagle (Eagle),MC,aire,72,92,54,61,68,62,52,68,71,68
+IE2,Wild,Philip Anders (Panda),DL,fuego,57,48,33,52,51,48,52,52,51,46
+IE2,Wild,Adrian Speed (Cheetah),DL,aire,80,69,35,63,47,69,55,79,42,47
+IE2,Wild,Gary Lancaster (Gorilla),DL,tierra,96,63,46,78,66,49,64,54,52,67
+IE2,Wild,Harry Snake (Snake),DL,bosque,64,70,33,55,63,62,49,55,65,45
+IE2,Brainwashing,Thomas Feldt,PR,bosque,53,77,97,75,69,68,76,75,78,76
+IE2,Brainwashing,Reg Underwood (Under),PR,bosque,29,40,87,44,40,40,69,48,42,70
+IE2,Brainwashing,Neil Waters,DF,bosque,46,47,55,52,48,51,52,45,54,45
+IE2,Brainwashing,Noel Good,DF,bosque,41,46,56,44,44,48,55,44,48,45
+IE2,Brainwashing,Terry Stronger,DF,fuego,41,46,55,44,46,46,52,47,52,52
+IE2,Brainwashing,Philip Marvel,DF,tierra,42,49,53,44,53,52,48,49,50,51
+IE2,Brainwashing,Harry Leading,DF,aire,46,48,52,52,52,44,47,50,52,48
+IE2,Brainwashing,Patrick Stiller,MC,aire,53,51,46,53,45,47,52,44,46,53
+IE2,Brainwashing,Charles Oughtry,MC,tierra,55,52,43,55,52,45,45,46,44,48
+IE2,Brainwashing,Francis Tell,MC,bosque,46,53,43,44,53,48,46,45,44,47
+IE2,Brainwashing,Tyron Rock,MC,fuego,51,51,44,51,46,46,48,48,47,52
+IE2,Brainwashing,Victor Kind,MC,bosque,49,54,46,49,53,48,51,48,53,46
+IE2,Brainwashing,Samuel Buster (Busta),MC,fuego,56,52,45,55,46,52,49,48,50,49
+IE2,Brainwashing,Clive Mooney,DL,fuego,59,49,32,53,49,54,50,55,53,46
+IE2,Brainwashing,Jonathan Seller,DL,aire,61,49,32,55,50,50,49,55,45,46
+IE2,Brainwashing,Neil Turner,DL,fuego,54,47,33,48,48,52,52,44,50,45
+IE2,Otaku,Sam Idol,PR,tierra,41,51,64,60,58,54,55,58,45,67
+IE2,Otaku,Grant Eldorado,PR,fuego,31,53,87,49,63,61,69,43,28,49
+IE2,Otaku,Marcus Train,DF,fuego,59,56,58,61,60,53,56,52,41,54
+IE2,Otaku,Mike Vox,DF,aire,44,50,55,48,55,57,51,44,50,47
+IE2,Otaku,Spencer Gates (Cosplay),DF,tierra,57,52,63,59,52,56,58,56,40,62
+IE2,Otaku,Bill Formby,DF,tierra,51,54,52,54,58,61,45,46,48,51
+IE2,Otaku,Ollie Webb (Net),DF,bosque,42,54,53,44,62,54,48,44,51,49
+IE2,Otaku,Walter Valiant (Hero),MC,fuego,74,76,55,62,62,61,55,56,50,71
+IE2,Otaku,Ham Signalman,MC,aire,57,59,48,54,56,55,52,53,48,59
+IE2,Otaku,Anthony Woodbridge (Robot),MC,aire,67,63,54,60,60,52,58,54,41,66
+IE2,Otaku,Light Nobel (Novel),MC,bosque,67,63,54,60,55,56,58,61,44,61
+IE2,Otaku,Josh Spear (Online),DL,bosque,64,54,43,54,56,56,62,55,44,60
+IE2,Otaku,Gaby Farmer (Custom),DL,aire,69,59,41,58,62,52,61,54,47,59
+IE2,Otaku,Gus Gamer,DL,fuego,72,62,35,58,60,59,52,55,45,69
+IE2,Otaku,Mark Gambling (Artist),DL,aire,62,54,46,52,56,58,63,53,51,64
+IE2,Otaku,Theodore Master (Arcade),DL,bosque,68,53,37,57,57,55,56,52,47,60
+IE2,Royal Academy,Joseph King,PR,fuego,51,76,94,72,75,69,72,55,74,60
+IE2,Royal Academy,Bob Carlton,PR,bosque,41,46,61,58,55,63,54,45,62,70
+IE2,Royal Academy,Peter Drent,DF,tierra,74,53,81,71,54,67,64,44,59,62
+IE2,Royal Academy,Ben Simmons,DF,bosque,73,83,80,68,63,72,60,69,70,69
+IE2,Royal Academy,Gus Martin,DF,bosque,77,84,89,76,67,73,67,63,66,63
+IE2,Royal Academy,Alan Master,MC,aire,77,91,77,64,64,72,69,64,62,66
+IE2,Royal Academy,John Bloom,MC,fuego,71,96,76,61,71,67,70,71,54,62
+IE2,Royal Academy,Derek Swing,MC,aire,83,87,64,70,56,76,59,69,60,61
+IE2,Royal Academy,Herman Waldon,MC,aire,87,93,83,76,64,72,79,70,57,69
+IE2,Royal Academy,Barry Potts,MC,aire,53,55,51,53,52,54,56,52,60,44
+IE2,Royal Academy,Cliff Tomlinson,DL,aire,60,56,41,53,60,52,61,54,52,53
+IE2,Royal Academy,Steve Ingham,DL,tierra,72,50,33,61,53,57,52,47,54,46
+IE2,Royal Academy,Jim Lawrenson,DL,aire,63,55,45,54,57,57,63,53,56,55
+IE2,Royal Academy,David Samford,DL,bosque,94,83,54,70,60,78,66,69,67,71
+IE2,Royal Academy,Daniel Hatch,DL,bosque,95,87,53,75,69,68,68,78,60,64
+IE2,Shuriken,Morgan Sanders (Hood),PR,bosque,33,45,81,53,59,44,64,52,55,62
+IE2,Shuriken,Kevin Castle,PR,aire,33,49,85,53,60,52,68,52,52,52
+IE2,Shuriken,Finn Stoned (Bandit),DF,fuego,52,52,65,54,53,57,56,55,58,63
+IE2,Shuriken,Newton Flust (Crackshot),DF,tierra,63,61,73,62,61,56,60,55,60,63
+IE2,Shuriken,Dan Hopper,DF,tierra,49,61,76,52,58,62,62,55,61,54
+IE2,Shuriken,Jim Hillfort,DF,aire,53,66,61,55,62,60,53,54,63,61
+IE2,Shuriken,Galen Thunderbird (Thunder),DF,tierra,66,65,76,63,60,63,62,54,57,60
+IE2,Shuriken,Jupiter Jumper (Cleats),MC,aire,59,79,56,56,61,53,56,69,68,59
+IE2,Shuriken,Winston Falls (Spook),MC,aire,60,64,64,56,56,52,63,64,55,62
+IE2,Shuriken,Cal Trops,MC,bosque,64,83,54,58,61,69,55,59,57,54
+IE2,Shuriken,Jez Shell (Star),MC,aire,57,67,56,53,63,59,56,47,65,60
+IE2,Shuriken,Hank Sullivan (Hattori),MC,bosque,66,65,45,60,55,59,44,60,60,56
+IE2,Shuriken,Phil Wingate (Code),MC,tierra,68,63,59,60,56,60,57,54,68,61
+IE2,Shuriken,Sam Samurai,DL,bosque,73,64,43,60,60,60,60,56,60,53
+IE2,Shuriken,John Reynolds (Ronin),DL,aire,77,58,35,62,56,56,53,60,54,57
+IE2,Shuriken,Sail Bluesea (Cloak),DL,fuego,61,70,38,52,61,61,54,60,68,55
+IE2,Farm,Albert Green (Greeny),PR,fuego,34,47,94,50,53,60,73,53,64,77
+IE2,Farm,Lorne Mower,PR,tierra,29,45,92,46,56,41,72,62,61,60
+IE2,Farm,Herb Sherman,DF,fuego,46,62,96,49,60,62,79,52,70,56
+IE2,Farm,Mark Hillvalley,DF,tierra,40,57,95,40,56,52,79,63,66,53
+IE2,Farm,Luke Lively,DF,bosque,43,51,89,47,57,44,73,56,63,54
+IE2,Farm,Seward Hayseed,DF,tierra,41,54,95,42,56,52,77,58,68,61
+IE2,Farm,Homer Grower,DF,tierra,48,50,93,53,53,44,76,61,68,61
+IE2,Farm,Ben Nevis,DF,aire,47,54,86,52,56,51,70,59,64,53
+IE2,Farm,Kent Work,DF,bosque,42,54,88,44,57,54,70,54,65,60
+IE2,Farm,Rolf Howells,DF,aire,44,60,92,48,62,54,75,54,60,56
+IE2,Farm,Joe Small (Milky),MC,tierra,46,58,71,40,54,54,68,56,63,56
+IE2,Farm,Daniel Dawson,MC,aire,64,66,81,57,55,56,75,64,66,76
+IE2,Farm,Orville Newman (Spray),MC,fuego,82,82,77,71,70,46,72,62,66,71
+IE2,Farm,Ike Steiner (Mother),MC,bosque,47,63,80,42,55,63,76,53,60,55
+IE2,Farm,Tom Walters (Roast),MC,tierra,74,74,78,63,58,52,73,71,61,70
+IE2,Farm,Stuart Racoonfur (Muffs),DL,bosque,70,76,57,56,62,62,74,66,63,72
+IE2,Kirkwood,John Neville,PR,fuego,52,50,96,78,62,54,79,48,51,44
+IE2,Kirkwood,Simon Calier,PR,bosque,30,40,85,50,41,46,71,45,48,47
+IE2,Kirkwood,Malcolm Night,DF,fuego,68,88,97,63,76,68,78,67,64,70
+IE2,Kirkwood,Ricky Clover,DF,tierra,49,57,55,53,52,56,52,67,45,54
+IE2,Kirkwood,Alfred Meenan,DF,bosque,59,53,67,61,55,55,60,55,53,52
+IE2,Kirkwood,Dan Mirthful,DF,bosque,55,63,74,59,70,49,65,46,51,52
+IE2,Kirkwood,Eren Middleton,DF,tierra,44,48,53,48,44,55,47,55,54,52
+IE2,Kirkwood,Peter Wells,DF,aire,50,48,51,55,52,52,46,47,45,48
+IE2,Kirkwood,Zachary Moore,MC,bosque,55,78,49,52,60,60,52,63,53,58
+IE2,Kirkwood,Toby Damian,MC,aire,57,61,52,54,56,55,56,57,56,55
+IE2,Kirkwood,York Nashmith,MC,bosque,54,70,60,52,62,57,61,54,52,56
+IE2,Kirkwood,Brody Gloom,MC,tierra,55,51,48,54,46,48,53,45,52,54
+IE2,Kirkwood,Victor Talis,MC,bosque,56,54,44,55,52,52,46,47,45,48
+IE2,Kirkwood,Tyler Murdock (Tyler),DL,tierra,97,78,39,79,64,68,56,60,59,54
+IE2,Kirkwood,Thomas Murdock (Thomas),DL,aire,89,84,45,68,70,65,60,64,62,61
+IE2,Kirkwood,Marvin Murdock (Marvin),DL,fuego,88,70,50,68,61,61,66,60,60,61
+IE2,Zeus,Paul Siddon (Poseidon),PR,tierra,54,75,99,79,79,71,79,44,74,76
+IE2,Zeus,Iggy Russ (Icarus),PR,aire,51,63,98,71,67,66,79,44,71,64
+IE2,Zeus,Apollo Light (Apollo),DF,bosque,78,85,90,79,79,62,73,53,48,55
+IE2,Zeus,Jeff Iron (Hephestus),DF,fuego,64,86,91,60,64,78,69,70,64,62
+IE2,Zeus,Lane War (Ares),DF,tierra,74,87,92,71,79,70,72,56,57,60
+IE2,Zeus,Danny Wood (Dionysus),DF,aire,65,76,96,62,68,66,79,50,53,64
+IE2,Zeus,Harry Closs (Heracles),DF,fuego,67,78,98,63,60,66,79,69,71,65
+IE2,Zeus,Andy Chronic (Chronos),DF,bosque,46,78,96,48,66,62,79,63,61,66
+IE2,Zeus,Artie Mishman (Artemis),MC,aire,74,84,71,62,66,76,67,44,45,58
+IE2,Zeus,Arion Matlock (Hermes),MC,bosque,62,91,75,56,69,69,68,57,62,62
+IE2,Zeus,Wesley Knox (Athena),MC,bosque,73,97,71,60,76,64,63,71,64,77
+IE2,Zeus,Ned Yousef (Medusa),MC,tierra,83,98,75,69,78,79,67,63,62,62
+IE2,Zeus,Henry House (Hera),MC,fuego,51,89,73,48,68,60,67,64,70,60
+IE2,Zeus,Byron Love (Aphrodite),MC,bosque,88,97,79,79,69,77,70,72,68,67
+IE2,Zeus,Jonas Demetrius (Demeter),DL,fuego,98,85,44,77,64,79,56,68,63,68
+IE2,Zeus,Gus Heeley (Achilles),DL,tierra,98,82,35,78,69,61,50,65,60,70
+IE2,Nara,Wes Abbey,DL,bosque,89,77,46,68,64,64,61,62,66,60
+IE2,Nara,Pip Aminty,DF,tierra,61,77,87,61,67,61,70,59,55,57
+IE2,Nara,Ant Anomy,MC,aire,80,86,70,68,60,65,65,70,63,60
+IE2,Nara,Chaz Anover,MC,bosque,54,70,59,53,62,53,61,58,56,53
+IE2,Nara,George Barros,DL,aire,82,87,57,62,76,64,76,65,66,68
+IE2,Nara,Dreama Bartle,DL,fuego,86,68,36,67,59,60,52,62,65,58
+IE2,Nara,Bob Beelzy,PR,fuego,50,69,95,68,69,64,73,52,78,67
+IE2,Nara,Colin Binder,MC,fuego,73,87,57,58,61,79,52,55,59,79
+IE2,Nara,Mitch Blackston,DL,fuego,98,81,41,77,69,61,56,64,57,78
+IE2,Nara,Chance Cerulean (Blue),MC,aire,68,93,62,58,77,60,59,55,52,79
+IE2,Nara,Tip Bolster,DF,fuego,43,73,54,44,60,70,46,58,55,52
+IE2,Nara,Urson Brown,PR,bosque,36,43,54,57,61,40,48,43,59,56
+IE2,Nara,Sabrina Carow,DF,aire,72,66,77,68,63,60,60,52,68,69
+IE2,Nara,Barbara Clector,DF,tierra,43,71,59,44,57,59,53,71,52,63
+IE2,Nara,Eugene Conwell,DL,bosque,65,69,34,56,63,56,53,60,48,52
+IE2,Nara,Mary Cramer,MC,bosque,45,53,45,29,47,45,50,60,49,40
+IE2,Nara,Bob Daruma,MC,tierra,57,60,56,52,52,50,52,68,79,79
+IE2,Nara,Red Dayers (Deer),DF,tierra,58,63,71,60,63,57,60,52,60,57
+IE2,Nara,Gauge Diven,DF,fuego,51,66,72,54,61,59,61,57,55,55
+IE2,Nara,August Dyers,MC,fuego,82,86,71,70,61,62,66,70,62,60
+IE2,Nara,Tim Eisback,DF,bosque,45,69,66,48,58,57,57,69,60,58
+IE2,Nara,Mo Eisner,PR,fuego,31,59,64,48,56,61,56,66,60,62
+IE2,Nara,Cal Emarry,PR,bosque,28,54,61,42,56,52,55,68,57,60
+IE2,Nara,Nev Erin,DL,aire,81,88,49,60,70,71,61,76,68,71
+IE2,Nara,Ian Fantile,DF,fuego,44,46,55,51,36,30,53,76,60,53
+IE2,Nara,Waite Forrit,MC,tierra,69,64,60,61,55,59,58,59,68,59
+IE2,Nara,Zin Giber,MC,bosque,46,80,56,41,59,54,58,74,59,54
+IE2,Nara,Troy Glodight,DF,tierra,58,69,95,60,60,60,79,62,56,52
+IE2,Nara,Colin Glower,MC,fuego,51,82,47,47,56,76,48,60,56,56
+IE2,Nara,Earl Grayson,DF,bosque,66,78,90,64,65,60,71,67,64,60
+IE2,Nara,Truman Verdy (Green),DF,bosque,54,54,97,54,53,56,79,60,61,79
+IE2,Nara,Beau Hammock,MC,tierra,65,71,61,60,61,59,60,55,63,54
+IE2,Nara,Dai Hart,DF,fuego,40,45,50,36,39,36,36,39,36,28
+IE2,Nara,Adrian Heartly,DF,bosque,75,82,81,71,64,70,63,66,60,63
+IE2,Nara,Dotty Hickman,MC,aire,58,94,67,53,68,61,61,76,72,65
+IE2,Nara,Bos Horne,DF,tierra,57,63,64,60,61,54,56,59,68,55
+IE2,Nara,Jon Izumo,DL,bosque,82,80,59,63,68,56,82,67,76,66
+IE2,Nara,Pace Keeping,DF,tierra,47,58,58,52,56,57,53,60,60,52
+IE2,Nara,Guy Kogan,DF,aire,63,84,79,60,76,74,60,46,69,60
+IE2,Nara,Zane Laughead,MC,aire,57,63,72,56,63,44,70,57,67,54
+IE2,Nara,Kath Leaflin,DF,fuego,49,54,64,52,53,60,56,56,57,56
+IE2,Nara,Colin Lection,DF,fuego,52,52,69,56,57,52,60,52,62,52
+IE2,Nara,Elias Lens,MC,bosque,63,72,70,60,67,48,69,55,60,52
+IE2,Nara,Derek Longhand,DL,bosque,80,75,50,63,68,53,68,62,58,61
+IE2,Nara,Mo Lusk,DL,tierra,67,61,54,56,60,60,71,53,62,56
+IE2,Nara,Fred Makepeace,DF,bosque,40,47,85,40,63,29,76,42,55,40
+IE2,Nara,Lynne Mandel,MC,tierra,71,73,59,63,60,59,59,59,63,54
+IE2,Nara,Elinor Maven,DL,bosque,66,60,47,57,55,45,65,77,62,61
+IE2,Nara,Dougie McFlea,MC,aire,56,66,63,52,56,62,61,57,59,59
+IE2,Nara,Leon Morcey,DF,tierra,64,83,91,62,72,58,70,66,76,65
+IE2,Nara,Kim Ono,DL,tierra,65,77,45,53,60,74,61,60,56,55
+IE2,Nara,Amy Peach (Pink),MC,aire,79,83,56,63,57,76,52,60,57,79
+IE2,Nara,Georgio Plumber,DL,aire,87,76,41,67,68,58,56,58,69,64
+IE2,Nara,Jack Pott,PR,tierra,34,54,59,54,60,52,54,61,63,53
+IE2,Nara,Gerald Pourer,MC,fuego,67,52,60,63,60,35,60,36,79,58
+IE2,Nara,Harly Profett,MC,bosque,70,56,68,61,60,61,64,32,63,59
+IE2,Nara,Moses Pumper,DL,fuego,76,68,51,63,67,46,70,60,68,54
+IE2,Nara,Jon Quill,DL,bosque,86,62,35,68,62,56,53,54,63,54
+IE2,Nara,Rainier Welkin (Rainier),PR,fuego,31,63,95,48,60,68,76,56,61,52
+IE2,Nara,Will Ramin,DF,fuego,41,71,66,41,61,52,58,70,63,56
+IE2,Nara,Teal Redsky (Red),DL,fuego,98,54,49,77,54,60,63,55,60,79
+IE2,Nara,Dale Riverhead,PR,bosque,50,68,82,71,64,60,64,65,71,62
+IE2,Nara,Teller Scoap,PR,tierra,31,64,75,49,60,56,62,70,71,52
+IE2,Nara,Bambis Shakin,DL,tierra,58,74,39,50,57,59,57,76,55,60
+IE2,Nara,Bamber Shoot,DL,tierra,53,70,32,43,63,65,44,52,58,58
+IE2,Nara,Walker Sleep,PR,tierra,45,57,65,63,61,62,56,52,52,60
+IE2,Nara,Sonny Welkin (Sonny),MC,fuego,77,56,61,68,62,54,60,35,68,54
+IE2,Nara,Powers Squatts,PR,fuego,40,42,91,62,62,40,71,28,60,56
+IE2,Nara,Pace Storey,DL,fuego,60,50,37,52,48,61,55,53,58,52
+IE2,Nara,Drew Straitedge (Strait),PR,tierra,30,41,50,49,46,44,44,46,42,47
+IE2,Nara,Paddy Streehan,PR,bosque,37,44,51,58,61,47,43,41,58,55
+IE2,Nara,Reg Strimmer,DF,tierra,59,63,73,60,57,58,60,63,68,58
+IE2,Nara,Elegance Stuckon,DL,tierra,60,64,49,54,68,44,67,56,68,55
+IE2,Nara,Flora Summars,DL,bosque,79,72,53,62,65,63,71,53,52,58
+IE2,Nara,Ann Taisie,DL,bosque,94,81,53,71,64,68,67,65,63,70
+IE2,Nara,Bully Thrower,DL,aire,54,66,31,44,54,69,41,61,55,57
+IE2,Nara,Egon Timing,MC,tierra,50,53,46,51,54,48,52,42,51,43
+IE2,Nara,Sean Trawler,MC,aire,61,69,53,57,60,62,54,52,65,54
+IE2,Nara,Ollie Tuckney,MC,tierra,59,92,61,52,60,76,56,70,60,68
+IE2,Nara,Bear Turnbull,DL,bosque,59,59,41,51,54,60,59,62,60,52
+IE2,Nara,Noel Vacancies,PR,fuego,37,61,90,57,65,59,70,52,62,54
+IE2,Nara,Clark Watcher,DF,tierra,43,65,76,45,56,56,63,69,60,55
+IE2,Nara,Jess Winkles,DL,tierra,82,86,55,61,69,70,69,68,65,71
+IE2,Nara,Virgil Amber (Yellow),PR,tierra,43,51,96,60,56,60,76,55,61,76
+IE2,Nara,Caz Yewell,PR,fuego,50,52,77,70,53,56,63,67,68,60
+IE2,Hokkaido,Gill Able,PR,fuego,49,48,71,68,52,60,60,59,76,60
+IE2,Hokkaido,Gerry Attrick,DF,tierra,56,64,85,60,65,44,70,62,60,60
+IE2,Hokkaido,Cash Barganier,DL,fuego,51,46,32,43,35,38,52,76,37,61
+IE2,Hokkaido,Kevin Boardman,PR,aire,29,67,51,41,60,75,42,56,61,62
+IE2,Hokkaido,Patch Borgnine,MC,fuego,45,52,43,32,45,51,44,53,50,44
+IE2,Hokkaido,Stu Born,PR,fuego,38,42,53,60,56,40,48,46,56,52
+IE2,Hokkaido,Max Bright,MC,aire,50,52,49,50,44,41,55,67,52,58
+IE2,Hokkaido,Hilda Bronski,PR,fuego,52,71,91,73,71,64,68,54,74,71
+IE2,Hokkaido,Harry Caine,PR,aire,52,73,83,73,70,60,64,64,60,62
+IE2,Hokkaido,Rob Cardson,DF,fuego,77,83,98,77,68,69,79,62,78,60
+IE2,Hokkaido,Darren Catt,DL,aire,87,50,45,68,58,53,61,40,67,60
+IE2,Hokkaido,Siria Chattsley (Blizzard only),DL,fuego,84,84,53,64,72,61,69,67,60,68
+IE2,Hokkaido,Crane Clawson,MC,aire,68,79,71,60,64,60,68,56,52,61
+IE2,Hokkaido,Fane Club,PR,aire,29,42,84,45,50,44,69,48,43,49
+IE2,Hokkaido,Niki Colbeck,DF,fuego,52,66,84,55,64,51,68,59,65,59
+IE2,Hokkaido,Odo Cologne,MC,aire,46,63,51,40,57,52,57,60,37,60
+IE2,Hokkaido,Jim Cook,DF,aire,47,50,51,52,61,47,42,41,56,56
+IE2,Hokkaido,Horace Coop,DF,bosque,48,50,53,54,59,44,48,50,60,53
+IE2,Hokkaido,John Coralli,PR,bosque,52,45,62,76,53,52,56,53,59,60
+IE2,Hokkaido,Horty Courture,DL,bosque,50,48,31,29,48,43,48,60,47,42
+IE2,Hokkaido,Bramley Cox,DL,aire,82,67,52,64,62,54,71,61,52,60
+IE2,Hokkaido,Sal Curie,DF,fuego,45,56,57,48,56,62,51,52,62,55
+IE2,Hokkaido,Dan Dandy,DF,aire,60,48,77,61,43,44,63,68,65,68
+IE2,Hokkaido,Alex Dauger,DF,tierra,74,87,93,71,76,68,73,64,63,63
+IE2,Hokkaido,Balt Decker,DF,aire,53,51,71,56,46,47,60,75,61,67
+IE2,Hokkaido,Phil Dippedes,DL,bosque,53,78,35,44,63,60,52,70,59,60
+IE2,Hokkaido,Joe Divide,DL,aire,76,63,39,61,62,52,56,59,63,63
+IE2,Hokkaido,Beth Doodle,MC,bosque,52,77,67,50,55,62,62,70,70,57
+IE2,Hokkaido,Jeeves Dropper,MC,aire,48,82,50,45,61,58,53,68,60,54
+IE2,Hokkaido,Hugh Dunnit,PR,tierra,53,65,98,76,68,67,78,44,72,65
+IE2,Hokkaido,Cole Easteroll,DL,bosque,50,47,30,40,51,48,42,45,49,40
+IE2,Hokkaido,Bert Emmerson,DL,fuego,51,76,32,40,63,72,45,55,56,52
+IE2,Hokkaido,Jebb Ettow,DL,tierra,74,67,38,60,60,63,56,56,57,54
+IE2,Hokkaido,Benny Factor,PR,fuego,36,55,64,56,61,54,56,58,63,58
+IE2,Hokkaido,Ol Factory,PR,tierra,49,43,80,69,56,57,64,36,62,62
+IE2,Hokkaido,Drew Faxon,DL,bosque,51,59,37,40,52,62,56,64,54,54
+IE2,Hokkaido,Cody Fink,MC,bosque,63,92,75,57,67,62,66,70,78,65
+IE2,Hokkaido,Sam Fitspire,PR,bosque,42,49,73,63,63,42,60,56,64,60
+IE2,Hokkaido,Glen Garry,MC,aire,48,53,43,48,51,44,44,51,48,40
+IE2,Hokkaido,Manuel Gere,DF,aire,42,72,59,42,62,70,51,52,57,59
+IE2,Hokkaido,Lon Grainger,PR,fuego,40,48,56,60,52,55,52,63,72,60
+IE2,Hokkaido,Pat Greene,MC,fuego,54,54,43,53,56,44,41,46,58,63
+IE2,Hokkaido,Viv Grey,DF,fuego,50,48,51,55,57,42,44,47,61,56
+IE2,Hokkaido,Hank Halberd,PR,bosque,43,47,74,62,62,59,61,37,62,55
+IE2,Hokkaido,Harry Harper,PR,aire,29,49,68,43,52,60,60,60,56,52
+IE2,Hokkaido,Rod Headstock,PR,fuego,37,43,51,59,59,41,44,42,59,56
+IE2,Hokkaido,James Hearson,MC,bosque,46,51,43,44,49,44,41,45,51,40
+IE2,Hokkaido,Monty Hillary,DL,tierra,51,64,46,42,56,59,63,65,64,52
+IE2,Hokkaido,Patt Howell,DF,bosque,62,68,60,61,60,60,53,60,56,63
+IE2,Hokkaido,Max Hurt,PR,fuego,30,59,89,45,59,52,69,69,65,63
+IE2,Hokkaido,Adam Icklock,PR,fuego,28,40,52,45,44,42,48,42,42,44
+IE2,Hokkaido,Conrad Jacket,MC,tierra,63,98,76,58,75,69,71,78,55,52
+IE2,Hokkaido,Casey Leather,MC,aire,64,86,82,56,62,79,76,52,79,60
+IE2,Hokkaido,Col Lector,DL,tierra,65,79,47,55,71,59,64,57,58,55
+IE2,Hokkaido,Cam Lensman,MC,aire,46,66,46,41,56,66,46,52,56,52
+IE2,Hokkaido,Jimmy Mach,DL,aire,59,81,42,52,61,60,58,79,76,50
+IE2,Hokkaido,Pat Maclean,DL,aire,83,75,53,63,64,62,69,60,60,68
+IE2,Hokkaido,Pete Manter,MC,tierra,74,83,55,63,62,72,56,54,55,52
+IE2,Hokkaido,Grant Mardy,DF,aire,56,46,51,60,55,40,42,40,56,60
+IE2,Hokkaido,Ken Mayfield,DF,bosque,77,68,95,79,62,53,79,63,63,56
+IE2,Hokkaido,Candice Mell,MC,bosque,80,62,51,69,52,61,53,60,61,55
+IE2,Hokkaido,Miles Ryan (Miles),DF,aire,56,52,86,59,48,46,69,76,64,65
+IE2,Hokkaido,Fern Mycota,DF,fuego,54,50,61,58,55,52,57,49,57,48
+IE2,Hokkaido,Flo Nighting,DF,aire,43,48,58,47,54,48,56,45,47,51
+IE2,Hokkaido,Carter Nightly,DF,tierra,71,81,76,68,65,63,61,68,60,63
+IE2,Hokkaido,Carl Nivor,PR,bosque,31,52,56,48,52,58,52,67,64,56
+IE2,Hokkaido,Alice Nutty,DF,fuego,67,51,57,67,54,52,52,54,64,52
+IE2,Hokkaido,Ort Omaton,PR,fuego,44,61,69,63,54,61,60,72,70,53
+IE2,Hokkaido,Cam O'Miles,PR,bosque,49,41,76,70,53,56,63,28,62,55
+IE2,Hokkaido,Monty Patten,DF,bosque,66,63,73,63,60,63,61,52,54,60
+IE2,Hokkaido,Matthew Pencil,DL,bosque,50,46,32,34,41,43,50,53,51,44
+IE2,Hokkaido,Garry Planer,PR,tierra,34,54,59,52,54,63,54,62,54,60
+IE2,Hokkaido,Heath Planner,DF,bosque,40,63,60,40,54,57,53,70,67,53
+IE2,Hokkaido,Larry Pogue,DL,bosque,97,71,50,79,67,58,68,52,56,57
+IE2,Hokkaido,Healey Proctor,MC,tierra,49,69,44,44,56,70,41,52,52,56
+IE2,Hokkaido,Zach Putter,MC,fuego,63,56,52,59,52,54,56,54,52,58
+IE2,Hokkaido,Owen Rage,DF,tierra,42,54,52,46,64,51,48,44,51,43
+IE2,Hokkaido,Dexter Raleigh,DF,tierra,42,45,63,46,34,35,59,69,55,60
+IE2,Hokkaido,Drew Reiner,DF,tierra,70,85,87,66,71,70,66,62,68,63
+IE2,Hokkaido,Carl Rhodes,DF,aire,49,51,72,55,60,49,63,44,63,44
+IE2,Hokkaido,Lehman Rind,MC,bosque,46,69,46,40,54,68,45,58,59,58
+IE2,Hokkaido,Elsa Roamer,DL,tierra,50,46,30,28,48,52,37,40,40,48
+IE2,Hokkaido,Heath Rower,MC,aire,59,61,52,56,56,53,56,59,52,56
+IE2,Hokkaido,Paul Rush,MC,bosque,69,96,74,60,71,60,68,79,62,67
+IE2,Hokkaido,Pete Sadow,MC,fuego,46,84,64,40,62,52,61,76,72,60
+IE2,Hokkaido,Sherlock Sagers,PR,bosque,48,41,88,68,54,52,69,28,68,60
+IE2,Hokkaido,Max Scara,PR,aire,39,43,50,62,62,40,40,40,52,52
+IE2,Hokkaido,Reid Scarlet,DF,fuego,59,58,85,61,62,50,69,54,64,57
+IE2,Hokkaido,Archy Seago,DL,aire,89,81,53,66,64,79,66,56,61,64
+IE2,Hokkaido,Ken Sewer,PR,bosque,29,41,90,45,47,44,73,44,46,48
+IE2,Hokkaido,Bella Shaded,PR,fuego,52,71,91,73,71,64,68,54,74,71
+IE2,Hokkaido,Horace Shlock,DL,fuego,62,71,34,53,63,61,52,57,52,53
+IE2,Hokkaido,Crispin Shooter,PR,fuego,28,45,50,32,46,72,29,51,40,51
+IE2,Hokkaido,Ry Sling,DF,aire,44,72,53,46,56,71,44,63,55,54
+IE2,Hokkaido,Mark Smudge,PR,bosque,35,65,96,56,71,45,77,60,64,52
+IE2,Hokkaido,Rupert Spiers,MC,aire,62,94,78,55,64,70,70,74,68,63
+IE2,Hokkaido,Chase Spoor,MC,aire,74,64,61,64,57,62,60,52,64,52
+IE2,Hokkaido,Ethan Swallow,MC,aire,64,79,67,57,53,60,60,79,74,71
+IE2,Hokkaido,Daley Switcher,MC,tierra,69,86,66,61,66,63,63,59,60,56
+IE2,Hokkaido,Chester Takes,MC,bosque,67,88,71,60,68,63,68,59,52,56
+IE2,Hokkaido,Sable Tatter,DL,fuego,78,81,50,60,64,64,64,70,68,69
+IE2,Hokkaido,Todd Tempole,DF,fuego,60,76,78,61,70,56,65,56,54,55
+IE2,Hokkaido,Spike Thorne,DF,bosque,48,58,71,53,64,48,61,52,62,56
+IE2,Hokkaido,Des Tiny,DF,bosque,48,50,70,52,53,53,59,53,63,62
+IE2,Hokkaido,Bobbie Tomey,DL,bosque,75,76,40,60,72,56,56,53,61,65
+IE2,Hokkaido,Rush Tooset,MC,bosque,80,59,67,69,52,62,63,54,66,53
+IE2,Hokkaido,Nina Trowel,DF,tierra,57,47,52,61,53,46,45,40,56,54
+IE2,Hokkaido,Alexis Watchorn,DL,bosque,53,48,38,46,48,41,59,66,59,54
+IE2,Hokkaido,Ryder Wheeling,DF,tierra,55,49,51,60,55,49,44,48,56,49
+IE2,Hokkaido,Bob Whittle,DL,aire,78,86,50,60,68,70,64,70,64,62
+IE2,Hokkaido,Sam Willing,DF,bosque,52,65,59,55,63,56,52,55,60,62
+IE2,Hokkaido,Tighe Windsor,MC,tierra,74,55,64,64,61,56,60,32,73,60
+IE2,Hokkaido,Trixy Wonder,MC,aire,73,79,54,63,60,62,55,63,59,59
+IE2,Hokkaido,Dwayne Woo,MC,aire,73,71,65,63,63,54,60,56,77,63
+IE2,Kyoto,Les Abel,DL,fuego,54,63,34,46,57,57,52,64,56,52
+IE2,Kyoto,Dexter Ambie,DF,tierra,69,64,60,68,59,57,54,61,61,52
+IE2,Kyoto,Phil Anthropic,DL,tierra,98,88,58,77,77,78,78,68,43,75
+IE2,Kyoto,Mary Antoine,MC,bosque,86,99,71,76,77,79,68,76,44,47
+IE2,Kyoto,Sam Aritan,MC,bosque,53,58,45,52,61,47,47,49,57,62
+IE2,Kyoto,Jay Asher,DF,tierra,73,81,82,69,70,73,63,49,69,60
+IE2,Kyoto,Edward Baron,DL,bosque,98,84,56,79,76,74,77,44,48,52
+IE2,Kyoto,Bash Beaton (Bash),DL,tierra,79,88,54,60,77,70,68,67,68,68
+IE2,Kyoto,Bish Beaton (Bish),DL,tierra,90,84,49,68,76,70,62,49,73,62
+IE2,Kyoto,Pascal Blaise,DF,bosque,46,68,69,49,56,60,61,68,45,57
+IE2,Kyoto,Gene Bottle,DL,aire,71,50,49,62,60,40,68,52,69,52
+IE2,Kyoto,Tam Boyish,MC,aire,74,95,65,62,68,71,60,70,60,62
+IE2,Kyoto,Manny Carbs,DF,tierra,47,60,52,50,55,68,42,53,59,54
+IE2,Kyoto,Finn Carper,PR,tierra,42,42,70,62,52,49,60,42,63,57
+IE2,Kyoto,Ropert Chapp,DF,aire,60,61,75,61,64,50,62,55,63,62
+IE2,Kyoto,Jig Charleston (Charley),MC,tierra,68,93,58,60,76,61,56,56,69,61
+IE2,Kyoto,Nate Checker,MC,aire,71,89,73,62,62,60,68,76,61,61
+IE2,Kyoto,Andy Crafter,DL,aire,66,54,44,56,56,53,61,58,61,59
+IE2,Kyoto,Justin Cush,PR,fuego,52,72,97,71,70,69,76,52,77,70
+IE2,Kyoto,Trey Dalbum,DL,bosque,58,47,33,52,54,41,49,45,62,60
+IE2,Kyoto,Ashley Dale,DL,bosque,69,83,48,54,60,78,60,70,61,68
+IE2,Kyoto,Shay Diebold,DL,bosque,89,74,36,68,64,58,52,63,60,67
+IE2,Kyoto,Ray Dioset,DL,bosque,83,49,49,65,53,52,66,50,66,59
+IE2,Kyoto,Alec Dote,PR,aire,29,55,50,41,55,64,40,60,58,60
+IE2,Kyoto,Rhoda Dough,DF,bosque,67,52,75,65,57,54,61,48,66,62
+IE2,Kyoto,Orson Douvre,PR,tierra,49,44,75,71,52,52,63,52,68,52
+IE2,Kyoto,Drack Gorn (Dragon),DF,aire,76,57,95,71,37,79,72,74,71,70
+IE2,Kyoto,Stan Dupp,DL,bosque,67,59,49,58,65,47,67,53,69,54
+IE2,Kyoto,Dom Edarry,MC,tierra,61,60,48,57,54,56,52,59,52,60
+IE2,Kyoto,Patrick Edie,DF,bosque,49,73,51,51,58,72,40,60,56,53
+IE2,Kyoto,Farrah Fairway,DL,fuego,63,67,40,54,62,52,59,63,52,60
+IE2,Kyoto,Ted Fast,PR,bosque,32,48,90,52,64,42,70,53,61,59
+IE2,Kyoto,Wayne Fluke,PR,tierra,37,50,62,56,52,62,57,60,56,53
+IE2,Kyoto,Tiny Forester,DF,tierra,54,77,56,55,62,70,47,60,63,61
+IE2,Kyoto,Beau Fort,DF,aire,44,50,65,48,48,45,60,68,52,54
+IE2,Kyoto,Carey Ginu,DL,bosque,51,69,45,40,52,60,62,78,55,60
+IE2,Kyoto,Isaac Goss,MC,tierra,71,57,50,63,52,57,53,54,58,56
+IE2,Kyoto,Preston Gumbs,DL,aire,77,57,32,61,62,55,45,48,63,63
+IE2,Kyoto,Irving Gusher,DL,aire,96,82,46,76,66,63,60,71,60,71
+IE2,Kyoto,Mat Halled,DF,fuego,67,86,92,64,75,60,72,66,62,67
+IE2,Kyoto,Ed Halley,MC,aire,46,51,45,44,39,29,54,79,30,56
+IE2,Kyoto,Cardin Hands,DL,bosque,74,49,45,61,52,53,62,51,71,54
+IE2,Kyoto,Reed Harpen,MC,bosque,72,57,68,64,55,56,65,48,68,52
+IE2,Kyoto,Mo Hawkes,DL,fuego,71,72,45,60,69,47,63,60,62,60
+IE2,Kyoto,Eggbert Heading,DL,bosque,88,48,55,68,53,58,71,38,76,62
+IE2,Kyoto,Selma Heaver,PR,aire,29,53,51,42,53,63,43,61,61,62
+IE2,Kyoto,Stu Hoofer,DF,bosque,58,83,65,56,64,76,52,63,62,68
+IE2,Kyoto,Bud Hunter,PR,bosque,30,55,56,47,56,59,52,63,64,56
+IE2,Kyoto,Graham Hush,DL,tierra,66,73,46,56,65,60,63,58,58,54
+IE2,Kyoto,Jools Iceberg,DL,fuego,56,56,33,48,52,65,48,56,57,54
+IE2,Kyoto,Iain Igma,DF,aire,65,60,73,63,60,60,60,52,60,60
+IE2,Kyoto,Vern Ironfist,DL,bosque,53,77,40,44,63,61,56,67,71,52
+IE2,Kyoto,Ace Irvin,MC,fuego,48,61,50,43,52,65,51,55,60,63
+IE2,Kyoto,Aston Isher,MC,fuego,75,59,50,66,54,53,54,60,57,57
+IE2,Kyoto,Darrel Jeeling,PR,bosque,31,64,52,47,60,68,46,58,59,53
+IE2,Kyoto,Rolly Kerr,MC,aire,48,91,45,44,62,64,45,77,52,56
+IE2,Kyoto,Erhardt Knead,DF,tierra,43,46,54,48,33,38,53,79,38,54
+IE2,Kyoto,Ronny Knowles,DF,bosque,55,55,66,60,62,40,60,60,62,52
+IE2,Kyoto,Joe Lamkin,MC,bosque,54,73,50,52,60,56,53,62,58,56
+IE2,Kyoto,Pete LeGume,DF,fuego,64,82,81,62,68,62,64,67,64,60
+IE2,Kyoto,Bo Ling,DF,bosque,44,72,58,45,55,79,50,56,57,52
+IE2,Kyoto,Victor Mancey,DL,fuego,65,69,48,55,63,60,66,56,54,53
+IE2,Kyoto,Chris Massey,DF,bosque,67,56,59,66,58,53,53,56,62,59
+IE2,Kyoto,Ray Menn,DL,aire,54,73,45,45,62,56,61,68,63,61
+IE2,Kyoto,Tim Mittus,DF,tierra,71,57,67,68,56,62,56,53,65,60
+IE2,Kyoto,Alan Mode,DF,aire,52,50,51,56,58,48,40,47,63,62
+IE2,Kyoto,Eric Motter,PR,tierra,32,47,96,49,53,60,79,53,54,59
+IE2,Kyoto,Bill Mumm,DL,bosque,69,83,56,55,76,68,70,48,72,68
+IE2,Kyoto,Spike Needle,PR,aire,28,40,64,42,32,39,60,71,59,54
+IE2,Kyoto,Casey Novak,DF,bosque,58,64,86,60,64,51,69,57,62,63
+IE2,Kyoto,Luke O'Cyte,DL,fuego,75,47,48,61,52,54,65,36,62,58
+IE2,Kyoto,Dec O'Rator,DL,aire,64,54,31,55,62,50,45,49,54,59
+IE2,Kyoto,Dave O'Resis,MC,bosque,49,54,44,48,52,48,44,51,55,52
+IE2,Kyoto,Chris Pecracker,PR,tierra,35,55,52,52,57,66,44,54,60,62
+IE2,Kyoto,Cerise Crane (Phoenix),MC,fuego,54,98,82,48,77,71,76,72,76,72
+IE2,Kyoto,Nat Picker,MC,fuego,50,50,48,51,32,28,56,68,52,56
+IE2,Kyoto,Tim Piece,DL,aire,55,69,43,47,61,54,60,66,60,62
+IE2,Kyoto,Pete Pimento,DL,fuego,87,53,36,67,53,63,52,52,61,60
+IE2,Kyoto,Mia Pitchford,DF,aire,59,66,80,62,68,47,67,55,60,54
+IE2,Kyoto,Al Plates,DL,tierra,54,71,34,44,59,64,50,62,58,61
+IE2,Kyoto,Walter Poseur,DF,aire,43,76,74,44,61,63,61,68,60,55
+IE2,Kyoto,Penfold Pulper,DL,aire,52,62,43,41,52,59,59,71,64,62
+IE2,Kyoto,Al Reddie,MC,bosque,51,65,48,49,53,60,50,63,63,56
+IE2,Kyoto,Luther Rio,PR,aire,30,53,57,46,56,55,52,64,69,60
+IE2,Kyoto,Andy Roff,DF,tierra,46,73,69,52,71,45,60,60,69,54
+IE2,Kyoto,Ollie Seeker,MC,tierra,82,61,58,71,60,52,58,52,63,62
+IE2,Kyoto,Ace Server,PR,aire,53,65,98,76,69,63,78,46,77,68
+IE2,Kyoto,Marg Shuttle,MC,fuego,74,67,55,64,58,56,55,60,68,60
+IE2,Kyoto,Lionel Silent,PR,fuego,52,71,67,76,71,58,56,60,63,60
+IE2,Kyoto,Langley Span,DF,tierra,54,67,86,56,64,54,69,57,61,63
+IE2,Kyoto,Sadey Stewer,MC,bosque,69,71,53,61,57,62,54,60,63,56
+IE2,Kyoto,Drew Straws,DL,bosque,71,53,36,60,52,55,55,62,58,52
+IE2,Kyoto,Lucille Strummon,DF,aire,68,50,80,66,60,63,64,28,64,55
+IE2,Kyoto,Orpah Talkington,DL,bosque,59,48,53,52,44,43,71,69,68,64
+IE2,Kyoto,Austin Tayssus,MC,bosque,51,74,47,47,56,69,47,58,63,57
+IE2,Kyoto,Art Teest,MC,aire,54,69,74,53,64,50,71,56,64,52
+IE2,Kyoto,Mick Thatcher,PR,tierra,30,63,52,44,59,72,44,54,52,61
+IE2,Kyoto,Reg Thrift,DF,tierra,43,70,75,45,56,54,63,77,53,60
+IE2,Kyoto,Tigh Gerwhite (Tiger),DL,tierra,97,83,56,79,76,44,79,71,40,68
+IE2,Kyoto,Terry Pinn (Tortoise),PR,bosque,30,79,94,42,76,72,70,79,68,78
+IE2,Kyoto,Callan Trens,DL,fuego,78,62,47,62,61,57,65,55,52,57
+IE2,Kyoto,Jasmine Trier,DF,bosque,44,50,60,43,46,68,52,51,44,72
+IE2,Kyoto,Richard Trogg,DL,fuego,63,56,53,54,53,47,71,72,64,65
+IE2,Kyoto,Ollie Twister,DL,aire,72,52,35,59,53,60,52,52,53,60
+IE2,Kyoto,Boe Tyer,PR,fuego,32,57,57,49,59,65,51,53,63,62
+IE2,Kyoto,Percy Verence,DL,fuego,62,78,53,52,62,64,68,68,72,60
+IE2,Kyoto,Ian Watchen,MC,bosque,59,94,74,55,70,61,67,72,72,60
+IE2,Kyoto,Rip Winkle,MC,bosque,77,59,69,67,64,59,64,34,71,57
+IE2,Kyoto,Willow Withers,MC,bosque,48,66,58,42,56,59,55,60,62,76
+IE2,Kyoto,Bill Wordsworthy (Wordsy),MC,tierra,46,64,43,45,73,40,43,42,41,46
+IE2,Ehime,Rip Airman,DF,tierra,45,54,60,48,52,54,53,65,66,59
+IE2,Ehime,Dave Altair,DL,aire,76,64,42,61,63,57,58,53,69,60
+IE2,Ehime,Terrence Anthem,DF,fuego,64,58,72,63,55,56,60,63,64,57
+IE2,Ehime,Bruce Barkley,DL,fuego,98,86,54,78,77,55,68,70,76,77
+IE2,Ehime,Hike Basher,DL,bosque,74,63,38,60,60,54,56,61,54,63
+IE2,Ehime,Clef Bassett,MC,fuego,48,75,58,44,55,62,57,68,60,61
+IE2,Ehime,Connor Bation,DL,bosque,64,49,30,55,59,45,41,44,56,61
+IE2,Ehime,Will Bayeux,PR,tierra,40,51,74,61,57,55,62,58,55,52
+IE2,Ehime,Fawn Blossom,DF,tierra,43,50,50,46,55,55,40,46,52,53
+IE2,Ehime,Shaun Bonnie,DF,tierra,42,46,51,46,46,45,47,46,43,44
+IE2,Ehime,Toya Boyde (Blizzard only),DF,fuego,44,49,52,49,53,44,48,54,51,47
+IE2,Ehime,Sofia Brashier,DL,fuego,79,83,58,61,68,61,78,71,64,68
+IE2,Ehime,Glenn Broth,DF,aire,51,60,69,55,60,52,61,60,52,56
+IE2,Ehime,Madison Cabinet,PR,fuego,28,49,50,40,52,61,42,60,63,57
+IE2,Ehime,Robin Catching,PR,fuego,30,51,52,48,49,51,48,78,49,47
+IE2,Ehime,Rich Cave,PR,fuego,30,65,66,44,63,59,56,63,71,63
+IE2,Ehime,Sonny Cinders,DF,aire,73,48,53,73,55,46,47,46,55,54
+IE2,Ehime,Ash Cloud,DL,tierra,51,68,46,40,59,61,62,61,70,52
+IE2,Ehime,Buster Clout,DF,fuego,61,72,87,60,62,63,69,59,56,63
+IE2,Ehime,Percy Coldstair,DF,bosque,42,67,60,42,59,56,52,65,64,63
+IE2,Ehime,Cal Cooler,DL,bosque,88,58,45,68,56,61,60,55,69,57
+IE2,Ehime,Thomas Cott,PR,aire,33,55,63,53,59,53,56,63,59,56
+IE2,Ehime,Chris Country,MC,aire,54,54,72,52,45,44,68,68,60,71
+IE2,Ehime,Saul Dowd,DF,tierra,49,60,61,52,56,58,54,61,53,63
+IE2,Ehime,Tabor Drummond,PR,tierra,28,40,57,40,34,29,55,61,58,57
+IE2,Ehime,Yve Dunbar,PR,fuego,39,73,98,55,70,65,76,60,79,79
+IE2,Ehime,Esther Egerer,DL,bosque,95,51,48,75,52,57,63,52,61,68
+IE2,Ehime,Lee Figreene,DL,bosque,52,60,31,42,52,64,44,63,55,56
+IE2,Ehime,Carey Filling,DF,bosque,40,46,50,40,47,48,43,42,48,48
+IE2,Ehime,Alfie Fine,PR,bosque,46,44,86,66,52,52,69,50,68,57
+IE2,Ehime,Sam Firman,PR,fuego,40,47,63,60,54,60,57,52,67,52
+IE2,Ehime,Daryl Floor,DL,fuego,90,70,36,70,60,60,52,63,71,52
+IE2,Ehime,Herbie Garnet,PR,bosque,32,43,50,50,48,61,43,44,44,52
+IE2,Ehime,Pearson Gaze,DF,fuego,41,45,57,44,36,30,55,70,62,57
+IE2,Ehime,Chloe Glazier,DF,aire,45,75,94,48,62,67,76,59,58,53
+IE2,Ehime,Finn Geld (Gold),DL,bosque,98,78,59,79,68,77,79,43,79,46
+IE2,Ehime,Stu Helmsley,PR,fuego,37,53,62,56,53,62,56,63,60,58
+IE2,Ehime,Adam Hesive,DF,fuego,47,80,70,52,71,56,60,62,60,53
+IE2,Ehime,Frank Homey,DF,tierra,41,59,62,40,53,60,53,64,68,60
+IE2,Ehime,Sandy Hope,DF,tierra,70,48,87,68,58,52,70,32,60,63
+IE2,Ehime,Ant Hophila,DF,tierra,45,71,58,49,59,55,52,71,59,59
+IE2,Ehime,Florian Hutter,MC,fuego,58,58,53,55,54,52,56,59,62,57
+IE2,Ehime,Chris Hypogee,MC,tierra,49,73,46,46,60,62,48,56,52,59
+IE2,Ehime,Shaun Imago,DF,aire,40,45,57,42,36,30,55,60,60,60
+IE2,Ehime,Arvin Inkwell,DF,aire,50,56,70,54,56,57,61,56,54,52
+IE2,Ehime,Duncan Jump,DF,fuego,40,46,51,40,48,48,40,43,76,48
+IE2,Ehime,Fonda Katz,MC,bosque,71,61,64,62,53,60,62,58,59,59
+IE2,Ehime,Philippa Konik,MC,bosque,77,89,66,65,65,63,66,68,29,66
+IE2,Ehime,Marcy Laise,MC,bosque,71,67,54,62,56,60,54,60,68,60
+IE2,Ehime,Sayer Lemon,DF,fuego,47,67,57,52,61,54,52,63,59,53
+IE2,Ehime,Iggy Loyaller,DL,bosque,73,50,44,61,62,53,62,34,64,53
+IE2,Ehime,Bo Luger,DL,bosque,96,53,38,78,56,54,56,54,58,61
+IE2,Ehime,Dave Lung,PR,aire,49,78,96,66,76,70,74,70,66,69
+IE2,Ehime,Jody MacGough,DF,tierra,41,58,61,41,52,58,52,67,70,61
+IE2,Ehime,Al Mannack,DF,tierra,41,66,77,40,56,63,63,63,60,55
+IE2,Ehime,Bertram Manning,MC,aire,63,92,68,57,66,60,61,75,76,67
+IE2,Ehime,Rhys Masher,MC,aire,62,53,46,58,52,49,48,45,55,61
+IE2,Ehime,Archie Meades,PR,bosque,35,42,88,57,54,40,70,49,62,53
+IE2,Ehime,Bill Moony,DL,tierra,96,56,42,79,53,56,60,64,61,52
+IE2,Ehime,Hal Mullet,MC,aire,47,95,61,43,76,55,60,68,68,55
+IE2,Ehime,Laurie Nowlin,DF,aire,44,50,51,49,53,52,44,53,55,47
+IE2,Ehime,Hank O'Buff,PR,aire,30,65,75,46,61,60,62,66,67,52
+IE2,Ehime,Kurt O'Graphy,DF,bosque,42,59,60,45,56,56,53,62,68,52
+IE2,Ehime,Alton Oldhat,MC,tierra,65,58,43,60,62,48,40,47,60,62
+IE2,Ehime,Marc O'Lepsy,DF,bosque,70,65,72,68,61,58,60,57,62,57
+IE2,Ehime,Vanity Percy,PR,tierra,44,44,90,62,52,62,71,42,66,61
+IE2,Ehime,Bill Phee,PR,bosque,49,46,71,70,52,52,60,60,69,60
+IE2,Ehime,Anthony Phinder,DL,fuego,63,54,43,54,53,56,60,60,61,56
+IE2,Ehime,Nancy Pickney,DF,bosque,53,53,51,56,60,51,41,49,54,63
+IE2,Ehime,Tim Platton (Platinum),MC,tierra,54,78,50,52,60,60,53,63,60,52
+IE2,Ehime,Nancy Polearm,DF,aire,61,84,89,60,69,63,68,69,70,64
+IE2,Ehime,Peyton Pope,PR,fuego,40,52,69,60,62,52,58,53,62,61
+IE2,Ehime,Webber Poster,MC,fuego,57,53,44,55,56,46,45,40,56,56
+IE2,Ehime,Brian Presser,DL,tierra,72,74,48,59,68,56,65,57,55,63
+IE2,Ehime,Paddy Prunus,PR,aire,33,46,60,52,60,48,53,48,61,63
+IE2,Ehime,Beata Pummel,DL,fuego,50,79,48,29,64,62,61,68,71,70
+IE2,Ehime,Luke Raffles,MC,bosque,70,72,51,62,59,56,52,63,68,60
+IE2,Ehime,Ed Ripp,DF,tierra,41,54,73,42,52,53,60,65,70,57
+IE2,Ehime,Clark Roach,MC,tierra,76,53,61,66,54,57,60,36,63,56
+IE2,Ehime,Mac Robat,DL,bosque,78,86,56,61,76,58,71,70,78,65
+IE2,Ehime,Rosy Roker,DF,bosque,44,68,67,46,54,63,55,69,69,63
+IE2,Ehime,Phil Rosey,DL,fuego,64,68,51,54,64,56,69,57,54,60
+IE2,Ehime,Haden Safe,DL,fuego,75,55,46,60,60,52,62,52,62,69
+IE2,Ehime,Scrap Salvadge,PR,tierra,38,50,51,60,57,44,44,68,57,52
+IE2,Ehime,Argento Salvage,DF,fuego,62,80,86,60,65,60,66,70,68,69
+IE2,Ehime,Len Scapp,PR,tierra,28,41,60,41,36,33,56,74,56,63
+IE2,Ehime,Phil Seebold,DL,aire,74,63,38,60,56,61,56,62,54,57
+IE2,Ehime,Gabriel Shekinah,MC,aire,75,82,67,62,58,82,60,50,64,56
+IE2,Ehime,Ames Shivers,PR,bosque,41,49,62,61,56,58,56,55,63,54
+IE2,Ehime,Fen Skates,DL,fuego,58,68,46,52,70,44,65,57,65,52
+IE2,Ehime,Sham Spike,MC,tierra,65,60,52,60,58,52,56,55,56,58
+IE2,Ehime,Luis Springs,PR,tierra,38,46,61,56,52,55,53,58,63,79
+IE2,Ehime,Shaun Staid,PR,aire,29,69,74,43,61,53,61,79,77,56
+IE2,Ehime,Minnie Stratio,PR,tierra,28,51,55,40,55,65,50,52,57,56
+IE2,Ehime,Simon Stryker,PR,bosque,30,58,53,45,60,61,46,56,59,60
+IE2,Ehime,Den Taligene,MC,fuego,83,53,45,72,49,50,48,50,40,70
+IE2,Ehime,Olef Tennant,DF,aire,65,58,66,62,54,68,60,52,28,57
+IE2,Ehime,Clara Tompkins,DF,aire,68,45,50,68,36,41,32,40,61,58
+IE2,Ehime,Robin Traylor,MC,fuego,68,96,75,60,71,61,68,78,71,60
+IE2,Ehime,Fry Vollity,DF,bosque,67,52,61,66,52,52,54,61,65,56
+IE2,Ehime,Irv Washinton,DF,aire,41,46,50,44,40,51,42,44,51,46
+IE2,Ehime,Shylock Watson,DF,bosque,41,45,51,43,42,41,45,40,44,49
+IE2,Ehime,Nathan Weyton,DF,aire,42,45,57,45,33,33,54,64,63,60
+IE2,Ehime,Tailor Wilden,DL,fuego,66,50,34,57,56,45,52,53,60,58
+IE2,Ehime,Sly Winker,DF,aire,42,45,64,48,34,28,62,72,52,52
+IE2,Ehime,Lucky Winn,MC,aire,53,76,59,52,66,48,60,61,66,56
+IE2,Ehime,Bobby Yellow (Yeller),PR,bosque,29,41,54,47,44,46,52,48,49,44
+IE2,Fukuoka,May Apple,MC,tierra,45,51,44,40,44,52,48,46,44,49
+IE2,Fukuoka,Betty Backer,DL,bosque,67,82,55,53,73,70,70,48,68,69
+IE2,Fukuoka,Carey Bean,MC,fuego,63,54,70,60,49,40,69,68,61,60
+IE2,Fukuoka,Biff Beeston,PR,bosque,35,54,74,56,68,41,60,55,69,57
+IE2,Fukuoka,Lamar Bonesteel,MC,tierra,46,50,46,46,28,28,53,65,55,52
+IE2,Fukuoka,Rory Boomer,MC,tierra,84,76,60,71,62,57,56,60,65,79
+IE2,Fukuoka,Travis Borer,MC,aire,65,91,68,62,63,68,68,71,60,29
+IE2,Fukuoka,Stu Borneman,DF,bosque,58,67,71,58,63,56,58,57,59,74
+IE2,Fukuoka,Brendan Branch,PR,tierra,29,63,73,44,58,60,61,68,56,55
+IE2,Fukuoka,Brenda Brandish,DL,aire,87,51,47,68,61,60,64,31,64,55
+IE2,Fukuoka,Hannah Breer,DL,aire,50,46,32,40,44,50,49,44,46,46
+IE2,Fukuoka,Mark Brent,MC,aire,46,61,61,40,54,52,60,64,62,60
+IE2,Fukuoka,Jimmy Brim,DF,tierra,42,47,56,43,44,63,51,46,50,53
+IE2,Fukuoka,Anna Bugeisha,DL,aire,72,48,43,60,43,41,60,74,64,68
+IE2,Fukuoka,Gary Burdine,DF,tierra,75,87,90,71,70,69,72,76,36,73
+IE2,Fukuoka,Ernest Byer,DL,fuego,66,57,42,56,57,52,57,61,78,61
+IE2,Fukuoka,Bennett Byers,PR,aire,36,50,86,57,63,48,68,52,60,54
+IE2,Fukuoka,Junior Cage,DF,bosque,42,78,72,42,59,58,60,79,55,63
+IE2,Fukuoka,Dan Cawarry,DL,fuego,90,51,47,69,53,52,63,56,62,71
+IE2,Fukuoka,In Chikita (*),DL,fuego,86,76,47,66,66,59,62,61,60,68
+IE2,Fukuoka,Achilles Chinner,PR,tierra,44,69,92,61,63,61,70,68,69,68
+IE2,Fukuoka,Buster Chopps,PR,fuego,42,51,74,59,56,57,59,58,60,79
+IE2,Fukuoka,Toby Cohill,DF,fuego,63,51,64,61,52,52,54,58,59,76
+IE2,Fukuoka,Bobby Constable,DL,fuego,76,64,45,61,61,62,62,52,61,54
+IE2,Fukuoka,Drew Crenshaw,DF,tierra,45,73,55,46,59,69,48,61,53,63
+IE2,Fukuoka,Raven Crowe,DF,tierra,72,48,82,70,55,52,66,37,67,61
+IE2,Fukuoka,Tex Curvator,DL,tierra,62,78,48,53,70,52,67,63,52,60
+IE2,Fukuoka,Lou Daguerre,DF,tierra,47,49,53,52,56,51,46,44,61,53
+IE2,Fukuoka,Ben Danna,DL,fuego,75,84,57,60,72,57,75,69,71,62
+IE2,Fukuoka,Christian Dear,DF,bosque,61,73,80,59,64,76,64,44,52,55
+IE2,Fukuoka,Gregg Deremer,PR,fuego,51,61,50,76,56,67,45,62,63,28
+IE2,Fukuoka,Dany Destiny,DF,fuego,52,71,65,54,61,62,54,60,68,62
+IE2,Fukuoka,Anton Donce,MC,aire,54,52,74,53,56,42,72,42,58,61
+IE2,Fukuoka,Hiroshi Dot (*),MC,aire,59,68,68,58,70,40,67,53,68,53
+IE2,Fukuoka,Paul Downs,MC,aire,52,64,44,48,52,71,41,53,57,62
+IE2,Fukuoka,Terry Dryden,MC,fuego,47,51,44,45,47,41,47,50,51,50
+IE2,Fukuoka,Sonny East,PR,bosque,39,47,51,59,60,50,40,49,63,68
+IE2,Fukuoka,Ebirina (*),MC,bosque,49,66,47,45,56,66,49,52,56,53
+IE2,Fukuoka,Ei King (Ei) (*),DF,fuego,74,56,68,71,55,56,56,60,68,70
+IE2,Fukuoka,Oscar Esher,PR,aire,28,40,50,35,31,28,36,38,32,32
+IE2,Fukuoka,Ben Evolent,DL,aire,87,52,42,68,52,60,60,52,59,52
+IE2,Fukuoka,Florian Fauna,DL,aire,81,86,40,63,79,61,54,60,77,59
+IE2,Fukuoka,Cary Fearless,DL,fuego,85,70,44,65,61,60,58,61,70,68
+IE2,Fukuoka,Kay Gateley,DL,fuego,82,77,53,62,68,62,68,56,60,71
+IE2,Fukuoka,Griff Hardcasel,DL,fuego,81,80,48,61,63,70,62,63,60,66
+IE2,Fukuoka,Ed Hartsell,DF,aire,61,60,76,61,61,58,62,52,64,58
+IE2,Fukuoka,Hide King (Hide) (*),DF,tierra,45,68,85,49,60,55,69,65,62,55
+IE2,Fukuoka,Angus Hogg,DL,bosque,51,45,30,44,44,41,44,43,45,54
+IE2,Fukuoka,Erica Hogland,DL,bosque,54,64,36,44,59,66,53,52,52,57
+IE2,Fukuoka,Dom Ittory,PR,tierra,32,50,51,51,52,60,44,62,62,52
+IE2,Fukuoka,Jan Jared,DF,fuego,55,49,64,59,54,52,59,45,53,50
+IE2,Fukuoka,Chad Jowell,PR,tierra,51,65,74,72,62,63,61,60,60,55
+IE2,Fukuoka,Harry Keenan,DL,fuego,88,85,58,67,68,67,79,71,71,62
+IE2,Fukuoka,Harpo Kendrick,DL,fuego,83,86,47,62,65,71,60,78,72,63
+IE2,Fukuoka,Slim Lanky,PR,aire,28,40,63,44,36,35,58,66,55,63
+IE2,Fukuoka,Doug Lapp,DF,tierra,70,87,95,66,76,62,76,67,64,70
+IE2,Fukuoka,Shu Maimai (*),MC,bosque,84,53,76,70,53,60,68,32,64,79
+IE2,Fukuoka,Ebenezer Marner,DF,fuego,40,45,58,42,36,31,56,68,63,55
+IE2,Fukuoka,Frank Meyer,MC,fuego,57,74,64,54,62,52,63,63,56,61
+IE2,Fukuoka,Loughrey Mose,DL,aire,96,76,37,77,69,62,52,52,73,61
+IE2,Fukuoka,Max Motto,MC,bosque,71,59,53,63,55,57,56,54,55,56
+IE2,Fukuoka,Sandra Mudd,DL,bosque,57,75,32,47,62,70,44,56,61,61
+IE2,Fukuoka,Terry Namby,DL,tierra,54,45,31,49,41,42,47,40,45,46
+IE2,Fukuoka,Horace Nelson,PR,fuego,45,47,65,65,56,53,57,56,71,59
+IE2,Fukuoka,Gyll Netters,DL,aire,51,45,43,40,38,36,60,60,61,76
+IE2,Fukuoka,Ton Nino (*),MC,aire,78,73,59,66,60,63,56,55,71,63
+IE2,Fukuoka,Dory O'Bonn,DF,aire,41,46,50,42,40,51,40,43,40,51
+IE2,Fukuoka,Vinny O'Gaines,MC,bosque,49,73,49,46,61,64,52,52,52,55
+IE2,Fukuoka,Ryan O'Laugh,DF,aire,51,58,62,54,57,56,55,58,58,60
+IE2,Fukuoka,Paisley Onepiece,DF,aire,62,56,71,62,61,51,60,52,61,60
+IE2,Fukuoka,Tim Opener,DF,aire,42,46,88,45,39,34,74,77,55,59
+IE2,Fukuoka,Audry Orange,MC,fuego,51,54,45,52,53,48,48,48,56,44
+IE2,Fukuoka,Jem Paste,PR,bosque,30,59,61,46,57,63,55,61,64,56
+IE2,Fukuoka,Gwyn Penn,PR,aire,33,62,51,49,57,71,43,58,53,61
+IE2,Fukuoka,Bigsby Pigford,DL,aire,67,56,48,56,53,51,64,68,60,68
+IE2,Fukuoka,Becca Pilgreen,DF,bosque,68,86,94,64,76,60,74,68,66,71
+IE2,Fukuoka,Guy Pinnay,MC,bosque,66,60,66,60,55,54,62,58,71,61
+IE2,Fukuoka,Craig Placid,DL,fuego,81,68,49,61,63,57,63,57,58,79
+IE2,Fukuoka,Vick Pointer,DL,aire,87,62,40,68,60,53,57,61,61,62
+IE2,Fukuoka,Perry Postiche,PR,fuego,49,53,74,70,59,56,61,56,55,57
+IE2,Fukuoka,Eaton Rampage,DL,tierra,55,50,31,51,44,48,50,73,47,37
+IE2,Fukuoka,Harriet Reaching,PR,aire,43,71,82,60,65,67,64,62,62,65
+IE2,Fukuoka,Marvin Reading,PR,fuego,51,45,50,70,52,53,36,55,56,79
+IE2,Fukuoka,Curtis Rebell,DL,fuego,72,78,49,56,61,74,62,60,62,68
+IE2,Fukuoka,Don Ringo (*),PR,tierra,32,46,51,50,48,77,47,43,48,39
+IE2,Fukuoka,Gary Salmon,PR,tierra,37,51,70,56,53,59,60,63,60,58
+IE2,Fukuoka,Kurt Sermons,PR,tierra,53,65,95,78,67,60,74,53,69,64
+IE2,Fukuoka,Lana Service,DF,aire,66,87,94,62,77,66,74,66,62,71
+IE2,Fukuoka,Martin Sheller,DL,fuego,88,49,53,68,57,57,69,36,68,62
+IE2,Fukuoka,Robin Sherwood,DL,tierra,53,66,46,49,79,40,70,40,49,40
+IE2,Fukuoka,Ace Slider,PR,tierra,52,64,95,72,67,64,73,48,68,68
+IE2,Fukuoka,Don Snow,PR,fuego,41,45,80,60,58,60,64,35,64,61
+IE2,Fukuoka,Rudy Stemper,MC,bosque,47,51,49,44,36,35,54,68,52,69
+IE2,Fukuoka,Adel Tactor,DF,aire,71,51,84,66,60,63,64,32,64,75
+IE2,Fukuoka,Buck Teachey,DF,tierra,50,62,68,54,60,54,60,60,52,56
+IE2,Fukuoka,Benny Terra,MC,bosque,45,50,43,35,32,29,44,56,40,72
+IE2,Fukuoka,Vince Tinct,PR,aire,53,72,69,76,70,61,56,60,69,68
+IE2,Fukuoka,Odo Toilette,PR,fuego,29,64,66,44,60,59,58,66,63,52
+IE2,Fukuoka,Terry Toolan,DL,aire,68,64,46,55,63,54,60,56,61,78
+IE2,Fukuoka,Vinny Trioquist,DL,tierra,69,46,31,60,52,45,45,40,57,54
+IE2,Fukuoka,Ralph Vance,DL,fuego,81,86,40,61,69,74,54,65,66,63
+IE2,Fukuoka,Stu Venier,DF,fuego,41,66,59,41,59,58,52,62,68,54
+IE2,Fukuoka,Ryder Waverly,MC,fuego,49,50,58,49,39,33,62,60,62,56
+IE2,Fukuoka,Will Whist,PR,fuego,37,40,54,61,36,30,52,62,54,53
+IE2,Fukuoka,Ginny White,DL,aire,56,47,30,51,52,48,40,44,52,47
+IE2,Fukuoka,Cash Winfall,DF,fuego,43,63,56,45,56,67,50,56,53,53
+IE2,Fukuoka,Tyche Winham,PR,bosque,40,55,65,60,56,59,58,63,60,52
+IE2,Fukuoka,Ramona Wriston,MC,tierra,69,80,61,60,71,65,60,39,49,62
+IE2,Okinawa,Rab Acus,DL,aire,56,70,34,48,63,53,52,64,57,58
+IE2,Okinawa,Berty Adman,PR,tierra,31,53,67,48,52,56,59,71,62,55
+IE2,Okinawa,Bill Aegis,DF,tierra,60,53,68,63,62,40,60,56,68,55
+IE2,Okinawa,Des Ainer,MC,fuego,82,57,66,71,60,61,63,34,60,59
+IE2,Okinawa,Manny Atom,DL,fuego,85,64,50,67,59,54,68,64,61,54
+IE2,Okinawa,Cletus Badden,MC,aire,62,60,50,58,56,54,53,56,63,56
+IE2,Okinawa,Bob Baggum,PR,tierra,32,51,76,49,53,66,62,56,54,62
+IE2,Okinawa,Sam Banks,MC,fuego,59,53,82,54,56,58,77,28,79,68
+IE2,Okinawa,Rose Bedd,MC,fuego,79,57,72,70,59,53,70,45,60,52
+IE2,Okinawa,Carl Belcher,PR,bosque,34,51,73,52,57,59,60,55,56,62
+IE2,Okinawa,Serena Besse,MC,bosque,77,96,77,64,70,70,70,69,60,65
+IE2,Okinawa,Roman Blac,DF,fuego,61,86,86,60,76,60,68,68,64,62
+IE2,Okinawa,Wiley Blinks,DL,fuego,60,47,40,54,64,35,61,33,55,60
+IE2,Okinawa,Gregory Bones,MC,bosque,51,76,62,49,60,53,60,68,66,63
+IE2,Okinawa,Trey Cultivator (Bonzer),DF,bosque,43,72,61,42,56,73,51,61,62,60
+IE2,Okinawa,Ace Breaker,DF,tierra,58,79,93,57,60,67,71,71,68,70
+IE2,Okinawa,Theo Broma,DF,fuego,46,48,54,52,54,49,49,41,55,53
+IE2,Okinawa,Vince Bull,MC,aire,58,64,60,55,56,52,60,64,64,57
+IE2,Okinawa,David Burnum,DF,fuego,42,48,52,44,51,52,46,48,46,49
+IE2,Okinawa,Roman Candler,MC,fuego,48,71,45,44,52,70,45,62,52,53
+IE2,Okinawa,Walter Card,DL,tierra,50,46,30,32,30,79,33,39,36,35
+IE2,Okinawa,Troy Carr,DL,aire,69,58,48,56,56,63,63,53,61,63
+IE2,Okinawa,Sim Cebus,PR,bosque,54,65,98,79,66,64,79,51,71,60
+IE2,Okinawa,Butler Chambers,DL,fuego,88,49,30,71,58,40,42,48,60,56
+IE2,Okinawa,Carys Chaparon,DL,aire,96,75,58,78,55,62,82,78,55,56
+IE2,Okinawa,Wally Cooper,DF,bosque,70,68,70,70,65,48,60,63,71,52
+IE2,Okinawa,Fox Copier,DL,bosque,74,51,36,60,52,56,54,53,56,60
+IE2,Okinawa,Andy Craft,DL,bosque,50,46,30,40,40,47,44,47,41,40
+IE2,Okinawa,Nester Damus,PR,aire,45,57,74,63,60,63,61,53,54,56
+IE2,Okinawa,Guy Dance,MC,tierra,47,74,66,42,58,63,62,60,67,55
+IE2,Okinawa,Winn deBreeze,DF,aire,62,50,68,62,52,53,60,52,52,60
+IE2,Okinawa,Ramsey Faroe,PR,fuego,28,46,90,37,77,32,71,30,79,34
+IE2,Okinawa,Jarmon Fisk,DF,tierra,48,60,81,52,61,50,66,60,60,61
+IE2,Okinawa,Vin Fleetwood,DL,aire,92,78,54,71,64,61,69,68,68,65
+IE2,Okinawa,Conn Fuchus,PR,fuego,53,66,98,75,68,69,79,45,72,64
+IE2,Okinawa,Garland Gathers,MC,tierra,57,52,44,56,44,52,44,52,61,46
+IE2,Okinawa,Chris Glover,MC,bosque,77,60,80,67,62,60,76,38,67,52
+IE2,Okinawa,Chunk Gorman,DL,tierra,55,60,40,48,56,57,60,63,52,52
+IE2,Okinawa,Jacob Grimley,DL,aire,87,49,34,69,58,44,51,44,62,62
+IE2,Okinawa,Cameron Hameha,MC,bosque,47,54,44,44,49,58,44,46,55,50
+IE2,Okinawa,Jak Hammerslam (Hammer),DL,fuego,52,64,46,43,59,52,63,66,64,60
+IE2,Okinawa,Marilyn Henshaw,PR,tierra,50,67,95,68,66,71,74,49,75,60
+IE2,Okinawa,Claire Hostess,DL,fuego,90,67,39,69,60,60,56,59,60,61
+IE2,Okinawa,Leon Hotair,DL,aire,65,60,45,55,58,63,63,52,52,53
+IE2,Okinawa,Nolene Ider,MC,bosque,55,64,61,53,56,54,60,62,68,55
+IE2,Okinawa,Sandy Insolls,MC,fuego,47,52,49,44,40,46,52,66,70,57
+IE2,Okinawa,Del Iverryboy,PR,aire,36,51,52,54,55,64,46,54,54,57
+IE2,Okinawa,Manuel Kinart,MC,aire,52,86,63,50,63,52,62,77,63,57
+IE2,Okinawa,Nick Knack,MC,fuego,57,65,47,52,54,68,48,53,57,60
+IE2,Okinawa,Hoots Knightly,DF,aire,71,84,90,69,76,52,70,65,74,63
+IE2,Okinawa,Teddy Kodiak,MC,tierra,62,65,51,58,57,60,54,55,61,52
+IE2,Okinawa,Stuart Leafe,DL,bosque,64,54,37,55,52,55,56,63,60,54
+IE2,Okinawa,Harvey Lifter,DF,tierra,47,50,55,52,53,51,52,53,46,52
+IE2,Okinawa,Pat Lubow,DF,bosque,45,47,50,51,47,49,40,49,44,45
+IE2,Okinawa,Stu Perstitious (Lucky),DF,fuego,41,71,51,40,56,69,40,63,53,53
+IE2,Okinawa,Dylan Magpie,PR,aire,31,57,67,48,52,58,59,74,66,57
+IE2,Okinawa,Bamber Mandrina,DF,bosque,40,50,91,32,71,31,78,36,79,30
+IE2,Okinawa,Hugh Marble,DF,tierra,59,50,52,61,59,46,46,45,54,61
+IE2,Okinawa,Mal Maroon,DF,aire,43,58,60,45,53,56,54,67,60,56
+IE2,Okinawa,Wilma Morgan,PR,fuego,45,51,98,64,60,52,80,56,69,61
+IE2,Okinawa,Blake Nailor,PR,bosque,32,64,97,48,69,75,78,32,60,54
+IE2,Okinawa,Bert Neptune,MC,bosque,75,92,69,64,70,64,64,62,61,61
+IE2,Okinawa,Dan Nettles,PR,bosque,42,59,71,62,60,58,60,61,38,53
+IE2,Okinawa,Pete Nokeyo,DF,bosque,41,61,60,42,54,52,55,73,54,59
+IE2,Okinawa,Dec Orum,DL,bosque,91,66,42,70,56,63,56,63,74,60
+IE2,Okinawa,Mark Perfect,PR,fuego,30,66,73,44,60,61,60,68,65,62
+IE2,Okinawa,Lisle Plotter,DL,aire,88,70,36,68,63,57,52,60,64,64
+IE2,Okinawa,Gus Potter,DF,tierra,44,65,71,46,56,58,59,67,61,61
+IE2,Okinawa,Rock Poulon,PR,aire,33,59,81,52,68,50,63,52,64,62
+IE2,Okinawa,Kurt Price,MC,bosque,46,51,45,45,48,47,51,41,43,42
+IE2,Okinawa,Katy Punter,DF,bosque,47,58,59,49,53,66,51,57,57,62
+IE2,Okinawa,Shemmy Ramis,MC,tierra,66,77,62,60,60,60,60,62,63,56
+IE2,Okinawa,Dan Rhino,MC,tierra,82,79,50,72,58,60,53,69,62,53
+IE2,Okinawa,Gil Rivers,DL,aire,64,66,46,54,61,55,63,61,59,59
+IE2,Okinawa,Dom Round,DF,tierra,42,46,53,44,46,48,49,44,48,55
+IE2,Okinawa,Odessa Ryder,MC,aire,54,61,54,52,57,58,56,52,60,56
+IE2,Okinawa,Colin Salts,DL,bosque,72,46,30,63,44,46,41,44,48,41
+IE2,Okinawa,Beat Scatton,MC,bosque,53,57,59,52,51,48,60,65,61,60
+IE2,Okinawa,Lee Screener,DF,bosque,47,78,54,48,61,78,44,55,52,60
+IE2,Okinawa,Saul Searcher,DF,aire,43,69,72,46,59,58,62,66,52,54
+IE2,Okinawa,Bob Shishker,DL,fuego,53,54,35,44,54,52,56,62,37,57
+IE2,Okinawa,Scamp Shrimplin,PR,bosque,31,57,52,47,58,68,45,52,53,60
+IE2,Okinawa,Isaiah Shutt,DL,tierra,80,69,41,64,68,54,60,52,56,52
+IE2,Okinawa,Mark Skidfree,MC,fuego,67,68,67,60,63,59,62,48,71,58
+IE2,Okinawa,Tom Skipper,DL,aire,98,86,51,76,72,79,64,56,52,79
+IE2,Okinawa,Chris Miles (Smiles),MC,bosque,63,83,60,58,69,60,60,52,57,56
+IE2,Okinawa,Claude Snap,DL,aire,87,76,50,66,62,61,64,67,68,68
+IE2,Okinawa,Homer Sockshell,DL,fuego,74,64,52,60,64,55,69,53,61,62
+IE2,Okinawa,Jesse Spiller,DF,bosque,72,71,78,68,66,56,61,56,67,71
+IE2,Okinawa,Rayce Sprinton,MC,aire,51,74,47,48,56,64,49,63,60,56
+IE2,Okinawa,Steve Squander,DL,fuego,95,46,50,77,63,36,67,28,64,76
+IE2,Okinawa,Sol Stiss,DL,tierra,55,74,31,47,62,64,40,61,62,52
+IE2,Okinawa,Bill Tardy,PR,tierra,44,55,75,63,63,56,61,52,60,59
+IE2,Okinawa,Polly Targest,MC,fuego,59,79,74,55,66,59,71,53,52,55
+IE2,Okinawa,Thor Toise,MC,tierra,52,54,43,52,54,48,41,50,59,53
+IE2,Okinawa,Tim Toppel,PR,bosque,50,70,74,69,65,64,60,64,69,61
+IE2,Okinawa,Tad Trinket,MC,fuego,47,53,43,44,47,52,43,53,52,48
+IE2,Okinawa,Harley Trotter,DL,fuego,89,58,43,70,56,56,59,61,71,54
+IE2,Okinawa,Milly Vacey (Firestorm only),DL,bosque,88,75,44,68,70,55,59,55,71,64
+IE2,Okinawa,Carey Vanpark,MC,fuego,51,52,50,51,44,45,55,57,63,52
+IE2,Okinawa,Dan Vega,DF,bosque,70,77,76,66,64,62,60,64,62,68
+IE2,Okinawa,Walter Walken,DF,aire,43,46,55,44,42,48,49,50,51,73
+IE2,Okinawa,Wally Waymire,DF,aire,50,56,62,53,56,61,55,52,62,53
+IE2,Okinawa,Ben Whistler,DF,tierra,47,48,66,53,42,43,60,71,60,54
+IE2,Okinawa,Weldon Wrought,DF,aire,41,62,52,41,55,62,42,62,55,58
+IE2,Fuji,Glen Adeer,DL,aire,78,65,49,62,61,60,67,55,56,56
+IE2,Fuji,Edward Albion,PR,tierra,43,70,65,60,60,69,56,68,62,61
+IE2,Fuji,Rob Anchor,DF,aire,63,74,65,61,57,74,53,61,71,55
+IE2,Fuji,Al Askan,DL,tierra,60,78,54,49,63,76,69,53,56,62
+IE2,Fuji,Finn Attick,DF,aire,65,75,91,61,61,68,69,60,70,65
+IE2,Fuji,Brook Atwater,DF,aire,54,57,63,57,60,54,56,53,60,59
+IE2,Fuji,Ted Autumn,PR,aire,53,67,98,78,69,46,78,68,44,74
+IE2,Fuji,Emma Barres,DF,aire,42,47,58,45,50,47,55,45,53,54
+IE2,Fuji,Jerry Bateman,DL,bosque,61,55,33,53,51,51,52,71,52,56
+IE2,Fuji,Theo Bernoulli,MC,bosque,63,81,72,60,70,51,68,56,70,55
+IE2,Fuji,Gaston Berry,DL,fuego,51,46,30,42,37,38,33,73,71,63
+IE2,Fuji,Callum Biddy,MC,tierra,47,58,44,43,44,66,44,65,51,53
+IE2,Fuji,Herc Bigsby,DF,tierra,53,62,88,56,62,56,71,54,60,56
+IE2,Fuji,Billy Blanc,DL,aire,77,50,32,60,58,48,45,48,52,79
+IE2,Fuji,John Bleach,DL,fuego,53,60,37,44,52,62,56,65,54,53
+IE2,Fuji,Stu Boilin,DF,aire,55,69,72,56,63,63,60,53,53,62
+IE2,Fuji,Ray Bowing,DL,aire,80,82,55,61,69,66,70,60,65,66
+IE2,Fuji,Ace Bragg,MC,bosque,79,92,75,67,68,65,68,66,67,60
+IE2,Fuji,Keenan Brainard,MC,bosque,52,76,59,52,68,43,61,62,63,56
+IE2,Fuji,Nigel Bramel,DF,aire,44,68,59,47,55,60,52,70,63,56
+IE2,Fuji,Ken Broad,MC,tierra,46,50,48,45,32,31,55,62,60,52
+IE2,Fuji,Ainsley Burns,DL,tierra,56,71,36,46,58,68,51,60,62,63
+IE2,Fuji,Rob Burnsides,DF,aire,44,68,76,46,55,61,62,69,63,54
+IE2,Fuji,Monty Burrows,PR,tierra,28,41,50,29,32,65,38,60,57,64
+IE2,Fuji,Alan Carte,MC,tierra,84,53,43,75,52,45,40,51,56,60
+IE2,Fuji,Dan Castella,PR,tierra,39,58,56,60,59,56,52,63,56,54
+IE2,Fuji,Dave Chaucer,MC,bosque,82,67,52,71,59,56,53,58,71,56
+IE2,Fuji,Aran Cheeks,PR,aire,33,65,51,50,63,64,42,57,63,62
+IE2,Fuji,Al Chemmy,DF,fuego,72,80,81,69,68,60,65,64,62,60
+IE2,Fuji,Shay Chez,MC,tierra,61,86,62,56,66,59,61,63,52,63
+IE2,Fuji,Paul Chucker,PR,bosque,41,42,51,61,52,51,44,43,63,58
+IE2,Fuji,Joe Chugger,DF,fuego,67,87,93,64,77,66,73,65,66,63
+IE2,Fuji,Bill Clanger,DF,tierra,74,62,74,73,60,60,62,54,55,56
+IE2,Fuji,Crystal Clears,DL,bosque,64,76,38,54,60,62,56,71,59,54
+IE2,Fuji,Cole Coaker,PR,bosque,31,50,56,47,52,60,52,62,59,58
+IE2,Fuji,John Corder,DL,fuego,67,75,43,56,63,62,61,62,56,52
+IE2,Fuji,Des Count,DF,aire,63,72,89,62,60,63,71,63,60,54
+IE2,Fuji,Creed Craving,PR,fuego,42,55,71,61,60,62,60,52,58,53
+IE2,Fuji,Lara Creamer,MC,aire,53,71,43,51,59,60,40,58,56,56
+IE2,Fuji,Nick Crew,PR,fuego,30,55,51,45,57,60,43,60,59,61
+IE2,Fuji,Holly Cricket,MC,fuego,65,83,64,61,70,48,63,63,67,56
+IE2,Fuji,Cass Crocker,DL,fuego,86,50,30,68,51,64,38,44,40,44
+IE2,Fuji,Guile Crocket,DF,fuego,63,50,75,63,47,44,61,72,71,66
+IE2,Fuji,Curtis Croon,DF,fuego,65,47,72,68,55,52,64,31,68,28
+IE2,Fuji,Brent Cross,MC,fuego,68,52,46,63,52,40,49,49,58,57
+IE2,Fuji,Robin Cruise,PR,tierra,45,43,86,64,58,55,68,32,61,56
+IE2,Fuji,Ben Curd,DF,fuego,73,86,96,70,77,58,79,68,68,65
+IE2,Fuji,Coe Dachy,PR,aire,44,50,84,62,59,60,66,48,64,63
+IE2,Fuji,Ben deLimms,PR,bosque,29,60,66,45,60,58,58,62,56,52
+IE2,Fuji,Keanu Dell,DL,fuego,53,67,33,46,55,68,51,61,52,29
+IE2,Fuji,Stu Dent,PR,fuego,47,41,50,68,34,44,29,73,62,56
+IE2,Fuji,Remy Diggun,DF,bosque,55,66,62,58,61,54,56,62,59,54
+IE2,Fuji,Susan Doiley (Blizzard only),MC,bosque,77,63,53,67,52,59,54,63,71,54
+IE2,Fuji,Lee Dorr,PR,fuego,30,40,50,48,44,42,42,44,47,48
+IE2,Fuji,Dash Dotter,MC,aire,54,66,50,51,52,61,52,65,62,58
+IE2,Fuji,Linden Dray,DF,bosque,41,63,53,41,57,64,45,57,55,60
+IE2,Fuji,Jon Driedon,DL,fuego,50,58,49,32,56,60,62,57,69,75
+IE2,Fuji,Norm Drilling,DL,fuego,67,53,39,57,53,54,58,60,57,54
+IE2,Fuji,Grew Driver,MC,aire,79,93,70,67,64,64,64,79,64,64
+IE2,Fuji,Dan Drobium,DL,bosque,61,66,36,52,60,62,53,56,62,57
+IE2,Fuji,Ed Dupee,DF,bosque,40,45,56,40,28,38,53,68,60,60
+IE2,Fuji,Arthur Easley,DF,tierra,64,67,68,59,56,69,54,58,56,79
+IE2,Fuji,Ian Moray (Eel),MC,aire,70,61,52,63,60,52,56,52,60,54
+IE2,Fuji,Benedict Eggers,DF,bosque,66,51,90,64,60,58,71,36,65,62
+IE2,Fuji,Tel Egram,MC,tierra,51,79,44,48,60,62,43,62,62,57
+IE2,Fuji,Scot Enguard,DF,tierra,68,71,75,65,60,64,60,60,62,64
+IE2,Fuji,Hank Ershef,MC,bosque,49,72,62,45,56,56,60,69,63,63
+IE2,Fuji,Aessop Fabel,DF,fuego,65,54,59,64,54,53,53,61,63,60
+IE2,Fuji,Esau Fagus,DL,aire,52,47,34,46,52,46,58,41,43,40
+IE2,Fuji,Peter Fakhoury,MC,aire,53,75,66,50,52,57,63,79,60,63
+IE2,Fuji,Lou Fauntleroy,MC,tierra,66,94,69,57,67,68,61,72,68,71
+IE2,Fuji,Ashley Fay,DL,aire,71,47,33,62,56,40,51,40,57,52
+IE2,Fuji,Tom Felix,MC,aire,60,90,68,54,60,71,63,71,61,59
+IE2,Fuji,Ike Doerflinger (Flinger),DL,bosque,61,59,43,53,60,58,61,52,56,52
+IE2,Fuji,Pippin Flowers,DL,fuego,79,77,41,63,71,52,60,60,56,60
+IE2,Fuji,Telly Fonbocks,MC,fuego,70,63,49,62,54,60,53,59,52,52
+IE2,Fuji,Turner Fortune,DF,bosque,40,45,90,29,36,50,77,40,46,42
+IE2,Fuji,Conan Fox,PR,tierra,29,53,59,44,56,56,53,62,55,63
+IE2,Fuji,Rob Freeby,DL,tierra,83,50,49,65,63,55,67,28,60,56
+IE2,Fuji,Hans Freesing,DF,aire,73,81,88,68,71,76,65,44,73,65
+IE2,Fuji,Heath Freke,PR,tierra,46,53,57,64,56,63,52,56,61,60
+IE2,Fuji,Tony Frogge,DL,fuego,61,52,31,54,60,45,46,52,56,56
+IE2,Fuji,Andy Fudge,DL,fuego,91,86,53,68,78,76,65,44,73,63
+IE2,Fuji,Aurie Garmer,MC,aire,58,64,72,56,66,44,70,52,65,56
+IE2,Fuji,Tara Gaudier,DF,fuego,67,84,89,64,73,63,68,60,72,63
+IE2,Fuji,Rex George,PR,aire,49,70,91,68,68,60,69,62,67,66
+IE2,Fuji,Noah Gerkin,PR,fuego,50,41,53,75,49,48,49,44,40,43
+IE2,Fuji,Michael Gibe,DF,bosque,55,80,59,56,62,63,52,72,53,63
+IE2,Fuji,Ches Nutcracker (Gnashers),PR,fuego,52,79,94,71,77,69,71,78,28,70
+IE2,Fuji,Buddy Goodman,DF,bosque,45,68,54,47,75,48,48,43,45,76
+IE2,Fuji,Victor Grand,DF,bosque,67,56,58,66,53,60,52,59,60,53
+IE2,Fuji,Beck Hand,DL,aire,72,81,55,56,60,70,68,72,72,71
+IE2,Fuji,Kaya Haskell,DL,bosque,87,51,48,69,61,52,66,39,64,52
+IE2,Fuji,Lincoln Hawking,DL,tierra,69,53,55,57,52,62,73,54,63,60
+IE2,Fuji,Carson Haynes,DF,bosque,57,61,69,58,60,56,58,57,60,66
+IE2,Fuji,Page Helper,MC,tierra,51,79,56,49,55,57,59,77,54,52
+IE2,Fuji,Mitch Hett,DL,aire,66,63,43,54,53,72,59,57,58,55
+IE2,Fuji,Per Hockside,DL,fuego,52,64,38,42,55,57,54,69,67,62
+IE2,Fuji,Gil Holden,DF,aire,43,70,58,44,60,66,50,57,60,61
+IE2,Fuji,Andrew Hooper,DL,aire,81,72,49,62,64,63,63,55,72,62
+IE2,Fuji,Trey Hugger,PR,fuego,28,61,94,36,73,60,73,35,28,58
+IE2,Fuji,Tate Immy,MC,aire,79,60,44,68,46,68,40,62,68,48
+IE2,Fuji,Mal Inger,DF,tierra,48,62,55,51,56,63,48,59,55,60
+IE2,Fuji,Morgan Iser,MC,bosque,70,59,49,62,53,59,52,55,60,54
+IE2,Fuji,Al Itchen,MC,tierra,60,66,53,55,54,59,53,64,68,63
+IE2,Fuji,Mark Izushy,PR,tierra,54,60,97,79,64,61,77,51,69,70
+IE2,Fuji,Solomon Justice,MC,bosque,69,67,50,62,60,53,53,59,62,56
+IE2,Fuji,Ardel Kernel,DF,tierra,41,62,62,40,53,59,55,69,61,54
+IE2,Fuji,Will Kilmon,MC,bosque,52,52,45,51,49,52,48,44,53,55
+IE2,Fuji,Manny Kinsland,DL,tierra,63,58,49,55,63,46,68,56,60,57
+IE2,Fuji,Bryan Klamm,MC,aire,52,68,52,51,56,55,55,66,59,53
+IE2,Fuji,Kim Knotted,MC,aire,48,77,63,45,59,56,62,68,57,60
+IE2,Fuji,Frank Koshar,DL,aire,60,53,45,54,61,40,64,58,67,56
+IE2,Fuji,Ted Larkin,MC,bosque,67,77,68,60,59,62,63,62,70,58
+IE2,Fuji,Leon Lawn,DF,tierra,56,48,53,60,55,49,46,40,69,52
+IE2,Fuji,Jane Ledbelly,DF,bosque,42,48,56,44,50,52,53,48,53,52
+IE2,Fuji,Nelson Levene,DF,tierra,57,53,77,60,59,52,64,51,62,56
+IE2,Fuji,Cruz Ligner,MC,tierra,63,59,59,59,53,52,60,62,59,58
+IE2,Fuji,Neville List,DF,bosque,40,70,58,40,57,55,52,74,70,52
+IE2,Fuji,Randolph Lords,PR,tierra,37,67,79,56,70,55,62,56,60,60
+IE2,Fuji,Mel Lowe,DF,tierra,70,85,95,67,77,59,74,60,77,66
+IE2,Fuji,Barry Lugh,DL,aire,52,67,38,42,58,59,54,64,67,62
+IE2,Fuji,Portia Maricle,MC,bosque,59,83,56,55,63,59,55,65,71,58
+IE2,Fuji,Bane Marie,DF,tierra,49,73,71,52,67,58,60,56,58,58
+IE2,Fuji,Bert McClure,DF,aire,42,51,57,44,50,50,52,63,63,54
+IE2,Fuji,Archy Medez,PR,aire,35,64,60,53,60,62,54,63,60,58
+IE2,Fuji,Walter Mendip,DL,aire,71,49,33,61,62,40,51,42,54,59
+IE2,Fuji,Scout Messenger,DF,bosque,70,68,65,69,61,56,58,63,56,52
+IE2,Fuji,Romeo Montague,PR,fuego,38,59,71,57,60,63,60,56,61,55
+IE2,Fuji,Sam Murray,DF,aire,68,47,87,67,54,52,69,35,68,59
+IE2,Fuji,Jim Nastick,DL,bosque,73,60,47,60,61,55,64,55,59,59
+IE2,Fuji,Mario Nette,DF,tierra,41,46,52,43,45,47,48,48,44,42
+IE2,Fuji,Phil Occifer,MC,bosque,55,70,46,51,55,65,44,60,61,62
+IE2,Fuji,Hank O'Chief,PR,fuego,37,46,52,58,62,48,45,46,56,58
+IE2,Fuji,Carrie O'Kea,DF,bosque,49,48,53,54,52,52,47,44,52,52
+IE2,Fuji,Gill O'Mend,MC,fuego,60,68,51,56,60,56,55,57,52,57
+IE2,Fuji,Pauly Ontology,DL,tierra,50,45,34,41,31,34,54,62,63,54
+IE2,Fuji,Rod Opsin,DL,tierra,77,52,37,61,52,58,52,56,71,60
+IE2,Fuji,Terry Orr,DF,fuego,46,47,53,50,43,40,44,71,79,68
+IE2,Fuji,Solomon Osaka,DL,aire,56,68,31,47,59,68,42,54,54,55
+IE2,Fuji,Gary Osoto,DF,aire,44,73,63,48,60,57,56,71,61,53
+IE2,Fuji,Harry Overton,PR,bosque,32,61,88,52,68,44,68,62,60,56
+IE2,Fuji,Phil Pagoda,PR,tierra,49,56,92,68,63,64,71,45,68,61
+IE2,Fuji,Beau Painton,MC,fuego,78,58,50,67,52,62,52,52,60,60
+IE2,Fuji,Doyle Palmer,PR,tierra,39,53,64,59,55,57,57,63,53,56
+IE2,Fuji,Pete Pang,PR,fuego,39,70,89,60,70,56,69,61,58,52
+IE2,Fuji,Conn Pass,MC,aire,50,84,44,45,61,76,41,54,55,56
+IE2,Fuji,Sabrina Passman (Firestorm only),DL,tierra,98,80,56,78,70,67,71,53,69,70
+IE2,Fuji,Lou Paster,DL,aire,70,73,40,58,62,63,56,60,70,55
+IE2,Fuji,Sim Pathy,DF,bosque,76,65,52,76,58,64,41,57,62,56
+IE2,Fuji,Clint Peacock,MC,tierra,73,60,53,63,52,63,55,55,55,58
+IE2,Fuji,Aaron Peacy,PR,tierra,28,56,67,42,54,56,59,71,52,52
+IE2,Fuji,Art Pendragon,PR,aire,39,59,79,60,65,46,63,63,71,59
+IE2,Fuji,Olly Popman,MC,aire,79,75,59,67,63,61,58,53,60,62
+IE2,Fuji,Tim Pression,PR,fuego,28,40,82,40,32,29,69,64,52,57
+IE2,Fuji,Justin Primm,PR,aire,31,48,56,50,53,54,52,62,67,54
+IE2,Fuji,Nev Puffer,DF,bosque,60,86,63,58,68,70,52,70,65,64
+IE2,Fuji,Fred Punch,DF,fuego,48,84,86,50,68,74,68,60,57,52
+IE2,Fuji,Butch Pythons,PR,aire,44,69,75,63,67,61,61,60,52,54
+IE2,Fuji,Shirly Quirk,DF,aire,41,48,55,44,48,44,52,60,52,55
+IE2,Fuji,Will Racer,DL,tierra,67,66,42,56,61,56,60,60,54,60
+IE2,Fuji,Clark Rain,MC,tierra,48,82,44,44,60,69,42,59,52,53
+IE2,Fuji,Mack Ramey,DF,tierra,56,48,52,60,53,48,44,48,61,52
+IE2,Fuji,Knight Reader,DF,tierra,41,47,83,44,48,46,72,51,49,47
+IE2,Fuji,Sonny Rentman,DL,tierra,67,82,52,56,71,60,69,62,63,57
+IE2,Fuji,Eathan Ringer,DL,tierra,82,53,48,63,61,61,63,36,66,61
+IE2,Fuji,Paddy Rise,DF,fuego,54,77,82,56,69,60,66,56,60,60
+IE2,Fuji,Josh Rogan,MC,fuego,57,61,45,55,60,52,47,52,53,52
+IE2,Fuji,Carl Sacks,DL,tierra,72,63,42,60,62,56,61,55,52,55
+IE2,Fuji,Swithin Sainte,MC,aire,53,68,61,52,62,52,61,57,62,56
+IE2,Fuji,Steve Sancey,MC,bosque,83,96,76,68,69,72,70,73,33,78
+IE2,Fuji,Nick Savers,PR,aire,51,65,94,71,70,68,72,40,76,65
+IE2,Fuji,Finn Sawyer,PR,fuego,32,69,53,48,59,76,46,62,59,59
+IE2,Fuji,Draco Scallon,DL,aire,66,54,34,56,52,57,52,61,56,56
+IE2,Fuji,Leaf Scarlett,DL,aire,67,62,48,56,57,60,65,60,53,60
+IE2,Fuji,Rock Scowlon,DF,aire,44,48,66,48,47,40,60,64,56,57
+IE2,Fuji,Kelly Scrivens (Blizzard only),MC,bosque,65,58,48,61,56,52,52,54,60,52
+IE2,Fuji,Silas Scrooge,DF,fuego,73,86,84,70,73,68,65,64,67,60
+IE2,Fuji,Duke Scrubine,PR,tierra,37,70,76,56,71,60,60,55,55,60
+IE2,Fuji,Neil Seating,MC,aire,68,64,44,59,52,76,40,48,61,52
+IE2,Fuji,Abe Seiler,MC,tierra,81,71,51,70,61,60,54,54,60,52
+IE2,Fuji,Dwight Self,DL,aire,83,51,36,65,52,54,53,56,70,56
+IE2,Fuji,Florian Selles,DL,bosque,60,66,44,52,60,59,63,59,52,52
+IE2,Fuji,Luke Severin,MC,fuego,61,72,50,56,62,56,52,57,62,63
+IE2,Fuji,Shep Shank,DL,aire,57,61,36,48,55,61,53,62,55,61
+IE2,Fuji,Charlie Shearing,DF,bosque,56,64,61,59,61,52,55,62,60,56
+IE2,Fuji,Rocky Shears,PR,tierra,39,59,97,58,58,60,79,63,60,60
+IE2,Fuji,Norry Sheets,PR,fuego,36,56,92,57,68,43,71,56,60,60
+IE2,Fuji,Hank Shortman,MC,aire,51,66,45,47,52,74,43,52,61,52
+IE2,Fuji,Char Shumaker,DL,tierra,73,64,39,60,60,59,57,57,59,55
+IE2,Fuji,Bones Size,DF,bosque,43,72,69,45,55,61,59,74,60,54
+IE2,Fuji,Grant Slammer,DL,aire,57,62,31,48,57,63,43,57,54,58
+IE2,Fuji,Flip Sliden,DL,aire,69,84,50,56,67,64,64,74,69,66
+IE2,Fuji,Alec Smart,PR,fuego,29,42,50,45,48,50,40,51,47,45
+IE2,Fuji,Boomer Smolen,PR,tierra,39,53,81,60,65,46,64,54,70,57
+IE2,Fuji,Rose Snelgrove,DF,aire,51,52,52,55,57,51,44,51,59,54
+IE2,Fuji,Floyd Spades,MC,tierra,75,60,59,64,52,63,57,56,64,62
+IE2,Fuji,Scean Spector,DF,aire,42,45,57,47,30,28,56,62,56,60
+IE2,Fuji,Vin Spinner,DF,aire,42,45,65,46,29,39,59,68,60,60
+IE2,Fuji,Verne Spring,MC,fuego,85,79,81,71,44,77,72,79,73,78
+IE2,Fuji,Scott Springer,DL,aire,96,61,36,78,59,63,53,52,60,54
+IE2,Fuji,June Stagner,DF,fuego,53,62,72,55,56,61,59,61,65,60
+IE2,Fuji,Euan Stamper,DF,bosque,76,46,56,75,40,45,51,50,44,79
+IE2,Fuji,Paul Steed,DF,tierra,75,84,85,71,76,72,64,48,68,68
+IE2,Fuji,Manny Steele,MC,fuego,57,60,62,56,60,43,61,60,78,55
+IE2,Fuji,Chip Stocks,DL,tierra,86,85,58,65,73,67,78,62,66,64
+IE2,Fuji,Will Stonehead,DF,fuego,72,54,82,70,57,57,65,51,70,59
+IE2,Fuji,Barry Straw,DL,aire,50,82,30,38,72,48,38,73,41,47
+IE2,Fuji,Mark Sudor,PR,tierra,44,50,76,64,63,55,62,45,62,52
+IE2,Fuji,Alan Sumner,DF,tierra,45,88,98,44,68,76,79,77,68,72
+IE2,Fuji,Dylan Swan,DL,tierra,51,45,30,44,40,40,43,49,41,47
+IE2,Fuji,Jim Sweatman,PR,aire,28,54,53,40,55,68,48,55,52,53
+IE2,Fuji,Harvey Sweats,DL,bosque,84,52,51,66,61,60,68,35,60,54
+IE2,Fuji,Rod Sweeper,DL,aire,81,62,51,63,60,62,68,52,61,56
+IE2,Fuji,Claire Taker,DF,fuego,44,48,55,48,50,48,52,52,48,52
+IE2,Fuji,Chris Talise,DF,bosque,40,45,63,41,34,32,59,68,60,57
+IE2,Fuji,Sally Tare,MC,aire,60,54,45,57,56,49,45,44,61,61
+IE2,Fuji,Sul Tarner,MC,bosque,65,65,66,60,60,57,65,52,54,54
+IE2,Fuji,Archie Tate,PR,aire,28,40,54,40,28,31,52,71,53,60
+IE2,Fuji,Camilla Textor,DL,aire,53,68,34,44,53,63,52,71,52,56
+IE2,Fuji,Harpo Thermier,MC,aire,60,57,75,56,52,59,70,53,62,59
+IE2,Fuji,Lacey Threader,MC,aire,54,57,68,52,48,49,64,71,71,64
+IE2,Fuji,Daz Tighthead,PR,bosque,49,76,92,68,76,62,69,63,70,64
+IE2,Fuji,Keifer Tiliser,DF,fuego,64,71,79,63,60,62,64,62,63,53
+IE2,Fuji,Mark Tinney,MC,tierra,66,61,49,60,58,56,53,52,53,60
+IE2,Fuji,Waylon Tripp,DL,aire,72,59,43,60,57,56,62,60,54,55
+IE2,Fuji,Walter Trope,DF,bosque,72,83,96,69,70,60,77,68,76,60
+IE2,Fuji,Jonah Troutman,DL,bosque,56,68,33,47,59,68,48,55,57,58
+IE2,Fuji,Pike Tucker,DL,fuego,51,45,38,44,34,28,61,64,56,55
+IE2,Fuji,Dick Turbin,DF,fuego,41,45,57,44,31,36,54,64,56,60
+IE2,Fuji,Handel Turnon,PR,fuego,36,42,51,56,52,44,44,51,60,60
+IE2,Fuji,Clay Turnor,PR,fuego,53,60,93,76,68,60,71,44,78,65
+IE2,Fuji,Kurt Tweedy,DL,bosque,59,58,47,53,62,44,65,60,71,52
+IE2,Fuji,Brock Twigg,MC,bosque,51,52,80,48,48,51,78,45,49,70
+IE2,Fuji,Olivia Twist,DL,aire,92,59,40,71,60,55,56,55,64,68
+IE2,Fuji,Nick Uman,DL,fuego,89,60,42,70,60,56,60,55,60,53
+IE2,Fuji,Jess Uplement,MC,tierra,58,55,43,57,60,40,42,50,52,52
+IE2,Fuji,Al Urgy,DF,tierra,61,65,71,62,68,46,60,55,67,61
+IE2,Fuji,Cam Vass,PR,fuego,29,54,52,43,60,61,45,52,61,52
+IE2,Fuji,Julius Vernon,PR,tierra,52,40,93,77,45,44,76,39,51,48
+IE2,Fuji,Pam Vision (Blizzard only),DF,aire,63,85,92,61,71,61,71,70,70,68
+IE2,Fuji,Claire Voyant,MC,bosque,75,93,74,64,69,66,68,66,60,61
+IE2,Fuji,Doug Walker,PR,tierra,30,53,51,45,52,70,42,56,57,61
+IE2,Fuji,Andy Wallpole,MC,fuego,69,75,53,61,61,62,54,56,67,56
+IE2,Fuji,Alfonse Way,MC,tierra,50,50,47,50,32,32,53,60,60,60
+IE2,Fuji,Robyn Weaver (Blizzard only),PR,tierra,32,42,53,52,47,49,49,52,52,48
+IE2,Fuji,Clerk Welcome,DF,tierra,71,72,52,71,72,51,48,51,42,51
+IE2,Fuji,Dustin Westend,DL,aire,55,64,35,47,54,60,52,68,60,54
+IE2,Fuji,Clint Wester,DF,aire,70,83,88,67,68,67,68,64,68,60
+IE2,Fuji,Sam Which,PR,aire,49,61,76,69,63,60,62,56,60,56
+IE2,Fuji,Hannibal Whipp,DF,bosque,42,70,51,41,62,64,40,55,58,63
+IE2,Fuji,Ovie Whisker,DF,fuego,74,63,51,72,57,66,40,55,52,58
+IE2,Fuji,George Winters,DL,bosque,56,88,55,44,72,76,68,79,70,73
+IE2,Fuji,Albert Wister,PR,tierra,33,64,57,51,60,61,52,64,64,56
+IE2,Fuji,Juan Word,PR,fuego,38,44,54,60,56,45,48,52,52,57
+IE2,Fuji,Nick Yergrub,DL,aire,77,68,57,62,70,48,76,52,76,62
+IE2,Fuji,Evan Yielding,DL,bosque,62,52,43,53,46,50,60,76,65,64
+IE2,Fuji,Colt Youngstein,DF,bosque,74,85,85,69,72,79,63,50,71,62
+IE2,Fuji,Mo Zarella,MC,bosque,81,55,69,70,60,61,66,29,63,53
+IE2,Other players scoutable by name,Michael Angeloni,PR,aire,29,69,53,40,60,74,46,60,56,61
+IE2,Other players scoutable by name,Kim Arite,PR,tierra,36,66,98,55,68,53,79,61,55,61
+IE2,Other players scoutable by name,Malcolm Shirker (Blue D) (Firestorm only),MC,aire,68,95,49,63,79,52,53,68,70,44
+IE2,Other players scoutable by name,Stan Treece (Blue S) (Blizzard only),MC,aire,59,96,56,56,79,59,57,65,66,51
+IE2,Other players scoutable by name,Sym Copate,MC,bosque,84,97,81,71,75,63,76,71,72,68
+IE2,Other players scoutable by name,Payne Outler (Green D) (Firestorm only),DF,bosque,57,63,93,61,61,58,78,55,52,42
+IE2,Other players scoutable by name,Bobby Duo (Green S) (Blizzard only),DF,bosque,61,63,94,62,60,55,79,60,53,51
+IE2,Other players scoutable by name,Bob Jammen,PR,fuego,54,55,95,79,67,71,73,29,79,68
+IE2,Other players scoutable by name,Adelpha Lovelace,DF,aire,74,83,92,71,68,65,72,67,60,67
+IE2,Other players scoutable by name,Hanna Slack (Pink D) (Firestorm only),MC,aire,62,76,52,56,52,79,53,58,56,49
+IE2,Other players scoutable by name,Lillie Quattro (Pink S) (Blizzard only),DF,aire,52,76,69,53,60,79,58,53,54,48
+IE2,Other players scoutable by name,Grant Stodgell (Red D) (Firestorm only),DL,fuego,95,52,33,79,52,56,52,56,57,44
+IE2,Other players scoutable by name,Gary Primo (Red S) (Blizzard only),DL,fuego,95,53,35,79,57,52,55,54,60,40
+IE2,Other players scoutable by name,Becky Shuffle (Blizzard only),DL,bosque,91,81,54,68,72,70,68,48,68,69
+IE2,Other players scoutable by name,Chip Spacek,PR,tierra,50,69,97,70,69,69,77,47,73,62
+IE2,Other players scoutable by name,Dom Poppy (Yellow D) (Firestorm only),PR,tierra,43,65,97,63,66,60,79,56,58,49
+IE2,Other players scoutable by name,Eddy Pentaris (Yellow S) (Blizzard only),PR,tierra,34,70,96,55,71,60,78,55,56,40
+IE2,Robot Guards,Robot S,PR,tierra,41,55,92,60,63,53,70,55,78,68
+IE2,Robot Guards,Robot C,DF,tierra,57,70,82,58,62,62,63,57,78,61
+IE2,Robot Guards,Robot P,DF,fuego,54,49,78,56,52,52,62,52,70,66
+IE2,Robot Guards,Robot T,DF,bosque,64,53,85,62,52,59,66,56,68,66
+IE2,Robot Guards,Robot V,DF,aire,55,59,91,57,56,58,70,60,77,60
+IE2,Robot Guards,Robot B,MC,bosque,70,76,52,61,62,60,52,57,69,61
+IE2,Robot Guards,Robot G,MC,aire,65,62,66,58,54,63,60,54,70,65
+IE2,Robot Guards,Robot O,MC,fuego,55,70,57,52,60,53,56,62,69,64
+IE2,Robot Guards,Robot F,DL,fuego,81,63,42,63,59,55,58,62,69,62
+IE2,Robot Guards,Robot K,DL,tierra,72,56,39,57,55,64,52,52,70,71
+IE2,Robot Guards,Robot L,DL,bosque,89,52,40,68,53,58,55,52,70,68
+IE2,Dark Emperors,Thomas Feldt,PR,bosque,54,78,99,75,75,79,93,69,80,79
+IE2,Dark Emperors,Jim Wraith (Jim),DF,bosque,76,89,99,70,74,93,93,68,74,74
+IE2,Dark Emperors,Malcolm Night (Malcolm),DF,fuego,79,89,99,86,75,93,93,79,83,83
+IE2,Dark Emperors,Tod Ironside (Tod),MC,fuego,89,99,84,78,77,93,75,72,66,93
+IE2,Dark Emperors,Tim Saunders (Timmy),MC,bosque,89,99,84,80,74,93,93,69,93,70
+IE2,Dark Emperors,Sam Kincaid (Sam),MC,fuego,88,97,84,75,70,69,93,77,66,93
+IE2,Dark Emperors,Steve Grim (Steve),MC,aire,89,99,84,85,86,85,74,84,85,85
+IE2,Dark Emperors,Maxwell Carson (Max),MC,aire,88,99,84,74,93,93,82,77,70,75
+IE2,Dark Emperors,Shadow Cimmerrian (Shadow),DL,bosque,99,89,59,93,79,77,85,93,78,74
+IE2,Dark Emperors,Kevin Dragonfly (Kevin),DL,bosque,99,87,59,93,74,70,75,64,77,83
+IE2,Dark Emperors,Nathan Swift (Nathan),DL,aire,99,89,58,93,74,83,71,93,93,66
+IE2,Forest Team,Cam Mando,PR,tierra,53,78,98,76,74,72,78,68,77,68
+IE2,Forest Team,Marismus Oregon,DF,fuego,76,84,98,73,68,68,79,68,75,79
+IE2,Forest Team,Aspen Blewit,DF,bosque,75,88,98,70,72,71,79,76,75,70
+IE2,Forest Team,Todd Stuhl,DF,aire,78,87,97,76,68,69,77,78,73,72
+IE2,Forest Team,Harry Boufante,DF,aire,79,89,98,79,79,72,79,76,71,79
+IE2,Forest Team,Judas Deathcap,MC,bosque,83,98,80,70,79,70,71,79,79,68
+IE2,Forest Team,Garjan Cypress,MC,fuego,84,98,84,69,79,72,78,78,78,79
+IE2,Forest Team,Chase Faithfull,MC,tierra,85,99,83,72,79,79,76,79,73,70
+IE2,Forest Team,Chris Ticker,DL,aire,95,89,57,72,77,79,70,79,77,69
+IE2,Forest Team,Scaber Enoki,DL,fuego,98,88,58,79,76,69,76,74,76,78
+IE2,Forest Team,Roy Daring,DL,bosque,98,87,56,79,68,79,70,70,70,69
+IE2,The Chaos,Grent,PR,fuego,54,74,98,79,64,64,77,76,65,76
+IE2,The Chaos,Clear,DF,aire,73,82,97,68,61,65,76,79,76,79
+IE2,The Chaos,Gocker,DF,tierra,79,84,91,79,66,66,69,73,62,75
+IE2,The Chaos,Baller,DF,bosque,77,80,90,76,64,60,68,71,68,76
+IE2,The Chaos,Droll,MC,aire,88,97,78,76,68,73,68,79,76,71
+IE2,The Chaos,Heat,MC,bosque,85,98,70,72,79,68,60,79,79,72
+IE2,The Chaos,Bomber,MC,fuego,86,99,70,74,79,72,61,79,74,69
+IE2,The Chaos,Rhine,MC,aire,84,98,70,70,76,74,61,77,73,70
+IE2,The Chaos,Neppten,DL,bosque,93,89,56,68,76,76,68,79,75,79
+IE2,The Chaos,Torch,DL,fuego,98,89,57,76,79,73,72,79,76,77
+IE2,The Chaos,Gazelle,DL,aire,98,89,59,78,78,79,79,79,72,76
+IE2,Young Inazuma,Seymour Hillman,PR,tierra,46,66,85,61,60,69,65,60,74,77
+IE2,Young Inazuma,Garret Hairtown,DF,aire,72,86,90,68,75,64,68,66,70,68
+IE2,Young Inazuma,Arthur Sweet,DF,tierra,70,88,95,65,79,76,73,60,68,67
+IE2,Young Inazuma,Charles Island,DF,bosque,66,84,89,62,64,68,67,75,71,66
+IE2,Young Inazuma,Josh Nathaniel,MC,bosque,83,99,79,68,78,75,68,79,76,78
+IE2,Young Inazuma,Ian Suffolk,MC,fuego,78,93,69,64,70,69,60,61,73,76
+IE2,Young Inazuma,Tyler Thomas (Tailor),MC,tierra,84,88,71,70,63,70,62,62,70,73
+IE2,Young Inazuma,Peter Mildred (Butler),MC,bosque,82,84,72,68,64,63,63,61,68,78
+IE2,Young Inazuma,Edward Gladstone,MC,fuego,82,87,70,68,61,67,62,68,69,70
+IE2,Young Inazuma,Constant Builder,DL,fuego,84,72,50,63,61,63,62,60,78,72
+IE2,Young Inazuma,Joseph Yosemite (Barista),DL,aire,91,75,51,69,64,62,65,60,68,69
+IE2,Password Players,Ken Mayfield,DF,bosque,77,68,95,79,62,53,79,63,63,56
+IE2,Password Players,Rob Cardson,DF,fuego,77,83,98,77,68,69,79,62,78,60
+IE2,Password Players,Colin Binder,MC,fuego,73,87,57,58,61,79,52,55,59,79
+IE2,Password Players,Casey Leather,MC,aire,64,86,82,56,62,79,76,52,79,60
+IE2,Password Players,Ethan Swallow,MC,aire,64,79,67,57,53,60,60,79,74,71
+IE2,Password Players,Bob Daruma,MC,tierra,57,60,56,52,52,50,52,68,79,79
+IE2,Password Players,Mitch Blackston,DL,fuego,98,81,41,77,69,61,56,64,57,78
+IE2,Password Players,Larry Pogue,DL,bosque,97,71,50,79,67,58,68,52,56,57
+IE2,Special Players,Silvia Woods (Silvia) (Blizzard only),PR,tierra,29,65,92,44,72,52,69,51,64,68
+IE2,Special Players,Paul Peabody,DF,aire,69,86,92,65,76,62,69,64,73,74
+IE2,Special Players,Aurelia Dingle (Aurelia),MC,bosque,47,80,64,42,48,79,63,71,47,42
+IE2,Special Players,Chester Horse jr.,MC,bosque,61,95,61,55,72,71,58,63,59,59
+IE2,Special Players,Celia Hills (Celia),MC,aire,53,80,46,48,54,69,45,69,51,70
+IE2,Special Players,Hidetoshi Nakata,MC,tierra,87,99,83,72,80,85,72,74,81,82
+IE2,Special Players,Thor Stoutberg,DL,aire,93,80,57,71,62,68,75,68,71,68
+IE2,Special Players,Shadow Cimmerrian (Shadow),DL,bosque,78,86,56,60,74,68,73,63,60,64
+IE2,Special Players,Sagaminator (Saggy),DL,bosque,96,82,55,77,71,60,70,64,70,67
+IE2,Special Players,Canon Evans (Canon) (Firestorm only),DL,aire,81,88,59,60,79,64,79,70,72,77
+IE2,Special Players,Syon Blaze (Syon) (Blizzard only),DL,fuego,93,83,54,70,60,76,67,72,64,68
+IE2,Special Players,Nelly Raimon (Nelly) (Firestorm only),DL,fuego,96,47,33,79,51,45,52,44,49,62
+IE2,Wi-Fi Players,Ant Anomy,MC,aire,80,86,70,68,60,65,65,70,63,60
+IE2,Wi-Fi Players,Carey Bean,MC,fuego,63,54,70,60,49,40,69,68,61,60
+IE2,Wi-Fi Players,Ray Bowing,DL,aire,80,82,55,61,69,66,70,60,65,66
+IE2,Wi-Fi Players,Ace Breaker,DF,tierra,58,79,93,57,60,67,71,71,68,70
+IE2,Wi-Fi Players,Hannah Breer,DL,aire,50,46,32,40,44,50,49,44,46,46
+IE2,Wi-Fi Players,Gary Burdine,DF,tierra,75,87,90,71,70,69,72,76,36,73
+IE2,Wi-Fi Players,Nate Checker,MC,aire,71,89,73,62,62,60,68,76,61,61
+IE2,Wi-Fi Players,Crystal Clears,DL,bosque,64,76,38,54,60,62,56,71,59,54
+IE2,Wi-Fi Players,Wally Cooper,DF,bosque,70,68,70,70,65,48,60,63,71,52
+IE2,Wi-Fi Players,Lou Daguerre,DF,tierra,47,49,53,52,56,51,46,44,61,53
+IE2,Wi-Fi Players,Alex Dauger,DF,tierra,74,87,93,71,76,68,73,64,63,63
+IE2,Wi-Fi Players,Anton Donce,MC,aire,54,52,74,53,56,42,72,42,58,61
+IE2,Wi-Fi Players,Drack Gorn (Dragon),DF,aire,76,57,95,71,37,79,72,74,71,70
+IE2,Wi-Fi Players,Hugh Dunnit,PR,tierra,53,65,98,76,68,67,78,44,72,65
+IE2,Wi-Fi Players,Arthur Easley,DF,tierra,64,67,68,59,56,69,54,58,56,79
+IE2,Wi-Fi Players,Peter Fakhoury,MC,aire,53,75,66,50,52,57,63,79,60,63
+IE2,Wi-Fi Players,Andy Fudge,DL,fuego,91,86,53,68,78,76,65,44,73,63
+IE2,Wi-Fi Players,Tara Gaudier,DF,fuego,67,84,89,64,73,63,68,60,72,63
+IE2,Wi-Fi Players,Beck Hand,DL,aire,72,81,55,56,60,70,68,72,72,71
+IE2,Wi-Fi Players,Griff Hardcasel,DL,fuego,81,80,48,61,63,70,62,63,60,66
+IE2,Wi-Fi Players,Kaya Haskell,DL,bosque,87,51,48,69,61,52,66,39,64,52
+IE2,Wi-Fi Players,Iain Igma,DF,aire,65,60,73,63,60,60,60,52,60,60
+IE2,Wi-Fi Players,Chad Jowell,PR,tierra,51,65,74,72,62,63,61,60,60,55
+IE2,Wi-Fi Players,Kim Knotted,MC,aire,48,77,63,45,59,56,62,68,57,60
+IE2,Wi-Fi Players,Philippa Konik,MC,bosque,77,89,66,65,65,63,66,68,29,66
+IE2,Wi-Fi Players,Flo Nighting,DF,aire,43,48,58,47,54,48,56,45,47,51
+IE2,Wi-Fi Players,Ryan O'Laugh,DF,aire,51,58,62,54,57,56,55,58,58,60
+IE2,Wi-Fi Players,Phil Pagoda,PR,tierra,49,56,92,68,63,64,71,45,68,61
+IE2,Wi-Fi Players,Mia Pitchford,DF,aire,59,66,80,62,68,47,67,55,60,54
+IE2,Wi-Fi Players,Isla Pullens,PR,tierra,54,59,98,79,65,60,79,49,68,68
+IE2,Wi-Fi Players,Beata Pummel,DL,fuego,50,79,48,29,64,62,61,68,71,70
+IE2,Wi-Fi Players,Marvin Reading,PR,fuego,51,45,50,70,52,53,36,55,56,79
+IE2,Wi-Fi Players,Elsa Roamer,DL,tierra,50,46,30,28,48,52,37,40,40,48
+IE2,Wi-Fi Players,Neil Seating,MC,aire,68,64,44,59,52,76,40,48,61,52
+IE2,Wi-Fi Players,Luke Severin,MC,fuego,61,72,50,56,62,56,52,57,62,63
+IE2,Wi-Fi Players,Claude Snap,DL,aire,87,76,50,66,62,61,64,67,68,68
+IE2,Wi-Fi Players,Rayce Sprinton,MC,aire,51,74,47,48,56,64,49,63,60,56
+IE2,Wi-Fi Players,Paul Steed,DF,tierra,75,84,85,71,76,72,64,48,68,68
+IE2,Wi-Fi Players,Minnie Stratio,PR,tierra,28,51,55,40,55,65,50,52,57,56
+IE2,Wi-Fi Players,Lucille Strummon,DF,aire,68,50,80,66,60,63,64,28,64,55
+IE2,Wi-Fi Players,Adel Tactor,DF,aire,71,51,84,66,60,63,64,32,64,75
+IE2,Wi-Fi Players,Benny Terra,MC,bosque,45,50,43,35,32,29,44,56,40,72
+IE2,Wi-Fi Players,Clara Tompkins,DF,aire,68,45,50,68,36,41,32,40,61,58
+IE2,Wi-Fi Players,Walter Trope,DF,bosque,72,83,96,69,70,60,77,68,76,60
+IE2,Wi-Fi Players,Ramona Wriston,MC,tierra,69,80,61,60,71,65,60,39,49,62
+IE2,Connect Players,Alex Copple,PR,tierra,52,76,91,72,71,68,69,68,64,67
+IE2,Connect Players,Gem Shorn,PR,tierra,52,76,98,73,72,76,79,56,72,71
+IE2,Connect Players,Lewis Brownie,DF,aire,63,82,97,61,69,63,79,64,72,64
+IE2,Connect Players,Elata Mighty,DF,fuego,66,87,97,63,76,64,79,68,69,66
+IE2,Connect Players,Olivia Baker,MC,bosque,71,88,67,59,60,78,59,60,67,66
+IE2,Connect Players,Connor Seuer,MC,fuego,74,84,72,62,61,70,66,60,60,60
+IE2,Connect Players,Prunella Keep,DL,fuego,68,50,41,57,52,55,59,53,61,58
+IE2,Connect Players,Taryn Shyder,DL,aire,84,85,55,63,68,68,71,71,63,66
+IE3,Inazuma Japan,Mark Evans,PR,tierra,36,44,98,53,53,49,80,52,69,79
+IE3,Inazuma Japan,Darren LaChance,PR,bosque,42,53,92,59,54,66,72,56,60,64
+IE3,Inazuma Japan,Jack Wallside,DF,tierra,41,52,83,40,53,62,66,49,65,54
+IE3,Inazuma Japan,Scott Banyan,DF,bosque,42,66,78,44,58,57,63,65,72,50
+IE3,Inazuma Japan,Archer Hawkins,DF,aire,78,50,67,78,54,52,58,52,48,74
+IE3,Inazuma Japan,Tod Ironside,DF,fuego,52,54,64,54,55,53,56,59,56,65
+IE3,Inazuma Japan,Nathan Swift,DF,aire,64,80,64,64,58,68,57,76,58,40
+IE3,Inazuma Japan,Hurley Kane,DF,aire,75,69,76,75,70,51,61,51,71,65
+IE3,Inazuma Japan,Thor Stoutberg,MC,aire,61,90,67,56,80,53,62,50,71,68
+IE3,Inazuma Japan,Jordan Greenway,MC,bosque,76,93,59,63,59,79,56,71,55,62
+IE3,Inazuma Japan,Caleb Stonewall,MC,fuego,68,97,59,59,78,66,58,65,53,64
+IE3,Inazuma Japan,Jude Sharp,MC,aire,77,91,55,63,59,79,52,68,56,68
+IE3,Inazuma Japan,David Samford,DL,bosque,91,67,39,70,60,61,53,58,70,67
+IE3,Inazuma Japan,Shawn Froste,DL,aire,79,83,44,61,59,72,59,77,62,57
+IE3,Inazuma Japan,Xavier Foster,DL,fuego,92,81,41,71,63,67,58,69,51,60
+IE3,Inazuma Japan,Kevin Dragonfly,DL,bosque,97,53,37,79,60,49,53,51,64,70
+IE3,Inazuma Japan,Austin Hobbes,DL,bosque,92,60,37,72,56,60,55,60,56,57
+IE3,Inazuma Japan,Axel Blaze,DL,fuego,97,78,41,78,66,62,58,63,60,60
+IE3,Big Waves,Jinbei (ジンベイ),PR,aire,39,63,97,58,69,49,76,57,48,73
+IE3,Big Waves,Seahorse (シーホース),PR,bosque,34,67,79,53,60,62,64,69,53,53
+IE3,Big Waves,Barracuda (バラクーダ),DF,aire,56,59,77,60,62,51,66,55,50,55
+IE3,Big Waves,Beach (ビーチ),DF,fuego,51,78,67,53,68,57,58,64,51,64
+IE3,Big Waves,Water (ウォーター),DF,aire,60,53,69,60,56,48,60,59,50,71
+IE3,Big Waves,Turtle (タートル),DF,bosque,71,50,89,69,52,52,72,56,54,64
+IE3,Big Waves,Kraken (クラーケン),DF,bosque,50,64,84,52,61,62,68,52,48,62
+IE3,Big Waves,Dolphin (ドルフィン),MC,aire,76,99,58,63,92,71,57,57,49,67
+IE3,Big Waves,Shrimp (シュリンプ),MC,fuego,52,93,55,48,70,63,56,67,53,62
+IE3,Big Waves,Crab (クラブ),MC,tierra,62,70,63,58,72,49,63,42,53,62
+IE3,Big Waves,Surfing (サーフィン),MC,aire,53,88,50,49,59,69,52,71,49,59
+IE3,Big Waves,Angler (アングラー),MC,fuego,69,79,55,60,62,60,56,61,50,68
+IE3,Big Waves,Summer (サマー),MC,fuego,57,82,62,52,59,61,60,70,52,67
+IE3,Big Waves,Reef (リーフ),DL,bosque,95,68,40,76,61,61,57,57,55,63
+IE3,Big Waves,Jaws (ジョーズ),DL,fuego,98,48,30,83,56,46,40,42,44,70
+IE3,Big Waves,Merlin (マーリン),DL,tierra,89,55,32,70,56,50,48,62,54,59
+IE3,Desert Lion,Nasser (ナセル),PR,fuego,35,43,90,56,55,46,72,49,76,51
+IE3,Desert Lion,Talal (タラル),PR,tierra,31,56,98,48,65,50,79,55,73,64
+IE3,Desert Lion,Bjorn (ビヨン),DF,bosque,49,73,93,51,62,65,72,58,75,61
+IE3,Desert Lion,Jamel (ジャメル),DF,tierra,45,68,83,48,53,57,66,78,70,57
+IE3,Desert Lion,Fual (ファル),DF,bosque,51,53,69,54,60,52,56,48,82,62
+IE3,Desert Lion,Musa (ムサ),DF,bosque,54,59,85,57,64,53,68,49,73,55
+IE3,Desert Lion,Hassan (ハッサン),DF,fuego,50,56,78,54,58,56,62,53,80,51
+IE3,Desert Lion,Khalfan (ハルファン),DF,bosque,46,66,80,47,63,63,61,49,73,69
+IE3,Desert Lion,Seid (セイド),MC,aire,58,63,71,56,62,51,64,51,99,48
+IE3,Desert Lion,Sly (スライ),MC,aire,61,58,56,58,52,53,56,62,76,52
+IE3,Desert Lion,Messa (メッサー),MC,tierra,60,57,68,57,54,58,62,48,86,52
+IE3,Desert Lion,Yusuf (ユスフ),MC,aire,72,79,62,62,67,63,57,48,80,60
+IE3,Desert Lion,Rajab (ラジャブ),MC,fuego,52,60,78,50,56,54,72,56,79,59
+IE3,Desert Lion,Zach (ザック),DL,fuego,99,50,32,96,49,50,46,61,75,52
+IE3,Desert Lion,Adele (アデル),DL,tierra,63,68,41,55,59,55,58,67,72,49
+IE3,Desert Lion,Majidi (マジティ),DL,bosque,76,76,40,61,60,62,54,71,80,54
+IE3,Fire Dragon,Jung-Soo (ジョンス),PR,bosque,39,45,96,54,56,52,72,48,54,103
+IE3,Fire Dragon,Ji-Nan (チナン),PR,aire,33,42,81,51,48,52,65,48,48,68
+IE3,Fire Dragon,Eum-Yang (ウミャン),DF,aire,51,67,89,52,54,65,70,66,55,64
+IE3,Fire Dragon,Doo-Yoon (ドゥユン),DF,aire,50,61,67,53,57,56,59,63,50,60
+IE3,Fire Dragon,Myong-Ho (ミョンホ),DF,fuego,66,48,85,65,52,50,69,48,63,60
+IE3,Fire Dragon,Seong-Hwan (ソンファン),DF,bosque,44,49,85,48,54,51,70,49,50,61
+IE3,Fire Dragon,Hyeon-Dae (ヒョンデ),DF,fuego,67,63,57,65,64,53,52,54,48,68
+IE3,Fire Dragon,Chang-Soo (チャンスウ),MC,fuego,60,93,66,52,65,85,60,54,50,63
+IE3,Fire Dragon,Pek-Young (ペクヨン),MC,tierra,49,82,79,48,76,53,79,43,54,48
+IE3,Fire Dragon,Eun-Young (ウンヨン),MC,tierra,49,80,75,48,76,48,77,46,40,45
+IE3,Fire Dragon,Jeong-Yun (チョンユン),MC,bosque,54,85,72,49,67,68,66,51,51,69
+IE3,Fire Dragon,Jeong-Won (ジョンオン),MC,tierra,59,60,58,53,50,60,56,62,60,74
+IE3,Fire Dragon,Aphrodi (アフロディ),MC,bosque,75,88,63,63,60,77,59,61,59,58
+IE3,Fire Dragon,Burn (バーン),DL,fuego,95,78,42,75,71,55,58,58,61,67
+IE3,Fire Dragon,Gazel (ガゼル),DL,aire,85,81,51,65,65,65,68,66,57,60
+IE3,Fire Dragon,Seong-Jun (ソンジュン),DL,tierra,94,48,37,75,48,49,57,54,48,64
+IE3,Knights of Queen,Freddy (フレディ),PR,fuego,32,54,99,50,67,48,82,51,46,64
+IE3,Knights of Queen,Gareth (ギャレス),PR,tierra,29,63,85,43,57,68,69,62,56,48
+IE3,Knights of Queen,Johnny G (ジョニーG),DF,bosque,49,76,86,52,62,67,68,62,62,54
+IE3,Knights of Queen,David (デービッド),DF,tierra,53,75,83,54,60,78,66,53,55,50
+IE3,Knights of Queen,Lance (ランス),DF,aire,69,76,71,65,71,56,58,54,54,77
+IE3,Knights of Queen,Edge (エッジ),DF,bosque,51,59,88,54,54,53,71,69,58,62
+IE3,Knights of Queen,Martin (マーティン),DF,fuego,50,57,61,51,48,69,56,62,34,62
+IE3,Knights of Queen,Peter (ピーター),MC,fuego,53,82,53,51,66,60,53,56,71,57
+IE3,Knights of Queen,Gary (ゲイリー),MC,tierra,59,98,58,54,84,72,59,52,47,54
+IE3,Knights of Queen,Paul (ポール),MC,bosque,59,70,52,55,58,60,54,59,60,57
+IE3,Knights of Queen,Eric (エリック),MC,fuego,74,77,50,65,63,52,55,64,51,55
+IE3,Knights of Queen,Beat (ビート),MC,tierra,74,61,44,65,62,44,43,56,64,66
+IE3,Knights of Queen,Mikey (マイキー),MC,bosque,59,80,49,55,53,69,51,71,60,51
+IE3,Knights of Queen,Edgar (エドガー),DL,bosque,99,78,32,96,71,58,47,57,48,57
+IE3,Knights of Queen,Philip (フィリップ),DL,tierra,99,49,34,90,44,52,50,68,60,63
+IE3,Knights of Queen,Nick (ニック),DL,aire,84,53,36,67,59,51,54,51,62,56
+IE3,The Empire,Jorge (ホルヘ),PR,fuego,36,46,97,56,54,49,80,60,60,59
+IE3,The Empire,Lionel (リオネル),PR,aire,32,50,63,52,60,49,56,57,60,56
+IE3,The Empire,Therese (テレス),DF,fuego,51,70,98,52,62,60,82,59,51,70
+IE3,The Empire,Julio (フリオ),DF,bosque,64,75,85,67,70,48,74,62,51,36
+IE3,The Empire,Gordo (ゴルド),DF,bosque,48,58,91,49,58,60,73,52,42,77
+IE3,The Empire,Ramon (ラモン),DF,tierra,52,56,88,53,59,51,69,56,54,78
+IE3,The Empire,Hernan (エルナン),DF,aire,52,68,94,52,60,60,75,60,52,76
+IE3,The Empire,Esteban (エステバン),MC,aire,65,70,68,58,59,58,64,59,58,69
+IE3,The Empire,Sergio (セルヒオ),MC,bosque,50,72,73,47,60,52,70,65,55,64
+IE3,The Empire,Roberto (ロベルト),MC,aire,78,85,68,68,60,54,65,79,62,58
+IE3,The Empire,Pablo (パブロ),MC,aire,77,83,57,68,71,48,60,60,52,60
+IE3,The Empire,Herman (ヘルマン),MC,bosque,51,80,50,53,77,40,60,52,45,40
+IE3,The Empire,Leone (レオーネ),DL,fuego,84,64,46,68,58,44,68,76,41,52
+IE3,The Empire,Diego (ディエゴ),DL,tierra,82,68,46,61,59,66,60,56,60,71
+IE3,The Empire,Mario (マリオ),DL,fuego,57,60,37,50,61,52,57,58,50,52
+IE3,The Empire,Ricardo (リカルド),DL,tierra,50,45,35,43,40,40,56,41,67,40
+IE3,Unicorn,Kid (キッド),PR,bosque,50,42,93,72,40,44,75,75,37,67
+IE3,Unicorn,Alex (アレックス),PR,tierra,54,50,58,92,76,39,47,35,32,89
+IE3,Unicorn,Ted (テッド),DF,tierra,44,47,58,47,40,45,55,68,48,62
+IE3,Unicorn,Tony (トニー),DF,fuego,47,68,89,52,68,53,74,52,54,49
+IE3,Unicorn,Dyke (ダイク),DF,aire,75,52,93,76,73,34,80,37,32,73
+IE3,Unicorn,Domon (ドモン),DF,bosque,54,71,95,56,61,62,76,60,65,61
+IE3,Unicorn,Rob (ロブ),DF,aire,62,52,55,63,51,52,50,62,56,56
+IE3,Unicorn,Bob (ボブ),DF,aire,70,51,55,69,54,55,51,52,49,54
+IE3,Unicorn,Steve (スティーブ),MC,fuego,56,72,54,52,68,52,54,49,64,70
+IE3,Unicorn,Ichinose (イチノセ),MC,bosque,88,86,70,79,60,72,64,63,53,71
+IE3,Unicorn,Sean (ショーン),MC,tierra,51,64,43,49,58,72,43,40,40,44
+IE3,Unicorn,Mark (マーク),MC,bosque,79,98,56,68,88,64,57,58,57,54
+IE3,Unicorn,Sammy (サミー),MC,bosque,45,51,43,32,37,36,36,75,76,78
+IE3,Unicorn,Dylan (ディラン),DL,fuego,99,51,33,95,52,60,47,51,60,62
+IE3,Unicorn,Michele (ミケーレ),DL,tierra,79,75,39,62,66,69,55,50,60,53
+IE3,Unicorn,Eddie (エディ),DL,fuego,71,61,38,59,57,63,56,56,58,52
+IE3,Orpheus,Blasi (ブラージ),PR,aire,48,43,99,63,50,72,86,32,36,83
+IE3,Orpheus,Daniele (ダニエレ),PR,fuego,31,69,95,48,68,53,75,66,37,61
+IE3,Orpheus,Vento (ベント),DF,aire,41,68,93,42,52,56,77,80,56,56
+IE3,Orpheus,Ottorino (オットリ),DF,bosque,61,72,90,60,66,61,72,53,56,61
+IE3,Orpheus,Gattuso (ガッツ),DF,fuego,62,52,95,58,52,62,76,51,47,86
+IE3,Orpheus,Marco (マルコ),DF,tierra,54,74,84,56,61,65,66,62,68,56
+IE3,Orpheus,Giuseppe (ジュゼッペ),DF,aire,46,48,93,49,48,55,77,52,48,64
+IE3,Orpheus,Angelo (アンジェロ),MC,aire,53,77,71,50,53,64,68,72,48,58
+IE3,Orpheus,Giorgio (ジョジョ),MC,tierra,61,93,59,56,74,61,59,59,54,61
+IE3,Orpheus,Dante (ダンテ),MC,fuego,89,78,48,83,70,52,51,51,42,76
+IE3,Orpheus,Gianluca (ジャンルカ),MC,bosque,61,88,55,56,65,64,57,64,52,56
+IE3,Orpheus,Enrico (エンリコ),MC,tierra,74,88,48,65,77,52,53,52,54,56
+IE3,Orpheus,Alessandro (アレクサンド),MC,bosque,69,82,56,61,62,62,57,63,58,56
+IE3,Orpheus,Hide Nakata (ヒデナカタ),MC,tierra,89,94,66,85,70,70,60,64,68,62
+IE3,Orpheus,Fidio (フィディオ),DL,bosque,84,88,34,62,78,79,46,66,58,66
+IE3,Orpheus,Raffaele (ラファエレ),DL,tierra,90,70,44,70,60,52,63,71,48,60
+IE3,The Kingdom,Falcao (ファルカオ),PR,tierra,31,54,92,49,61,52,72,59,62,56
+IE3,The Kingdom,Javali (シャバリー),PR,tierra,53,45,96,76,56,63,76,40,47,75
+IE3,The Kingdom,Lagarto (ラガルート),DF,bosque,46,53,86,50,51,50,68,69,64,68
+IE3,The Kingdom,Bagre (バーグレ),DF,aire,44,55,82,47,59,58,66,48,60,61
+IE3,The Kingdom,Monstro (モンストロ),DF,fuego,79,53,62,96,64,40,58,51,48,67
+IE3,The Kingdom,Formiga (フォルミガ),DF,tierra,48,62,87,51,56,62,70,60,56,57
+IE3,The Kingdom,Urso (ウルソ),DF,fuego,46,56,78,50,58,56,66,53,51,51
+IE3,The Kingdom,Cavalo (カバーロ),DF,fuego,73,60,80,68,60,68,64,44,44,71
+IE3,The Kingdom,Presa (プレザ),MC,aire,61,91,49,52,58,74,48,75,50,77
+IE3,The Kingdom,Borboleta (ボルボレタ),MC,aire,77,86,65,67,60,69,62,65,64,48
+IE3,The Kingdom,Coruja (コルジァ),MC,tierra,55,85,80,52,64,55,75,70,69,64
+IE3,The Kingdom,Leonardo (レオナルド),MC,bosque,78,98,67,68,100,51,68,45,39,60
+IE3,The Kingdom,Tigre (ティグレ),MC,aire,53,95,47,52,74,58,50,69,60,51
+IE3,The Kingdom,Roniejo (ロニージョ),DL,fuego,99,75,45,85,60,70,60,60,63,54
+IE3,The Kingdom,Gato (ガト),DL,fuego,95,78,50,76,68,57,68,63,55,60
+IE3,The Kingdom,Grilo (グリロ),DL,bosque,81,60,37,63,58,57,55,58,49,62
+IE3,Little Gigant,Rococo (ロココ),PR,tierra,40,45,99,58,50,57,85,55,69,73
+IE3,Little Gigant,Kane (ケーン),PR,bosque,35,51,55,55,52,55,52,68,52,52
+IE3,Little Gigant,Windy (ウィンディ),DF,aire,70,81,68,68,57,69,60,78,50,45
+IE3,Little Gigant,Walter (ウォルター),DF,tierra,63,63,85,63,65,60,71,45,48,49
+IE3,Little Gigant,Ginny (ジニー),DF,bosque,55,55,86,56,52,68,67,52,62,61
+IE3,Little Gigant,Marron (マロン),DF,fuego,45,49,65,48,48,52,56,60,62,66
+IE3,Little Gigant,McCall (マッコール),DF,fuego,49,58,62,52,52,69,55,55,56,50
+IE3,Little Gigant,Shintei (シンティ),MC,aire,72,82,67,62,62,62,62,62,65,62
+IE3,Little Gigant,Yumu (ユーム),MC,bosque,66,90,56,59,76,62,58,48,48,61
+IE3,Little Gigant,Kito (キート),MC,fuego,77,66,66,64,60,61,60,49,61,76
+IE3,Little Gigant,Maxi (マキシ),MC,aire,73,89,76,60,62,79,68,56,58,62
+IE3,Little Gigant,Maygar (メイガー),MC,tierra,64,78,63,58,61,62,60,59,62,60
+IE3,Little Gigant,Ryuu (リュー),MC,aire,82,71,48,73,63,50,52,60,60,55
+IE3,Little Gigant,Squid (スキッド),DL,fuego,53,75,54,43,70,57,71,53,55,70
+IE3,Little Gigant,Goushu (ゴーシュ),DL,fuego,97,78,45,79,66,58,62,66,64,56
+IE3,Little Gigant,Drago (ドラゴ),DL,bosque,99,49,36,85,56,62,50,30,71,67
+IE3,Team K,Indigo (インディゴ),PR,tierra,34,41,95,52,50,51,76,36,42,68
+IE3,Team K,Grigio (グリッジョ),PR,bosque,28,44,82,42,64,48,67,32,63,38
+IE3,Team K,Roseo (ロゼオ),DF,fuego,40,46,82,40,44,40,69,52,45,70
+IE3,Team K,Azbel (アズベル),DF,aire,50,48,88,53,53,52,71,44,54,65
+IE3,Team K,Nero (ネッロ),DF,tierra,40,65,55,41,62,46,54,67,33,56
+IE3,Team K,Azzurro (アズロ),DF,aire,42,60,73,44,64,64,63,40,45,52
+IE3,Team K,Pardo (パルド),DF,bosque,40,54,56,40,64,50,52,44,52,55
+IE3,Team K,Verdio (ベルディオ),MC,bosque,46,68,51,37,57,68,52,51,45,73
+IE3,Team K,Rosso (ロッソ),MC,tierra,80,58,57,71,57,52,62,53,48,46
+IE3,Team K,Giallo (ジャッロ),MC,tierra,71,58,46,63,51,48,50,68,41,64
+IE3,Team K,Marrone (マッローネ),MC,tierra,58,58,48,56,59,52,53,49,57,51
+IE3,Team K,Amaranto (アマラント),MC,fuego,62,56,59,58,63,40,62,46,41,72
+IE3,Team K,Demonio (デモーニオ),MC,fuego,86,97,47,76,69,76,48,72,53,52
+IE3,Team K,Violette (ビオレテ),DL,aire,60,54,33,52,53,60,51,57,48,52
+IE3,Team K,Bianco (ビアンコ),DL,tierra,94,51,30,74,56,56,42,47,40,59
+IE3,Team K,Lattimo (ラッティモ),DL,bosque,86,49,31,71,44,45,44,74,61,41
+IE3,Team Garshield,Fox (フォクス),PR,tierra,37,49,87,57,50,60,70,65,49,52
+IE3,Team Garshield,Goliath (ゴライアス),PR,fuego,46,55,68,67,64,52,59,54,49,48
+IE3,Team Garshield,Jackal (ジャッカル),DF,bosque,60,49,81,62,49,52,68,55,55,52
+IE3,Team Garshield,Henktacker (ヘンクタッカー),DF,fuego,52,82,90,52,68,77,69,52,54,64
+IE3,Team Garshield,Buffalo (バファロ),DF,bosque,57,52,68,60,56,52,60,53,52,58
+IE3,Team Garshield,Dingo (ディンゴ),DF,tierra,46,69,65,50,60,61,57,61,60,52
+IE3,Team Garshield,Spider (スパイダー),DF,bosque,47,68,91,52,69,55,73,48,68,54
+IE3,Team Garshield,Papillon (パピヨン),DF,aire,53,75,59,53,50,77,51,74,52,59
+IE3,Team Garshield,Owl (オウル),MC,aire,56,59,60,54,59,54,61,49,56,54
+IE3,Team Garshield,Hedge (ヘッジ),MC,tierra,51,61,57,49,57,52,57,58,66,60
+IE3,Team Garshield,Mantis (マンティス),MC,bosque,63,82,45,60,70,49,48,60,52,57
+IE3,Team Garshield,Crow (クロウ),MC,aire,56,83,49,53,64,51,53,72,48,64
+IE3,Team Garshield,Giraffe (ジラフ),MC,tierra,67,84,50,62,76,48,53,52,70,55
+IE3,Team Garshield,Coyote (コヨーテ),DL,aire,74,54,34,59,56,51,50,60,52,72
+IE3,Team Garshield,Scorpio (スコーピオ),DL,bosque,86,80,33,69,79,51,53,50,53,48
+IE3,Team Garshield,Gavial (ガビアル),DL,aire,90,64,38,70,62,56,57,56,52,56
+IE3,Red Matador,FermÃ­n (フェルミン),PR,fuego,30,41,99,45,45,47,97,40,66,70
+IE3,Red Matador,Juan (フアン),PR,tierra,36,44,94,58,51,40,76,67,39,52
+IE3,Red Matador,Queraldo (ケラルド),DF,tierra,67,61,73,68,61,45,63,66,67,51
+IE3,Red Matador,JosÃ© (ホセ),DF,aire,42,48,90,43,45,61,73,52,56,55
+IE3,Red Matador,Rafael (ラファエル),DF,bosque,43,53,95,45,59,55,76,48,74,62
+IE3,Red Matador,Antonio (アントニオ),DF,tierra,53,55,78,54,62,48,65,52,40,79
+IE3,Red Matador,Laudi (ラウディ),DF,bosque,52,63,73,57,66,40,64,63,54,59
+IE3,Red Matador,Joan (ホアン),MC,bosque,46,97,45,40,75,70,44,64,70,44
+IE3,Red Matador,Igor (イゴル),MC,fuego,56,94,56,52,68,78,55,60,67,44
+IE3,Red Matador,Miquel (ミケル),MC,aire,79,91,48,68,57,73,51,78,49,47
+IE3,Red Matador,Pedro (ペドロ),MC,aire,79,84,43,69,58,60,33,76,54,49
+IE3,Red Matador,Carlos (カルロス),MC,tierra,52,85,56,51,73,56,56,51,79,47
+IE3,Red Matador,Samuel (サムエル),DL,tierra,86,86,31,66,74,59,43,71,44,64
+IE3,Red Matador,David (ダビ),DL,bosque,91,70,30,70,66,55,40,56,52,63
+IE3,Red Matador,Isaac (イサーク),DL,aire,85,88,32,67,76,56,49,82,42,52
+IE3,Red Matador,Federico (フェデリコ),DL,fuego,57,88,30,47,81,68,35,59,61,60
+IE3,Rose Griffon,Ladji (ラッジ),PR,bosque,31,68,92,48,66,63,72,58,56,54
+IE3,Rose Griffon,Émile (エミール),PR,tierra,33,68,88,50,69,60,67,55,54,66
+IE3,Rose Griffon,Pierre (ピエール),DF,aire,53,68,66,53,55,74,55,56,51,63
+IE3,Rose Griffon,Miguel (ミゲル),DF,bosque,46,61,87,50,62,62,72,47,44,53
+IE3,Rose Griffon,Frantz (フランツ),DF,aire,50,58,68,53,59,63,60,48,49,52
+IE3,Rose Griffon,Kevin (ケビン),DF,fuego,47,81,65,50,67,67,56,61,60,53
+IE3,Rose Griffon,AndrÃ© (アンドレ),DF,fuego,50,80,69,52,67,68,58,58,56,59
+IE3,Rose Griffon,Jean (ジャン),DF,bosque,49,53,67,52,51,64,60,54,42,55
+IE3,Rose Griffon,Laurent (ローラン),MC,bosque,60,74,58,55,52,70,59,65,48,52
+IE3,Rose Griffon,Ronnie (ロニー),MC,aire,62,71,48,57,55,66,52,60,48,55
+IE3,Rose Griffon,StÃ©phane (ステファン),MC,fuego,53,61,52,51,54,64,56,52,49,53
+IE3,Rose Griffon,Julien (ジュリアン),MC,tierra,66,89,67,56,62,79,61,57,52,68
+IE3,Rose Griffon,Claude (クロード),MC,aire,65,89,56,58,70,71,57,50,48,56
+IE3,Rose Griffon,Jérôme (ジェローム),DL,fuego,76,80,35,60,66,70,51,57,64,52
+IE3,Rose Griffon,Alain (アラン),DL,fuego,80,76,33,62,61,72,47,58,60,52
+IE3,Rose Griffon,Michel (ミシェル),DL,aire,81,76,33,63,61,68,50,63,50,50
+IE3,Brockenborg,Torsten (トルステン),PR,bosque,45,60,93,64,63,62,73,52,57,56
+IE3,Brockenborg,Ger (ゲル),PR,aire,39,64,96,61,64,55,79,62,58,46
+IE3,Brockenborg,Alex (アレク),DF,fuego,63,71,81,62,63,61,65,57,59,58
+IE3,Brockenborg,Heinrich (ハインリヒ),DF,aire,66,84,80,63,73,65,64,58,56,61
+IE3,Brockenborg,Kurt (クルト),DF,bosque,55,82,60,57,73,62,54,57,51,57
+IE3,Brockenborg,Luka (ルーカ),DF,tierra,66,87,74,64,80,65,63,60,50,50
+IE3,Brockenborg,Manuel (マヌエル),DF,aire,70,82,77,69,73,61,66,59,45,50
+IE3,Brockenborg,Jonas (ヨナス),MC,aire,77,88,57,66,64,65,56,65,64,59
+IE3,Brockenborg,Theo (テオ),MC,tierra,73,96,50,65,77,58,56,68,51,44
+IE3,Brockenborg,Jan (ヤン),MC,bosque,61,87,51,56,64,66,55,62,42,54
+IE3,Brockenborg,Niklas (ニクラス),MC,fuego,79,91,53,68,71,58,57,65,46,57
+IE3,Brockenborg,Ern (エルン),MC,fuego,61,94,55,57,77,62,58,56,49,53
+IE3,Brockenborg,Maxim (マキシム),DL,aire,87,73,39,67,63,58,56,63,56,65
+IE3,Brockenborg,Peter (ペーター),DL,fuego,86,70,36,67,62,55,55,64,47,63
+IE3,Brockenborg,Elvin (エルビン),DL,tierra,85,81,38,65,65,66,55,66,46,65
+IE3,Brockenborg,Jens (イエンス),DL,bosque,76,85,40,61,73,67,57,60,63,49
+IE3,The Great Horn,Zolani (ゾラニ),PR,tierra,50,62,81,71,64,52,63,63,56,67
+IE3,The Great Horn,Hiyuu (ヒュー),PR,tierra,50,63,71,72,67,50,58,60,56,64
+IE3,The Great Horn,Dinga (ディンガ),DF,fuego,62,81,61,62,76,45,54,66,62,67
+IE3,The Great Horn,Jake (ジェイク),DF,fuego,65,63,57,63,66,45,50,58,60,75
+IE3,The Great Horn,Muzonge (ムゾンゲ),DF,bosque,67,74,63,66,63,48,56,75,60,64
+IE3,The Great Horn,Caxias (カシアス),DF,bosque,63,71,58,61,68,49,49,59,71,78
+IE3,The Great Horn,Mubulelo (ムブレロ),DF,aire,58,61,63,60,61,50,55,61,64,63
+IE3,The Great Horn,Kenede (ケネデ),DF,bosque,63,64,56,63,60,51,51,65,60,61
+IE3,The Great Horn,Abari (アバリ),MC,aire,78,96,55,68,79,53,58,72,50,60
+IE3,The Great Horn,Athol (アソール),MC,tierra,67,80,52,59,70,49,51,57,68,79
+IE3,The Great Horn,Reggie (レジー),MC,aire,85,84,57,75,64,58,57,66,55,65
+IE3,The Great Horn,Sulani (スラニ),MC,fuego,67,63,50,60,61,54,53,51,56,63
+IE3,The Great Horn,Tenba (テンバ),MC,fuego,80,70,50,68,63,54,52,55,56,68
+IE3,The Great Horn,Natal (ナタル),DL,aire,85,88,33,66,83,57,48,65,59,65
+IE3,The Great Horn,Mulamuli (ムラムリ),DL,fuego,93,72,30,75,66,40,40,73,60,60
+IE3,The Great Horn,Ezeckiel (ヘゼキエル),DL,fuego,97,81,30,81,74,40,45,75,35,64
+IE3,Tenkuu no Shito,Enolel (エノレル),PR,bosque,38,54,92,58,53,60,73,67,51,56
+IE3,Tenkuu no Shito,Nanael (ネネル),DF,fuego,66,73,96,64,58,64,80,67,52,56
+IE3,Tenkuu no Shito,Genel (ゲネル),DF,tierra,62,75,93,60,55,69,75,72,53,60
+IE3,Tenkuu no Shito,Ekadel (エカデル),DF,aire,66,85,95,63,67,69,78,71,48,56
+IE3,Tenkuu no Shito,Elfel (エルフェル),DF,tierra,56,86,79,58,67,62,65,80,48,59
+IE3,Tenkuu no Shito,Sakinel (サキネル),MC,tierra,65,87,66,59,61,63,64,72,52,56
+IE3,Tenkuu no Shito,Winel (ウイネル),MC,fuego,75,96,63,64,72,67,61,71,52,60
+IE3,Tenkuu no Shito,Enuel (エヌエル),MC,bosque,69,89,63,60,61,68,61,69,51,58
+IE3,Tenkuu no Shito,Aiel (アイエル),MC,bosque,73,92,74,61,63,74,69,67,49,60
+IE3,Tenkuu no Shito,Guel (ギュエール),DL,aire,84,84,46,65,61,62,64,88,50,59
+IE3,Tenkuu no Shito,Sein (セイン),DL,bosque,93,85,47,71,64,76,62,69,51,60
+IE3,Makai Gundan Z,Astaroth (アスタロス),PR,fuego,46,46,85,65,56,48,66,57,54,71
+IE3,Makai Gundan Z,Beelzebub (ベルゼブ),DF,tierra,68,68,88,65,69,47,71,56,50,77
+IE3,Makai Gundan Z,Abigor (アビゴール),DF,aire,72,55,84,69,56,52,67,60,52,73
+IE3,Makai Gundan Z,Hebimoth (ヘビーモス),DF,bosque,69,76,82,66,72,48,66,61,54,78
+IE3,Makai Gundan Z,Belial (ベリアル),DF,aire,72,76,56,69,68,50,50,66,52,74
+IE3,Makai Gundan Z,Mephisto (メフィスト),MC,aire,78,75,49,67,68,46,52,58,52,74
+IE3,Makai Gundan Z,Glasya (グラーシャ),MC,tierra,88,88,47,80,77,50,50,54,51,71
+IE3,Makai Gundan Z,Barbatos (バルバトス),MC,fuego,84,84,58,71,68,61,56,55,54,77
+IE3,Makai Gundan Z,Arachnes (アラクネス),MC,fuego,80,89,46,68,74,51,46,61,53,72
+IE3,Makai Gundan Z,Satanathos (サタナトス),DL,bosque,93,82,32,73,75,46,46,70,49,71
+IE3,Makai Gundan Z,Desta (デスタ),DL,tierra,98,80,34,80,73,55,49,58,55,78
+IE3,Ogre,Luceafǎr (ザゴメル Zagomel),PR,tierra,32,44,99,50,50,50,99,58,60,63
+IE3,Ogre,Bump Trungus (ブボー Bubo),DF,aire,45,78,95,49,73,48,81,63,49,59
+IE3,Ogre,Lump Trungus (ゲボー Gebo),DF,fuego,44,76,92,48,71,49,76,62,50,60
+IE3,Ogre,Jenkins (ジニスキー Jinisuki),DF,bosque,45,72,94,49,73,46,76,54,68,64
+IE3,Ogre,Ischer (ダイッコ Daikko),DF,bosque,47,76,95,52,74,50,78,55,70,57
+IE3,Ogre,Stark (イッカス Ikkasu),MC,tierra,56,94,50,51,72,74,49,54,68,59
+IE3,Ogre,Triumvir (サンダユウ Sandayuu),MC,bosque,55,97,55,50,80,71,53,58,64,65
+IE3,Ogre,Gunther (ドラッヘ Drache),MC,fuego,55,90,50,51,75,53,50,60,68,71
+IE3,Ogre,Callous (ミストレ Mistre),DL,tierra,92,61,36,73,53,51,54,76,59,58
+IE3,Ogre,Malice (エスカバ Eskaba),DL,tierra,96,54,33,78,48,54,48,72,60,63
+IE3,Ogre,Lancer (バダップ Baddap),DL,bosque,98,56,37,81,51,52,52,72,72,65
+IE3,Occult,Mask (じゅうぞう Juuzou),PR,aire,33,52,92,52,56,61,73,56,54,53
+IE3,Occult,Zombie (ふし Fushi),PR,tierra,30,46,50,47,51,50,40,64,74,56
+IE3,Occult,Styx (さんず Sanzu),DF,bosque,53,56,58,56,47,68,52,64,59,46
+IE3,Occult,Franky (フランケン Franken),DF,tierra,49,60,84,55,66,47,70,52,61,48
+IE3,Occult,Undead (ふじみ Fujimi),DF,fuego,47,58,76,52,58,56,61,56,79,53
+IE3,Occult,Creepy (やなぎだ Yanagida),DF,aire,49,56,66,52,54,57,57,60,54,63
+IE3,Occult,Jiangshi (れいげん Reigen),MC,aire,58,66,50,55,62,51,52,56,65,62
+IE3,Occult,Mummy (ミイラ Miira),MC,bosque,58,65,49,54,48,60,52,73,54,61
+IE3,Occult,Grave (やつはか Yatsuhaka),MC,fuego,61,88,49,57,68,60,52,62,56,55
+IE3,Occult,Wolfy (つきむら Tsukimura),MC,fuego,65,89,47,61,70,45,52,74,53,60
+IE3,Occult,Ghost (まかい Makai),MC,bosque,72,54,44,64,50,54,44,48,56,54
+IE3,Occult,Sanguin (ブラッド Blood),MC,tierra,82,56,47,72,52,52,51,56,46,60
+IE3,Occult,Dollman (にんぎょう Ningyou),DL,bosque,57,59,31,52,66,45,48,53,53,50
+IE3,Occult,Noir (くろがみ Kurogami),DL,bosque,63,46,39,56,45,48,58,52,69,45
+IE3,Occult,Alien (つぶらや Tsuburaya),DL,aire,56,54,33,48,54,67,50,48,58,44
+IE3,Occult,Talisman (ゆうこく Yuukoku),DL,bosque,79,71,33,62,64,56,48,60,62,63
+IE3,Wild,Boar (イノシシ Inoshishi),PR,fuego,31,59,90,48,64,50,69,60,54,62
+IE3,Wild,Bullford (ウシ Ushi),PR,fuego,28,45,97,41,68,48,77,31,51,64
+IE3,Wild,Toad (カエル Kaeru),DF,bosque,57,49,53,61,52,48,48,54,57,50
+IE3,Wild,Fishman (サカナ Sakana),DF,bosque,47,56,56,52,64,51,51,46,69,51
+IE3,Wild,Raccoon (アライグマ Araiguma),DF,bosque,47,50,52,53,53,53,44,51,68,47
+IE3,Wild,Lion (ライオン),DF,tierra,76,47,73,78,52,42,64,51,54,58
+IE3,Wild,Monkey (サル Saru),MC,aire,57,72,46,54,64,56,48,53,52,54
+IE3,Wild,Chameleon (カメレオン),MC,aire,48,53,57,46,47,49,60,57,60,48
+IE3,Wild,Mouseman (ネズミ Nezumi),MC,tierra,46,66,43,42,50,52,44,79,54,45
+IE3,Wild,Koala (コアラ),MC,bosque,56,54,47,54,49,57,51,48,51,49
+IE3,Wild,Chicken (ニワトリ Niwatori),MC,fuego,54,55,46,52,44,56,46,64,67,54
+IE3,Wild,Eagle (ワシ Washi),MC,aire,63,93,48,56,68,67,49,68,53,68
+IE3,Wild,Panda (パンダ),DL,fuego,63,49,37,56,53,48,58,52,55,46
+IE3,Wild,Cheetah (チーター),DL,aire,71,73,31,59,47,69,46,84,42,47
+IE3,Wild,Gorilla (ゴリラ),DL,tierra,95,53,45,78,66,41,64,48,52,67
+IE3,Wild,Snake (ヘビ Hebi),DL,bosque,64,70,33,55,63,62,49,55,65,45
+IE3,Brainwashing,Feldt (たけし Takeshi),PR,bosque,36,73,95,56,69,58,76,68,50,52
+IE3,Brainwashing,Under (ましも Mashimo),PR,bosque,29,40,87,44,40,40,69,48,61,70
+IE3,Brainwashing,Waters (みずぶち Mizubuchi),DF,bosque,43,55,56,48,64,51,52,45,64,45
+IE3,Brainwashing,Good (のり Nori),DF,bosque,43,46,69,47,47,48,60,48,71,50
+IE3,Brainwashing,Stronger (つよし Tsuyoshi),DF,fuego,45,46,65,48,46,50,57,47,55,68
+IE3,Brainwashing,Marvel (きょう Kyou),DF,tierra,45,58,54,50,62,52,48,52,57,51
+IE3,Brainwashing,Leading (ゆう Yuu),DF,aire,46,57,52,52,59,48,47,61,57,48
+IE3,Brainwashing,Stiller (つづき Tsuzuki),MC,aire,59,52,49,56,48,47,55,50,46,60
+IE3,Brainwashing,Oughtry (ひらお Hirao),MC,tierra,58,52,53,55,52,45,58,46,44,67
+IE3,Brainwashing,Tell (けい Kei),MC,bosque,49,59,55,47,53,53,60,62,48,47
+IE3,Brainwashing,Rock (いわお Iwao),MC,fuego,60,54,46,56,46,63,48,48,52,52
+IE3,Brainwashing,Kind (しん Shin),MC,bosque,51,59,47,49,53,64,51,50,53,49
+IE3,Brainwashing,Busta (ばく Baku),MC,fuego,56,69,45,55,67,52,49,48,50,49
+IE3,Brainwashing,Mooney (ながとも Nagatomo),DL,fuego,67,49,33,58,49,54,50,55,58,46
+IE3,Brainwashing,Seller (せり Seri),DL,aire,61,51,32,55,54,50,49,55,58,46
+IE3,Brainwashing,Turner (あらた Arata),DL,fuego,70,73,36,57,58,70,52,62,60,55
+IE3,Otaku,Idol (アイドル),PR,tierra,38,51,59,60,58,54,55,58,65,47
+IE3,Otaku,Eldorado (とうま Touma),PR,fuego,34,56,91,53,63,61,72,48,28,49
+IE3,Otaku,Train (てっちゃん Tecchan),DF,fuego,59,56,58,61,60,53,56,52,41,54
+IE3,Otaku,Vox (せいゆう Seiyuu),DF,aire,44,52,56,48,55,60,53,46,50,47
+IE3,Otaku,Cosplay (コスプレ),DF,tierra,57,52,63,59,52,56,58,56,40,62
+IE3,Otaku,Formby (フィギュア Figure),DF,tierra,50,54,52,54,58,61,45,46,48,48
+IE3,Otaku,Net (ネット),DF,bosque,43,57,56,46,62,54,52,49,59,49
+IE3,Otaku,Signalman (きうち Kiuchi),MC,aire,57,59,48,54,56,55,52,53,48,59
+IE3,Otaku,Robot (ロボ),MC,aire,63,63,51,60,60,52,58,54,41,51
+IE3,Otaku,Novel (ノベル),MC,bosque,63,63,55,60,55,56,58,61,57,48
+IE3,Otaku,Hero (ヒーロー),MC,fuego,74,76,55,62,62,61,55,56,50,71
+IE3,Otaku,Online (オンライン),DL,bosque,63,60,42,54,56,64,62,55,44,49
+IE3,Otaku,Custom (じさくは Jisakuha),DL,aire,69,59,41,58,62,52,61,54,47,59
+IE3,Otaku,Gamer (ゲームき Gameki),DL,fuego,70,62,34,58,60,59,52,55,45,59
+IE3,Otaku,Artist (まんがか Mangaka),DL,aire,62,54,46,52,56,58,63,53,51,64
+IE3,Otaku,Arcade (アーケード),DL,bosque,67,53,36,57,57,55,56,52,47,53
+IE3,Royal Academy,King (げんおう Genou),PR,fuego,37,53,94,55,53,69,75,55,64,60
+IE3,Royal Academy,Carlton (ひょうどう Hyoudou),PR,bosque,38,59,74,58,55,63,62,65,62,55
+IE3,Royal Academy,Drent (だいでん Daiden),DF,tierra,52,60,90,54,64,59,71,44,63,62
+IE3,Royal Academy,Simmons (ばんじょう Banjou),DF,bosque,59,73,74,58,63,62,60,59,55,69
+IE3,Royal Academy,Martin (ごじょう Gojou),DF,bosque,64,65,77,62,52,70,62,63,60,52
+IE3,Royal Academy,Master (なるかみ Narukami),MC,aire,69,79,75,60,64,58,69,59,62,66
+IE3,Royal Academy,Bloom (さきやま Sakiyama),MC,fuego,56,95,51,51,71,67,52,68,54,62
+IE3,Royal Academy,Swing (どうめん Doumen),MC,aire,50,87,64,45,56,76,59,69,60,61
+IE3,Royal Academy,Waldon (へんみ Henmi),MC,aire,72,87,61,62,60,72,59,65,57,52
+IE3,Royal Academy,Potts (しぶき Shibuki),MC,aire,53,55,51,53,52,54,56,52,60,44
+IE3,Royal Academy,Tomlinson (えな Ena),DL,aire,60,56,41,53,60,52,61,54,52,53
+IE3,Royal Academy,Ingham (おおくす Ookusu),DL,tierra,72,50,33,61,53,57,52,47,54,46
+IE3,Royal Academy,Lawrenson (むくもと Mukumoto),DL,aire,65,65,47,54,57,70,63,53,56,55
+IE3,Royal Academy,Hatch (じもん Jimon),DL,bosque,78,59,53,60,55,68,68,52,61,64
+IE3,Zeus,Poseidon (ポセイドン),PR,tierra,41,45,99,60,59,50,81,44,56,70
+IE3,Zeus,Icarus (イカロス Ikaros),PR,aire,50,55,91,68,62,66,70,44,59,64
+IE3,Zeus,Apollo (アポロン Apollon),DF,bosque,71,78,90,69,70,62,73,53,48,55
+IE3,Zeus,Hephestus (ヘパイス),DF,fuego,61,73,87,60,60,65,69,62,58,58
+IE3,Zeus,Ares (アレス),DF,tierra,63,82,86,61,72,65,68,56,57,60
+IE3,Zeus,Dionysus (ディオ Dio),DF,aire,64,72,84,62,68,60,67,50,53,64
+IE3,Zeus,Heracles (ヘラクレス),DF,fuego,53,68,86,54,60,66,68,55,53,65
+IE3,Zeus,Chronos (クロノス),DF,bosque,46,77,78,48,66,62,62,60,59,66
+IE3,Zeus,Artemis (アルテミス),MC,aire,74,67,62,62,56,76,60,44,45,58
+IE3,Zeus,Hermes (ヘルメス),MC,bosque,62,77,67,56,58,69,62,57,57,62
+IE3,Zeus,Athena (アテナ),MC,bosque,67,89,65,60,63,62,63,71,56,57
+IE3,Zeus,Medusa (メドゥーサ),MC,tierra,63,92,57,59,71,62,58,63,60,51
+IE3,Zeus,Hera (ヘラ),MC,fuego,51,89,73,48,68,60,67,64,70,60
+IE3,Zeus,Aphrodite (アフロディ2 Aphrodi2),MC,bosque,88,95,60,79,69,77,59,61,49,52
+IE3,Zeus,Demeter (デメテル),DL,fuego,91,69,40,70,59,64,56,60,63,62
+IE3,Zeus,Achilles (アキレス),DL,tierra,92,72,34,72,60,62,51,63,60,55
+IE3,Special Players,Carl Kappa (カッパ Kappa),PR,aire,51,46,77,74,49,48,64,71,70,57
+IE3,Special Players,Rococo kid (ロココ),PR,tierra,40,45,99,58,50,57,85,55,69,73
+IE3,Special Players,Silvia Woods (きの Kino),PR,tierra,29,47,95,44,58,52,74,51,64,68
+IE3,Special Players,Bobby Shearer 2 (どもん2 Domon 2),DF,bosque,52,62,93,56,61,52,76,60,72,52
+IE3,Special Players,Camellia Travis (ふゆか Fuyuka),DF,bosque,41,52,88,40,50,60,72,58,48,58
+IE3,Special Players,Shawn Froste 2 (scarf DF) (ふぶき2 Fubuki 2),DF,aire,57,76,81,59,57,68,64,70,69,50
+IE3,Special Players,Paul Peabody (たまごろう Tamagorou),DF,aire,44,59,93,45,52,62,70,64,73,74
+IE3,Special Players,Celia Hills (おとなし Otonashi),MC,aire,52,80,61,48,54,69,60,69,51,58
+IE3,Special Players,Erik Eagle 2 (いちのせ2 Ichinose 2),MC,bosque,83,88,54,70,60,75,54,63,53,61
+IE3,Special Players,Jude Sharp 2 (blue cape) (きどう2 Kidou 2),MC,aire,77,91,55,63,59,79,52,68,56,68
+IE3,Special Players,Canon Evans (カノン Kanon),DL,aire,78,69,54,60,59,64,69,60,62,67
+IE3,Special Players,Shawn Froste 2 (scarf FW) (ふぶき2 Fubuki 2),DL,aire,87,80,32,68,59,64,46,77,60,50
+IE3,Special Players,Masaki (まさき),DL,bosque,57,55,37,49,56,57,56,55,55,56
+IE3,Special Players,Maxwell Carson (Max) (マックス Max),DL,aire,62,71,48,51,56,72,64,60,56,57
+IE3,Special Players,Nelly Raimon (なつみ Natsumi),DL,fuego,89,65,35,68,64,65,52,44,49,62
+IE3,Special Players,Shadow Cimmerian (シャドウ Shadow),DL,bosque,76,86,51,60,74,68,68,63,52,56
+IE3,Special Players,Syon Blaze (まさと Masato),DL,fuego,92,79,51,70,60,76,67,62,54,58
+IE3,Special Players,William Glass (Willy) (メガネ Megane),DL,bosque,69,56,40,56,51,68,57,56,53,60
