@@ -1,25 +1,30 @@
 # Preguntas Abiertas
 
+Lo que el GDD todavía no define. Las referencias de Madfut y Pacybits están en `referencias/madfut-pacybits.md`.
+
 ## Química
-- [ ] **Escala 0–100 del equipo:** 11 jugadores × 10 de química individual dan 110. ¿Tope en 100, media ×10 u otra fórmula?
-- [ ] Puntos por enlace (verde / naranja / rojo) y conversión a 0–10.
-- [ ] Efecto de química 0 (la tabla empieza en 1).
-- [ ] ¿Bonus por jugar en su posición natural?
-- [ ] Catálogo de formaciones y sus adyacencias.
+- [ ] Cómo se pasa de la química individual (0–10) a la de equipo (0–100).
+- [ ] Puntos que aporta cada enlace (verde / naranja / rojo) a la química individual.
+- [ ] Efecto de química 0.
+- [ ] Formaciones disponibles y sus adyacencias.
 
 ## Técnicas
-- [ ] ¿Diferenciar bonus entre transformaciones del mismo nivel (p. ej. Tótem vs Armadura)?
-- [ ] ¿Ventaja elemental (Fuego > Bosque > Tierra > Aire > Fuego o similar)?
+- [ ] Cuánto sube la potencia o el grado al repetir una técnica en los huecos 5 y 6.
+- [ ] Coste de Tensión de cada técnica.
+- [ ] Efecto de una supertécnica en el duelo.
+- [ ] Modificadores de cada estado especial (Keshin, Mixi-Max, Armadura, Tótem, Despertar).
 
 ## Modo Fatal
-- [ ] Balanceo con simulaciones: ¿+5 de portero y +5 de Ventaja son adecuados? ¿Tiene ventaja quien ataca en la ronda 1?
-- [ ] Comportamiento de la IA rival (cómo elige carta, acción y uso de recursos).
-- [ ] Tiempo límite por decisión en PvP.
+- [ ] Estructura de un duelo: quién elige primero y qué elige. En Madfut, uno elige jugador y acción (atacar / controlar / defender) y el otro responde.
+- [ ] Cómo se decide el ganador del duelo. En Madfut, por valoración y luego por los otros atributos.
+- [ ] Cómo se marcan goles y cómo se gana el partido.
+- [ ] Si una carta puede jugar más de un duelo.
+- [ ] Desempates.
 
 ## Economía y modos
-- [ ] Monedas, precios de sobres y probabilidades por rareza.
-- [ ] Reglas de Trading.
+- [ ] Monedas, precios de sobres y probabilidades.
+- [ ] Reglas de Trading (en Pacybits solo se intercambian duplicadas).
 - [ ] Recompensas de Draft y SBC.
 
 ## Técnico
-- [ ] Motor (Unity, Godot, Flutter, React Native…) y backend (cuentas, mercado, PvP).
+- [ ] Motor y backend.

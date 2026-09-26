@@ -2,35 +2,20 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "technique.schema.json",
   "title": "Técnica",
+  "description": "Campos definidos en el GDD, sección 4.2.",
   "type": "object",
-  "required": ["id", "nombre", "tipo", "categoria", "elemento", "huecos"],
-  "additionalProperties": false,
+  "required": ["id", "nombre", "tipo", "huecos"],
   "properties": {
     "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
     "nombre": { "type": "string" },
     "tipo": {
-      "enum": ["supertecnica", "hipertecnica", "transformacion-basica", "transformacion-avanzada"]
+      "enum": ["supertecnica-estandar", "hipertecnica-combinada", "transformacion-basica", "transformacion-avanzada"]
     },
-    "categoria": {
-      "description": "Acción del duelo en la que se usa. Las transformaciones usan 'estado'.",
-      "enum": ["tiro", "regate", "bloqueo", "parada", "estado"]
-    },
-    "elemento": { "enum": ["fuego", "aire", "tierra", "bosque", "neutro"] },
-    "huecos": {
-      "description": "Huecos que ocupa (GDD 4.2): 1 estándar/transformación básica, 2 hiper/avanzada.",
-      "enum": [1, 2]
-    },
-    "potenciaBase": { "type": "integer", "minimum": 1, "maximum": 20, "description": "Puntos que se suman a la stat en el duelo (GDD 5.5): 6-10 estándar, 12-16 hiper." },
-    "costeTension": { "type": "integer", "minimum": 0, "maximum": 100, "description": "20 estándar, 40 hiper (GDD 5.5)." },
-    "mejorable": {
-      "type": "boolean",
-      "description": "Si admite Mejora de Grado. Siempre false en transformaciones.",
-      "default": true
-    },
-    "requiereCompanero": {
-      "description": "Ids de personaje necesarios para una combinada.",
-      "type": "array",
-      "items": { "type": "string" }
-    }
-  }
+    "huecos": { "description": "1 estándar / transformación básica; 2 hiper-combinada / transformación avanzada.", "enum": [1, 2] }
+  },
+  "allOf": [
+    { "if": { "properties": { "tipo": { "enum": ["supertecnica-estandar", "transformacion-basica"] } } },
+      "then": { "properties": { "huecos": { "const": 1 } } },
+      "else": { "properties": { "huecos": { "const": 2 } } } }
+  ]
 }
