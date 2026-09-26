@@ -16,6 +16,7 @@ data/
   fuentes/victory-road/         CSV de personajes, héroes, técnicas y poderes de Victory Road
   fuentes/ds/                   Stats a nivel 99 de IE1, IE2 e IE3
   fuentes/strikers/             Jugadores y técnicas de GO Strikers 2013 Xtreme
+  fuentes/udb/                  Ultimate Database: IE1–IE3 y GO1–GO3 a nivel 99, unificados
   propuestas/                   Resultados de propuestas (p. ej. stats calculadas)
 scripts/                        Scripts de cálculo
 ```

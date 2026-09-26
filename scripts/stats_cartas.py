@@ -1,92 +1,97 @@
-"""Propuesta v3 de ATT / CTL / DEF calibrada con cartas oro de Madfut (ver docs/propuestas/formula-stats.md).
+"""Propuesta v4 de ATT / CTL / DEF a partir de la Ultimate Database (IE1-IE3 y GO1-GO3).
 
-Uso: python3 scripts/stats_cartas.py
-Genera data/propuestas/stats-ds.csv y data/propuestas/stats-strikers.csv.
+Ver docs/propuestas/formula-stats.md. Uso: python3 scripts/stats_cartas.py
 """
 import csv
 import re
+import statistics
 
-# Techo de cada stat por posición para cartas base (el mínimo ya no se usa con la escala proporcional).
-# Calibrado con las cartas oro top de Madfut: stat principal 86-89 y secundarias bajas.
+ENTRADA = 'data/fuentes/udb/jugadores-nivel99.csv'
+SALIDA = 'data/propuestas/stats-cartas.csv'
+SALIDA_MEDIA = 'data/propuestas/stats-media-personaje.csv'
+STATS = ['tiro', 'regate', 'tecnica', 'defensa', 'parada', 'velocidad', 'aguante', 'extra']
+
+# Rango de cada stat por posición, de la carta base más floja a la oro top (calibrado con Madfut).
 RANGOS = {
-    'PR': {'ATT': (20, 45), 'CTL': (20, 45), 'DEF': (50, 89)},
-    'DF': {'ATT': (30, 70), 'CTL': (35, 75), 'DEF': (50, 89)},
-    'MC': {'ATT': (45, 86), 'CTL': (50, 89), 'DEF': (35, 80)},
-    'DL': {'ATT': (50, 89), 'CTL': (45, 88), 'DEF': (20, 62)},
+    'PR': {'ATT': (25, 45), 'CTL': (25, 45), 'DEF': (60, 89)},
+    'DF': {'ATT': (40, 70), 'CTL': (45, 75), 'DEF': (60, 89)},
+    'MC': {'ATT': (55, 86), 'CTL': (60, 89), 'DEF': (40, 80)},
+    'DL': {'ATT': (60, 89), 'CTL': (55, 88), 'DEF': (30, 62)},
 }
+SUELO, TECHO = 0.02, 0.995  # percentiles que marcan el mínimo y el techo de cada rango
 
 
-def brutas_ds(r):
-    att = .8 * r['Kick'] + .1 * r['Control'] + .1 * r['Guts']
-    ctl = .5 * r['Body'] + .25 * r['Control'] + .25 * r['Speed']
+def cuantil(valores, p):
+    valores = sorted(valores)
+    return valores[min(len(valores) - 1, int(p * len(valores)))]
+
+
+def normalizar(filas):
+    """Cada stat se pasa a unidades z dentro de su juego, para que IE (~30-100) y GO (~30-200) sean equivalentes."""
+    for juego in {r['juego'] for r in filas}:
+        grupo = [r for r in filas if r['juego'] == juego]
+        for s in STATS:
+            media = statistics.mean(r[s] for r in grupo)
+            desv = statistics.pstdev(r[s] for r in grupo)
+            for r in grupo:
+                r['z_' + s] = (r[s] - media) / desv
+
+
+def brutas(r):
+    z = lambda s: r['z_' + s]
+    att = .8 * z('tiro') + .2 * z('tecnica')
+    ctl = .5 * z('regate') + .25 * z('tecnica') + .25 * z('velocidad')
     if r['posicion'] == 'PR':
-        de = .8 * r['Guard'] + .1 * r['Body'] + .1 * r['Guts']
+        de = .8 * z('parada') + .2 * z('defensa')
     else:
-        de = .7 * r['Guard'] + .1 * r['Control'] + .1 * r['Stamina'] + .1 * r['Guts']
+        de = .8 * z('defensa') + .1 * z('tecnica') + .1 * z('aguante')
     return {'ATT': att, 'CTL': ctl, 'DEF': de}
 
 
-def brutas_strikers(r):
-    att = .8 * r['Kick'] + .2 * r['Control']
-    ctl = .5 * r['Body'] + .25 * r['Control'] + .25 * r['Speed']
-    de = (.8 * r['Catch'] + .2 * r['Guard']) if r['posicion'] == 'PR' else r['Guard']
-    return {'ATT': att, 'CTL': ctl, 'DEF': de}
-
-
-def calcular(filas):
-    """Escala proporcional: el mejor valor bruto de cada posición va al techo de la posición y el resto en proporción.
-
-    Proporcional (no por percentil): si en el juego un jugador tiene un 10 % más, en la carta también tiene un 10 % más.
-    """
+def escalar(filas):
+    """Escala lineal por posición, con todos los juegos juntos."""
     for pos, rangos in RANGOS.items():
         grupo = [r for r in filas if r['posicion'] == pos]
-        for s, (_, hi) in rangos.items():
-            vmax = max(r['bruto'][s] for r in grupo)
+        for s, (lo, hi) in rangos.items():
+            vals = [r['bruto'][s] for r in grupo]
+            a, b = cuantil(vals, SUELO), cuantil(vals, TECHO)
             for r in grupo:
-                r[s] = max(1, round(hi * r['bruto'][s] / vmax))
+                r[s] = round(max(lo, min(hi, lo + (hi - lo) * (r['bruto'][s] - a) / (b - a))))
 
 
-def escribir(filas, salida, campos):
-    with open(salida, 'w', newline='') as f:
-        w = csv.DictWriter(f, fieldnames=campos, extrasaction='ignore')
+def media_por_personaje(filas):
+    """Media de las versiones base (sin paréntesis: ni adulto, ni Mixi-Max…) de cada personaje en todos los juegos."""
+    grupos = {}
+    for r in filas:
+        if '(' in r['nombre']:
+            continue
+        clave = (re.sub(r'\s+', ' ', r['nombre']).strip(), r['posicion'])
+        grupos.setdefault(clave, []).append(r)
+    salida = []
+    for (nombre, pos), rs in sorted(grupos.items()):
+        salida.append({'nombre': nombre, 'posicion': pos, 'juegos': ' '.join(sorted({r['juego'] for r in rs})),
+                       **{s: round(statistics.mean(r[s] for r in rs)) for s in ['ATT', 'CTL', 'DEF']}})
+    return salida
+
+
+def main():
+    filas = list(csv.DictReader(open(ENTRADA)))
+    for r in filas:
+        for s in STATS:
+            r[s] = float(r[s])
+    normalizar(filas)
+    for r in filas:
+        r['bruto'] = brutas(r)
+    escalar(filas)
+    with open(SALIDA, 'w', newline='') as f:
+        w = csv.DictWriter(f, fieldnames=['juego', 'nombre', 'posicion', 'elemento', 'ATT', 'CTL', 'DEF'], extrasaction='ignore')
         w.writeheader()
         w.writerows(filas)
-
-
-def ds():
-    stats = ['Kick', 'Body', 'Control', 'Guard', 'Speed', 'Stamina', 'Guts']
-    filas = list(csv.DictReader(open('data/fuentes/ds/ie1-ie2-ie3-nivel99.csv')))
-    for r in filas:
-        for s in stats:
-            r[s] = int(r[s])
-        r['bruto'] = brutas_ds(r)
-    calcular(filas)
-    escribir(filas, 'data/propuestas/stats-ds.csv',
-             ['juego', 'equipo', 'nombre', 'posicion', 'elemento', 'ATT', 'CTL', 'DEF'] + stats)
-
-
-def strikers():
-    stats = ['Kick', 'Body', 'Control', 'Guard', 'Speed', 'Catch']
-    pos = {'GK': 'PR', 'DF': 'DF', 'MF': 'MC', 'FW': 'DL'}
-    filas = []
-    for r in csv.DictReader(open('data/fuentes/strikers/players.csv')):
-        # Fuera: managers (stats a 0) y versiones "Trainer/Coach" y "Armed" con todo a 90 (no son jugadores reales).
-        if not r['Kick'] or float(r['Kick']) == 0 or '(Trainer)' in r['Name (JPN romaji)'] or 'Arme' in r['Name (JPN romaji)']:
-            continue
-        for s in stats:
-            r[s] = float(r[s])
-        # Key bonus: "+2" a dos stats (ej. "Kick +2/Guard +2").
-        for stat, val in re.findall(r'(\w+) \+(\d+)', r['Key bonus']):
-            if stat in stats:
-                r[stat] += int(val)
-        r['posicion'] = pos[r['Position']]
-        r['bruto'] = brutas_strikers(r)
-        filas.append(r)
-    calcular(filas)
-    escribir(filas, 'data/propuestas/stats-strikers.csv',
-             ['Name (JPN romaji)', 'Name (FR)', 'posicion', 'Element', 'ATT', 'CTL', 'DEF'] + stats)
+    with open(SALIDA_MEDIA, 'w', newline='') as f:
+        w = csv.DictWriter(f, fieldnames=['nombre', 'posicion', 'juegos', 'ATT', 'CTL', 'DEF'])
+        w.writeheader()
+        w.writerows(media_por_personaje(filas))
 
 
 if __name__ == '__main__':
-    ds()
-    strikers()
+    main()
