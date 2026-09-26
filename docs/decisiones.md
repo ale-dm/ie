@@ -16,3 +16,6 @@ Solo decisiones tomadas por el autor del diseño.
 | 2026-09-26 | Ventaja elemental: sí (valor por definir). Bonus por técnica del mismo elemento: de momento no. |
 | 2026-09-26 | Las técnicas no evolucionan por uso. |
 | 2026-09-26 | Árbol de habilidades = la columna de huecos de técnica de la carta (6 en especiales, máximo 4 técnicas en normales). Al repetir una técnica, el hueco queda vacío y la técnica muestra su nivel. |
+| 2026-09-26 | Huecos agrupados de dos en dos: cartas muy básicas solo el grupo 1 (2 huecos), cartas mejores hasta el grupo 2 (4), especiales los 3 grupos (6). Sustituye a "Bronce/Plata/Oro: 4 huecos; Especiales: 5 o 6". |
+| 2026-09-26 | Una única notación para el nivel de una técnica repetida. |
+| 2026-09-26 | La técnica de un estado especial se añade al árbol sustituyendo la posición del estado, y se muestra con un aspecto distinto. |

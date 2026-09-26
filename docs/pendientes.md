@@ -13,8 +13,9 @@ Lo que el GDD todavía no define. Las referencias de Madfut y Pacybits están en
 ## Técnicas
 - [ ] Potencia y coste de Tensión de cada técnica (en Victory Road el coste es relativo a la potencia).
 - [ ] Técnicas de Habilidad: ¿ocupan hueco? ¿Cuestan Tensión? ¿Qué efectos tienen (sobre la carta o sobre el equipo)?
-- [ ] La técnica que trae un estado especial al activar la Hiperenergía, ¿se añade al árbol solo durante esa ronda? ¿Necesita hueco libre?
-- [ ] Notación del nivel: en la captura de Victory Road aparecen dos marcas distintas ("+1" y "L2"). ¿Cuál usamos?
+- [ ] ¿La técnica del estado especial dura solo esa ronda o el resto del partido?
+- [ ] Qué rarezas (Bronce, Plata, Oro…) son "muy básicas" y cuáles "mejores".
+- [ ] Una hipertécnica (2 huecos), ¿tiene que ocupar un grupo entero o puede repartirse entre dos grupos?
 - [ ] Valor de la ventaja elemental.
 
 ## Modo Fatal
@@ -34,7 +35,7 @@ Lo que el GDD todavía no define. Las referencias de Madfut y Pacybits están en
 - [ ] Recompensas de Draft y SBC.
 - [ ] **Valoración (media) de una carta y de un equipo:** hace falta para las series de Fatal Mi Club; las cartas solo tienen ATT/CTL/DEF.
 - [ ] Qué series y divisiones hay, cuántos partidos tiene cada una y cuáles son sus recompensas.
-- [ ] Criterio de rareza: qué hace que una carta sea bronce, plata, oro o especial.
+- [ ] Criterio de rareza: qué hace que una carta sea bronce, plata, oro o especial, y cuántos grupos de huecos tiene cada una.
 
 ## Técnico
 - [ ] Motor y backend.

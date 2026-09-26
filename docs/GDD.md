@@ -54,11 +54,19 @@ Los huecos forman el **árbol de habilidades** de la carta: la columna de técni
 
 ### 4.1 Capacidad por Tipo de Carta
 
-- **Cartas Base (Bronce, Plata, Oro):** 4 Huecos de técnica (estricto).
-- **Cartas Especiales / Boosteadas:** 5 o 6 Huecos de técnica (representan momentos o partidos icónicos de la franquicia, como finales de torneo o despertares de personajes).
-- **Huecos 5 y 6:** no tienen por qué ser hipertécnicas; pueden ser otras técnicas, o repetir una de las que ya tiene. Cada repetición suma **+1** a la potencia de esa técnica.
-- **Cómo se ve una repetición:** el hueco gastado queda vacío en el árbol y la técnica mejorada muestra su nivel junto al nombre. Ejemplo (Goenji, carta especial de 6 huecos): Jet Stream, Meteoric Fire Tornado (+1), Prime Legend (L2) y Burning Overdrive, con 2 huecos vacíos gastados en subir esas dos técnicas.
-- **Cartas normales:** como máximo 4 técnicas en el árbol.
+Los huecos del árbol se agrupan **de dos en dos** (grupos 1, 2 y 3, como en Victory Road):
+
+| Tipo de carta | Grupos disponibles | Huecos |
+|---|---|---|
+| Cartas muy básicas | Grupo 1 | 2 |
+| Cartas mejores | Grupos 1 y 2 | 4 |
+| Cartas Especiales / Boosteadas | Grupos 1, 2 y 3 | 6 |
+
+- Las cartas especiales representan momentos o partidos icónicos de la franquicia, como finales de torneo o despertares de personajes.
+- Las cartas normales tienen como máximo 4 técnicas en el árbol.
+- **Huecos del grupo 3 (5 y 6):** no tienen por qué ser hipertécnicas; pueden ser otras técnicas, o repetir una de las que ya tiene. Cada repetición suma **+1** a la potencia de esa técnica.
+- **Cómo se ve una repetición:** el hueco gastado queda vacío en el árbol y la técnica mejorada muestra su nivel junto al nombre, con una única notación para todas las técnicas. Ejemplo (Goenji, carta especial): Jet Stream, Meteoric Fire Tornado +1, Prime Legend +1 y Burning Overdrive, con 2 huecos vacíos gastados en subir esas dos técnicas.
+- **Técnica de un estado especial:** al activar la Hiperenergía, si el estado tiene técnica propia, esta se añade al árbol **sustituyendo la posición del estado especial** (ej. el hueco de Burning Overdrive). En el árbol se muestra con un aspecto distinto al de las demás técnicas.
 
 ### 4.2 Ocupación de Huecos por Habilidad
 
@@ -123,7 +131,7 @@ El modo Fatal se desarrolla a lo largo de 10 duelos individuales por turnos, má
 - Se deciden **al elegir la carta**, de forma **oculta**, y se revelan al resolver la ronda.
 - Una supertécnica **suma puntos fijos** a la stat del duelo. Cada técnica tiene su propia potencia y su propio coste de Tensión (valores por definir técnica a técnica).
 - Los estados especiales (Hiperenergía) también dan **bonus en puntos fijos**, no porcentajes.
-- **Técnicas de Habilidad:** existen técnicas pasivas, como en los juegos. Cuando se activa la Hiperenergía, si el estado especial tiene técnica propia, esta se suma al árbol de habilidades de la carta.
+- **Técnicas de Habilidad:** existen técnicas pasivas, como en los juegos. Cuando se activa la Hiperenergía, si el estado especial tiene técnica propia, esta se suma al árbol de habilidades de la carta (ver 4.1).
 - Las técnicas **no evolucionan por uso**. Solo suben de potencia repitiéndolas en los huecos 5 y 6.
 - También se pueden usar en la **ronda de desempate**.
 
