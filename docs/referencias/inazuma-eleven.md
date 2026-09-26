@@ -79,7 +79,22 @@ Estas fuentes son anteriores al PDF, y sus valores de Keshin y Armadura no coinc
 - **Mixi-Max:** dos personajes transfieren su aura; el jugador se convierte en un híbrido y usa el poder de su pareja. [11]
 - **Tótem (Soul, Galaxy):** el jugador se transforma en un animal o criatura, sube su poder y desbloquea una **Soul Strike** exclusiva, normalmente más potente que sus supertécnicas. El TP pasa a ser **SP**, con el que las técnicas normales cuestan un **50 %**. [11][12]
 
-## 3. Nombres en Español
+## 3. Ficha de Jugador en Victory Road (Árbol de Habilidades)
+
+Captura aportada por el autor: `img/ievr-arbol-habilidades-goenji.jpg`.
+
+- Jugador: Shuya Goenji (Axel Blaze), FW, elemento Fuego, "Legendary Player", nivel 88.
+- Stats de la ficha: Kick 536, Control 528, Technique 372, Intelligence 190, Pressure 180, Agility 173, Physical 173.
+- Columna de técnicas con 6 huecos, numerados por parejas (1, 2, 3):
+  - Jet Stream — AT 579
+  - Meteoric Fire Tornado **+1** — AT 537
+  - Prime Legend **L2** — AT 637
+  - Burning Overdrive (Despertar)
+  - 2 huecos vacíos
+- Según el autor, los 2 huecos vacíos se gastaron en subir el nivel de dos técnicas (Meteoric Fire Tornado y Prime Legend).
+- El Despertar (Burning Overdrive) ocupa un hueco en la misma columna que las técnicas.
+
+## 4. Nombres en Español
 
 - **Tótem** es el nombre en español de *Soul* (también llamado *Poder Animal*, y *Alma* en el manga). [12]
 - **Cambio de Forma** = *Mode Change* de Victory Road. [13]

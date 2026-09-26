@@ -15,3 +15,4 @@ Solo decisiones tomadas por el autor del diseño.
 | 2026-09-26 | Técnicas de Habilidad (pasivas): sí. Al activar la Hiperenergía, si el estado tiene técnica propia, se suma al árbol de habilidades de la carta. |
 | 2026-09-26 | Ventaja elemental: sí (valor por definir). Bonus por técnica del mismo elemento: de momento no. |
 | 2026-09-26 | Las técnicas no evolucionan por uso. |
+| 2026-09-26 | Árbol de habilidades = la columna de huecos de técnica de la carta (6 en especiales, máximo 4 técnicas en normales). Al repetir una técnica, el hueco queda vacío y la técnica muestra su nivel. |

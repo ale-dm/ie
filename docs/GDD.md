@@ -50,11 +50,15 @@ Se calcula según los enlaces con los jugadores adyacentes en la formación tác
 
 Cada carta incluye una sección de Techniques Spéciales (inspirada en la interfaz de Inazuma Eleven 3DS). Los huecos determinan la versatilidad de la carta antes del encuentro:
 
+Los huecos forman el **árbol de habilidades** de la carta: la columna de técnicas de la ficha, como en la pantalla de atributos de Victory Road (ver `referencias/img/ievr-arbol-habilidades-goenji.jpg`).
+
 ### 4.1 Capacidad por Tipo de Carta
 
 - **Cartas Base (Bronce, Plata, Oro):** 4 Huecos de técnica (estricto).
 - **Cartas Especiales / Boosteadas:** 5 o 6 Huecos de técnica (representan momentos o partidos icónicos de la franquicia, como finales de torneo o despertares de personajes).
 - **Huecos 5 y 6:** no tienen por qué ser hipertécnicas; pueden ser otras técnicas, o repetir una de las que ya tiene. Cada repetición suma **+1** a la potencia de esa técnica.
+- **Cómo se ve una repetición:** el hueco gastado queda vacío en el árbol y la técnica mejorada muestra su nivel junto al nombre. Ejemplo (Goenji, carta especial de 6 huecos): Jet Stream, Meteoric Fire Tornado (+1), Prime Legend (L2) y Burning Overdrive, con 2 huecos vacíos gastados en subir esas dos técnicas.
+- **Cartas normales:** como máximo 4 técnicas en el árbol.
 
 ### 4.2 Ocupación de Huecos por Habilidad
 

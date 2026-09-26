@@ -13,7 +13,8 @@ Lo que el GDD todavía no define. Las referencias de Madfut y Pacybits están en
 ## Técnicas
 - [ ] Potencia y coste de Tensión de cada técnica (en Victory Road el coste es relativo a la potencia).
 - [ ] Técnicas de Habilidad: ¿ocupan hueco? ¿Cuestan Tensión? ¿Qué efectos tienen (sobre la carta o sobre el equipo)?
-- [ ] Qué significa exactamente "árbol de habilidades" de la carta.
+- [ ] La técnica que trae un estado especial al activar la Hiperenergía, ¿se añade al árbol solo durante esa ronda? ¿Necesita hueco libre?
+- [ ] Notación del nivel: en la captura de Victory Road aparecen dos marcas distintas ("+1" y "L2"). ¿Cuál usamos?
 - [ ] Valor de la ventaja elemental.
 
 ## Modo Fatal
