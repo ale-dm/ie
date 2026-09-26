@@ -1,10 +1,14 @@
-# Propuesta: Fórmula de ATT / CTL / DEF (v2)
+# Propuesta: Fórmula de ATT / CTL / DEF (v3)
 
 Estado: **propuesta, no aprobada**. Script: `scripts/stats_cartas.py`. Resultados:
 - `data/propuestas/stats-ds.csv`: 2270 fichas de IE1–IE3 (stats de nivel 99).
-- `data/propuestas/stats-strikers.csv`: fichas de GO Strikers 2013 Xtreme (IEGSX), con varias versiones por personaje según su época o equipo.
+- `data/propuestas/stats-strikers.csv`: fichas de GO Strikers 2013 Xtreme, con varias versiones por personaje.
 
-La v1 salía demasiado alta (99) y daba ATT alto a los porteros. Esta versión se calibra con las cartas oro top de Madfut (`referencias/madfut-pacybits.md`, apartado "Calibración").
+## Historial
+
+- **v1:** escala 50–99 frente a todos los jugadores. Demasiado alta, y los porteros salían con ATT alto.
+- **v2:** percentil dentro de cada posición. **Error:** el percentil mide el puesto, no la diferencia real. Con las stats de Strikers en saltos de 10, subir 10 puntos adelantaba a muchos jugadores de golpe y exageraba las diferencias entre versiones (Axel Raimon 1 salía con 53 de ATT e ILJ con 89). Además no se sumaba el Key bonus de Strikers.
+- **v3 (esta):** escala **proporcional**. Si en el juego un jugador tiene un 10 % más, en la carta también tiene un 10 % más. Se suma el Key bonus.
 
 ## Pasos
 
@@ -17,58 +21,55 @@ La v1 salía demasiado alta (99) y daba ATT alto a los porteros. Esta versión s
 | DEF | 70 % Guard + 10 % Control + 10 % Stamina + 10 % Guts | Guard |
 | DEF del portero | 80 % Guard + 10 % Body + 10 % Guts | 80 % Catch + 20 % Guard |
 
-### 2. Comparación solo con los de su posición
+En Strikers se suma antes el **Key bonus** de cada ficha (+2 a dos stats, ej. "Kick +2/Guard +2").
 
-Cada stat se compara únicamente con jugadores de la misma posición (porteros con porteros, delanteros con delanteros…). Por eso el ATT de un portero siempre sale bajo aunque tenga buen Kick.
+### 2. Escala proporcional por posición
 
-### 3. Rango de cada posición
+`carta = techo de la posición × stat bruta / mejor stat bruta de esa posición`
 
-`carta = mínimo + (máximo − mínimo) × percentil^1,3`
-
-| Posición | ATT | CTL | DEF |
+| Posición | Techo ATT | Techo CTL | Techo DEF |
 |---|---|---|---|
-| PR | 20 – 45 | 20 – 45 | 50 – 89 |
-| DF | 30 – 70 | 35 – 75 | 50 – 89 |
-| MC | 45 – 86 | 50 – 89 | 35 – 80 |
-| DL | 50 – 89 | 45 – 88 | 20 – 62 |
+| PR | 45 | 45 | 89 |
+| DF | 70 | 75 | 89 |
+| MC | 86 | 89 | 80 |
+| DL | 89 | 88 | 62 |
 
-- Los techos son los de las cartas oro top de Madfut (stat principal 86–89).
-- Por encima de 89 quedan solo las cartas Especiales.
-- El exponente 1,3 hace que la mayoría queden en la zona media y solo los mejores lleguen arriba.
+- Los techos son los de las cartas oro top de Madfut. Por encima de 89 quedan las cartas Especiales.
+- Cada stat se compara solo con los de su posición, así que un portero nunca tiene ATT alto.
 
-## Ejemplos (datos de DS/3DS)
+## Ejemplos con Strikers (versiones de un mismo personaje)
+
+Entre corchetes, las stats originales del juego (Kick / Body / Control / Guard / Catch, ya con el Key bonus).
+
+| Carta | ATT | CTL | DEF | Stats del juego |
+|---|---|---|---|---|
+| Axel Blaze (Raimon 1) | 71 | 70 | 43 | K92 B92 C80 G70 |
+| Axel Blaze (Raimon 2) | 80 | 73 | 43 | K102 B90 C92 G70 |
+| Axel Blaze (Inazuma Japón) | 79 | 78 | 49 | K102 B100 C90 G80 |
+| Axel Blaze (ILJ, adulto) | 89 | 85 | 49 | K112 B100 C110 G80 |
+| Jude Sharp (Raimon 1) | 62 | 72 | 36 | K70 B80 C94 G50 |
+| Jude Sharp (Inazuma Japón) | 77 | 83 | 50 | K90 B102 C102 G70 |
+| Jude Sharp (ILJ) | 85 | 89 | 64 | K100 B110 C112 G90 |
+| Mark Evans (Raimon 1) | 35 | 37 | 86 | Catch 110, Guard 92 |
+| Mark Evans (Raimon 2) | 42 | 39 | 73 | Catch 90, Guard 92 |
+| Mark Evans (Inazuma Japón) | 41 | 41 | 81 | Catch 100, Guard 102 |
+| Mark Evans (ILJ) | 43 | 45 | 87 | Catch 110, Guard 102 |
+
+Las diferencias que quedan entre versiones son las del propio juego: el Kick de Axel es 92 → 102 → 112. Lo de Mark Raimon 2 viene de que el juego le baja la Catch de 110 a 90.
+
+## Ejemplos con DS
 
 | Jugador | Juego | Pos | ATT | CTL | DEF |
 |---|---|---|---|---|---|
-| Mark Evans | IE1 | PR | 43 | 45 | 87 |
-| Axel Blaze | IE1 | DL | 88 | 85 | 53 |
-| Jude Sharp | IE1 | MC | 77 | 89 | 80 |
-| Byron Love | IE2 | MC | 85 | 87 | 77 |
-| Bobby Shearer | IE1 | DF | 70 | 66 | 88 |
-| Kevin Dragonfly | IE1 | DL | 82 | 64 | 46 |
-| Xavier Foster | IE3 | DL | 81 | 79 | 36 |
-| Jack Wallside | IE1 | DF | 54 | 62 | 72 |
-| William Glass | IE1 | DL | 62 | 55 | 35 |
-| Tod Ironside | IE1 | DF | 44 | 45 | 61 |
+| Mark Evans | IE1 | PR | 38 | 42 | 75 |
+| Axel Blaze | IE1 | DL | 76 | 75 | 49 |
+| Jude Sharp | IE1 | MC | 66 | 78 | 68 |
+| Kevin Dragonfly | IE2 | DL | 89 | 76 | 57 |
+| Byron Love | IE2 | MC | 79 | 72 | 62 |
+| Bobby Shearer | IE1 | DF | 60 | 59 | 73 |
+| Tod Ironside | IE1 | DF | 44 | 52 | 55 |
 
-Comparación con Madfut: Mbappé 89/83/42, De Bruyne 86/89/64, Van Dijk 67/70/87, Alisson 41/43/88.
+## Diferencia entre fuentes
 
-## Ejemplos (datos de Strikers)
-
-Strikers tiene stats en saltos de 10 (50–110) y **varias versiones por personaje según su época** (Raimon 1, Inazuma Japón, ILJ…). Encaja con las cartas por era del GDD: las versiones tempranas salen más bajas y las tardías más altas.
-
-| Carta | Pos | ATT | CTL | DEF |
-|---|---|---|---|---|
-| Axel Blaze (Raimon 1) | DL | 53 | 51 | 28 |
-| Axel Blaze (Inazuma Japón) | DL | 69 | 70 | 46 |
-| Jude Sharp (Raimon 1) | MC | 48 | 55 | 35 |
-| Jude Sharp (Inazuma Japón) | MC | 81 | 78 | 38 |
-| Mark Evans (Raimon 1) | PR | 23 | 21 | 82 |
-| Arion Sherwind | MC | 81 | 78 | 72 |
-| Victor Blade | DL | 81 | 70 | 46 |
-
-## Limitaciones
-
-- Las stats de los juegos no siempre reflejan la fama del personaje (ej. Shawn Froste en IE3 tiene Kick 61). Se ajustaría a mano o eligiendo otra versión.
-- Los saltos de 10 de Strikers producen muchos empates.
-- Rangos y curva ajustables.
+- **DS** incluye muchos jugadores genéricos flojos, así que sus valores bajan más: la mediana de ATT de un DL es 59.
+- **Strikers** solo tiene personajes conocidos, así que sus valores quedan más altos y juntos: la mediana de ATT de un DL es 79.

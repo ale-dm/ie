@@ -1,20 +1,19 @@
-"""Propuesta v2 de ATT / CTL / DEF calibrada con cartas oro de Madfut (ver docs/propuestas/formula-stats.md).
+"""Propuesta v3 de ATT / CTL / DEF calibrada con cartas oro de Madfut (ver docs/propuestas/formula-stats.md).
 
 Uso: python3 scripts/stats_cartas.py
 Genera data/propuestas/stats-ds.csv y data/propuestas/stats-strikers.csv.
 """
-import bisect
 import csv
+import re
 
-# Rango de cada stat por posición para cartas base (de la peor verde a la mejor naranja).
-# Techo calibrado con las cartas oro top de Madfut: stat principal 86-89 y secundarias bajas.
+# Techo de cada stat por posición para cartas base (el mínimo ya no se usa con la escala proporcional).
+# Calibrado con las cartas oro top de Madfut: stat principal 86-89 y secundarias bajas.
 RANGOS = {
     'PR': {'ATT': (20, 45), 'CTL': (20, 45), 'DEF': (50, 89)},
     'DF': {'ATT': (30, 70), 'CTL': (35, 75), 'DEF': (50, 89)},
     'MC': {'ATT': (45, 86), 'CTL': (50, 89), 'DEF': (35, 80)},
     'DL': {'ATT': (50, 89), 'CTL': (45, 88), 'DEF': (20, 62)},
 }
-CURVA = 1.3  # >1 reserva los valores altos para los mejores de cada posición
 
 
 def brutas_ds(r):
@@ -35,14 +34,16 @@ def brutas_strikers(r):
 
 
 def calcular(filas):
-    """Percentil de cada stat bruta dentro de su posición, llevado al rango de la posición."""
+    """Escala proporcional: el mejor valor bruto de cada posición va al techo de la posición y el resto en proporción.
+
+    Proporcional (no por percentil): si en el juego un jugador tiene un 10 % más, en la carta también tiene un 10 % más.
+    """
     for pos, rangos in RANGOS.items():
         grupo = [r for r in filas if r['posicion'] == pos]
-        for s, (lo, hi) in rangos.items():
-            orden = sorted(r['bruto'][s] for r in grupo)
+        for s, (_, hi) in rangos.items():
+            vmax = max(r['bruto'][s] for r in grupo)
             for r in grupo:
-                p = bisect.bisect_right(orden, r['bruto'][s]) / len(orden)
-                r[s] = round(lo + (hi - lo) * p ** CURVA)
+                r[s] = max(1, round(hi * r['bruto'][s] / vmax))
 
 
 def escribir(filas, salida, campos):
@@ -74,6 +75,10 @@ def strikers():
             continue
         for s in stats:
             r[s] = float(r[s])
+        # Key bonus: "+2" a dos stats (ej. "Kick +2/Guard +2").
+        for stat, val in re.findall(r'(\w+) \+(\d+)', r['Key bonus']):
+            if stat in stats:
+                r[stat] += int(val)
         r['posicion'] = pos[r['Position']]
         r['bruto'] = brutas_strikers(r)
         filas.append(r)
