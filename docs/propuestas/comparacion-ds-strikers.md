@@ -37,4 +37,4 @@ Coinciden en quién es bueno y quién es malo, pero los números concretos varí
 | Versiones por época | Una por juego; entre juegos no siempre suben (Axel IE3 < IE1) | **Varias por personaje (Raimon 1 → Inazuma Japón → ILJ), con progresión clara** |
 | Precisión | Stats de 1 en 1: 40–46 valores distintos por stat | Saltos de 10: solo 5–15 valores distintos por stat (DEF de campo, solo 5) |
 | Encaje con rarezas | Casi todos los protagonistas salen arriba | Las versiones tempranas salen bajas y las tardías altas, así que se reparten solas por colores |
-| Rarezas raras | IE3 a nivel 99 da valores bajos a estrellas (Froste) | Alguna incoherencia (Mark Raimon 2 con menos DEF que Raimon 1) |
+| Incoherencias | IE3 a nivel 99 da valores bajos a estrellas (Froste) | Alguna incoherencia (Mark Raimon 2 con menos DEF que Raimon 1) |
