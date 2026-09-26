@@ -40,7 +40,7 @@ Se calcula según los enlaces con los jugadores adyacentes en la formación tác
 
 | Química del Jugador | Efecto en las Stats de Fatal (ATT, CTL, DEF) |
 |---|---|
-| 10 de Química | +2 en todas las estadísticas (Bonificador Máximo). |
+| 10 de Química | +1 en todas las estadísticas (Bonificador Máximo). |
 | 9 de Química | 0 (Estadísticas base sin cambios). |
 | 7 a 8 de Química | -1 en todas las estadísticas (Penalización leve). |
 | 5 a 6 de Química | -3 en todas las estadísticas (Penalización media). |
@@ -64,9 +64,9 @@ Cada carta incluye una sección de Techniques Spéciales (inspirada en la interf
 | Transformación Básica | 1 Hueco | Habilita la activación de Espíritu Guerrero (Keshin) o Despertar. |
 | Transformación Avanzada | 2 Huecos | Habilita la activación de Mixi-Max, Armadura de Keshin o Tótem. |
 
-## 5. Modo Fatal: Sistema de Combate 1vs1 (11 Rondas)
+## 5. Modo Fatal: Sistema de Combate 1vs1 (10 Rondas + Desempate)
 
-El modo Fatal se desarrolla a lo largo de 11 duelos individuales por turnos utilizando las dos barras de recursos compartidas por el equipo:
+El modo Fatal se desarrolla a lo largo de 10 duelos individuales por turnos, más una ronda de desempate con la carta número 11 si hace falta, utilizando las dos barras de recursos compartidas por el equipo:
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -97,6 +97,43 @@ El modo Fatal se desarrolla a lo largo de 11 duelos individuales por turnos util
 
 - **Condición de Carga:** Se obtiene 1 Carga cada vez que el jugador utiliza acumulativamente 2 Supertécnicas en el partido.
 - **Uso:** Gastar 1 carga permite activar el estado especial de la carta (Keshin, Mixi-Max, Armadura, Tótem o Despertar) en esa ronda, aplicando sus respectivos modificadores.
+
+### 5.3 Estructura del Partido (igual que Madfut)
+
+- **Alineación:** se juega con los 11 titulares. Cada carta se usa una vez.
+- **Quién empieza:** se sortea. Después, los equipos se alternan: en cada ronda uno elige primero y el otro responde.
+- **Elección:** el que elige primero escoge una carta y una stat:
+  - Si elige **ATT**, el rival responde con la **DEF** de una de sus cartas.
+  - Si elige **DEF**, el rival responde con el **ATT** de una de sus cartas.
+  - Si elige **CTL**, el rival responde con el **CTL** de una de sus cartas.
+- **Información oculta:** el que responde no ve la carta elegida, solo la stat y pistas de la carta.
+- **Ganador de la ronda:** la stat más alta gana y suma **1 punto**.
+  - Si las stats son iguales, se suman las stats totales (ATT + CTL + DEF) de cada carta y gana la más alta.
+  - Si también son iguales, nadie obtiene el punto.
+- **10 rondas.** Gana quien tenga más puntos.
+
+### 5.4 Ronda de Desempate
+
+- Si tras las 10 rondas el marcador está igualado, se enfrenta la última carta de cada equipo (la número 11) y se suman todas sus stats. La más alta gana el partido.
+- Si la diferencia no es mayor que 5, el partido termina en empate.
+
+### 5.5 Modalidades
+
+- **Fatal Mi Club:** se construye un equipo por serie que no supere la valoración requerida (ej. serie 75 → equipo de 75 o menos). Solo con cartas del club.
+- **Fatal Draft:** equipo formado en un Draft. Solo se usan los 11 titulares y no hay restricción de club.
+
+### 5.6 Impulsos Fatales
+
+Cada temporada hay un conjunto de impulsos por serie (Fatal Mi Club) y por división (Fatal Draft). Dan bonus a las stats si el equipo cumple unos requisitos (ej. +2 en todas las stats con 6 o más tipos de cartas).
+
+### 5.7 Puntos por Partido
+
+| Rival | Victoria | Empate | Derrota |
+|---|---|---|---|
+| Online | 4 | 2 | 1 |
+| IA | 3 | 1 | 0 |
+
+Las recompensas por completar una serie o división son las mismas online y contra la IA.
 
 ## 6. Modos de Juego Complementarios
 
