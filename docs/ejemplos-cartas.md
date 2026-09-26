@@ -41,9 +41,9 @@ Calculadas con `formula-stats.md`. Formato: **ATT / CTL / DEF**. Cada fila es un
 
 | Personaje | Pos | Elemento | IE1 | IE2 | IE3 | GO1 | GO2 | GO3 | Versiones especiales |
 |---|---|---|---|---|---|---|---|---|---|
-| Darren LaChance | PR | Bosque | — | 37/43/82 | 38/37/82 | 31/33/83 | 33/36/81 | 32/36/81 | GO3 Adultoo: 34/34/80 |
-| Hurley Kane | DF | Aire | — | 67/72/81 | 70/66/75 | 60/60/68 | 61/59/78 | 61/62/79 | GO2 Adulto: 63/61/82 · GO3 Adultoo: 61/61/82 |
-| Shawn Froste | DL | Aire | — | 66/71/75 (DF) · 80/82/54 · 82/84/56 | 60/69/78 (DF) · 79/82/38 · 76/84/52 | 77/63/39 | 81/77/53 | 80/76/53 | GO2 Adulto: 85/81/53 · GO3 Adultoe: 84/80/53 |
+| Darren LaChance | PR | Bosque | — | 37/43/82 | 38/37/82 | 31/33/83 | 33/36/81 | 32/36/81 | GO3 Adulto: 34/34/80 |
+| Hurley Kane | DF | Aire | — | 67/72/81 | 70/66/75 | 60/60/68 | 61/59/78 | 61/62/79 | GO2 Adulto: 63/61/82 · GO3 Adulto: 61/61/82 |
+| Shawn Froste | DL | Aire | — | 66/71/75 (DF) · 80/82/54 · 82/84/56 | 60/69/78 (DF) · 79/82/38 · 76/84/52 | 77/63/39 | 81/77/53 | 80/76/53 | GO2 Adulto: 85/81/53 · GO3 Adulto: 84/80/53 |
 | Caleb Stonewall | MC | Fuego | — | 84/77/63 | 75/89/56 · 74/89/62 | 78/78/64 | 75/81/61 | 76/82/61 | GO2 Adulto: 81/84/62 · GO3 Entrenador: 74/82/63 · GO3 Adulto: 80/83/61 |
 | Jordan Greenway | MC | Bosque | — | — | 80/83/62 | 66/67/51 | — | 75/78/58 | GO3 Adulto: 77/81/57 |
 | Xavier Foster | DL | Fuego | — | — | 81/83/49 | — | — | 80/76/49 | GO1 gran: 80/67/44 · GO1 normal: 78/75/52 · GO3 Adulto: 83/81/45 |
