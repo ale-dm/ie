@@ -28,3 +28,4 @@ Solo decisiones tomadas por el autor del diseño.
 | 2026-09-26 | Cada supertécnica tiene su propio valor de potencia y coste, asignado por el autor, como en DS/3DS; no escalones fijos como en Victory Road. |
 | 2026-09-26 | Stats de las cartas con la fórmula v4 (`formula-stats.md`): Ultimate Database IE1–GO3, normalizada por juego, rangos de Madfut por posición. |
 | 2026-09-26 | Cartas por versión y juego (estilo Strikers), no una media por personaje. |
+| 2026-09-26 | Rangos con valor de jugador normal por posición: porteros por encima de defensas, delantero vs. portero ~35 %, delantero vs. defensa ~68 %, medio vs. defensa ~50 %. |

@@ -15,60 +15,46 @@ Ejemplos de cartas: `ejemplos-cartas.md`.
 - **v1:** escala 50–99 frente a todos. Demasiado alta y con porteros de ATT alto.
 - **v2:** percentil. Exageraba diferencias con datos en saltos de 10.
 - **v3:** proporcional. Diferencias demasiado grandes entre un delantero cualquiera y una estrella.
-- **v4 (esta):** rango de Madfut fijado primero, una base con los 6 juegos y normalización por juego.
+- **v4 (esta):** rango de Madfut fijado primero, una base con los 6 juegos y normalización por juego. Revisión: se fija también el valor del jugador normal de cada posición para equilibrar los duelos (porteros por encima de defensas, delantero vs. portero ~35 %).
 
 ## Pasos
 
-### 1. Normalizar cada juego
+### 1. Stats de cada juego (nivel 99)
 
-La saga GO usa casi el doble de escala que la original. Cada stat se convierte en "cuántas veces se aleja de la media de su juego" (puntuación z). Así un Kick alto en IE1 y un Tiro alto en GO3 valen lo mismo.
+| Para calcular | IE1, IE2, IE3 | GO1, GO2 | GO3 (español) |
+|---|---|---|---|
+| ATT | 80 % Kick + 20 % Control | 80 % Kick + 20 % Technique | 80 % Tiro + 20 % Técnica |
+| CTL | 50 % Body + 25 % Control + 25 % Speed | 50 % Dribble + 25 % Technique + 25 % Speed | 50 % Regate + 25 % Técnica + 25 % Velocidad |
+| DEF de campo | 80 % Guard + 10 % Control + 10 % Stamina | 80 % Block + 10 % Technique + 10 % Stamina | 80 % Defensa + 10 % Técnica + 10 % Aguante |
+| DEF de portero | 100 % Guard (IE no tiene stat de parada) | 80 % Catch + 20 % Block | 80 % Control (parada) + 20 % Defensa |
 
-### 2. Stat bruta (con las stats normalizadas)
+### 2. Normalizar cada juego
 
-| Stat | Fórmula |
-|---|---|
-| ATT | 80 % tiro + 20 % técnica |
-| CTL | 50 % regate + 25 % técnica + 25 % velocidad |
-| DEF (campo) | 80 % defensa + 10 % técnica + 10 % aguante |
-| DEF (portero) | 80 % parada + 20 % defensa |
+La saga GO usa casi el doble de escala que la original. Antes del paso 1, cada stat se convierte en "cuántas veces se aleja de la media de su juego" (puntuación z). Así un Kick alto en IE1 y un Tiro alto en GO3 valen lo mismo.
 
-### 3. Rango fijo de Madfut por posición
+### 3. Rango por posición (mínimo · jugador normal · máximo)
 
-Escala lineal, con los 6 juegos juntos. El 2 % más flojo de cada posición queda en el mínimo y el 0,5 % mejor en el techo.
+Escala lineal por tramos, con los 6 juegos juntos:
+- el 2 % más flojo de cada posición → mínimo;
+- el jugador mediano → valor normal;
+- el 0,5 % mejor → máximo.
 
 | Posición | ATT | CTL | DEF |
 |---|---|---|---|
-| PR | 25–45 | 25–45 | 60–89 |
-| DF | 40–70 | 45–75 | 60–89 |
-| MC | 55–86 | 60–89 | 40–80 |
-| DL | 60–89 | 55–88 | 30–62 |
+| PR | 25 · 33 · 45 | 25 · 33 · 45 | 69 · 78 · 89 |
+| DF | 40 · 54 · 70 | 45 · 60 · 75 | 58 · 71 · 86 |
+| MC | 58 · 72 · 86 | 62 · 76 · 89 | 45 · 62 · 80 |
+| DL | 62 · 76 · 89 | 55 · 70 · 86 | 28 · 42 · 58 |
+
+Balance de duelos con cartas al azar:
+
+| Duelo | Gana el primero |
+|---|---|
+| Delantero (ATT) vs. defensa (DEF) | 68 % |
+| Delantero (ATT) vs. portero (DEF) | 35 % (hay muchos delanteros y un solo portero por equipo) |
+| Medio (ATT) vs. defensa (DEF) | 50 % |
+| Portero (DEF) más alta que defensa (DEF) | 80 % |
 
 ## Resultado
 
-### El mismo personaje en distintos juegos
-
-| Personaje | IE1 | IE2 | IE3 | GO1 | GO2 | GO3 | **Media** |
-|---|---|---|---|---|---|---|---|
-| Mark Evans (PR) | 44/45/82 | 43/45/81 | 32/32/88 | 33/33/84 | 37/34/83 | 35/34/83 | **37/37/84** |
-| Axel Blaze (DL) | 84/84/54 | 83/82/53 | 85/81/49 | – | 82/75/45 | 81/75/45 | **83/79/49** |
-| Jude Sharp (MC) | 78/89/80 | 76/89/80 | 80/82/57 | 76/71/56 | 76/80/61 | 76/83/61 | **77/82/65** |
-| Kevin Dragonfly (DL) | 78/73/50 | 76/72/49 | 83/69/43 | 88/63/40 | 78/64/38 | – | **82/68/44** |
-| Bobby Shearer (DF) | 70/67/84 | 70/65/83 | 54/63/86 | 50/51/71 | 51/60/78 | 51/62/81 | **57/62/81** |
-| Victor Blade (DL) | – | – | – | 78/64/46 | 82/76/47 | 84/78/46 | **81/73/46** |
-| Riccardo Di Rigo (MC) | – | – | – | 79/75/73 | 77/82/64 | 76/82/65 | **77/80/67** |
-| Arion Sherwind (MC) | – | – | – | 66/82/61 | – | 72/81/59 | **69/82/60** |
-
-Las versiones especiales van aparte y salen más altas: Axel adulto (GO2) 89/85/39, Axel Mixi-Max con Shawn (GO3) 87/86/42, Mark adulto (GO2) 35/36/87.
-
-### Delanteros normales vs. estrellas (ATT de DL)
-
-| Juego | Mínimo | Flojo (p25) | Normal (mediana) | Bueno (p75) | Máximo |
-|---|---|---|---|---|---|
-| IE1 | 60 | 66 | 70 | 73 | 84 |
-| IE2 | 60 | 66 | 70 | 74 | 83 |
-| IE3 | 60 | 66 | 70 | 74 | 89 |
-| GO1 | 62 | 70 | 75 | 78 | 89 |
-| GO2 | 65 | 73 | 76 | 78 | 89 |
-| GO3 | 60 | 73 | 76 | 78 | 88 |
-
-Un delantero normal sale en 70–76; Axel en 81–85. Los seis juegos quedan equivalentes.
+Ejemplos de muchos personajes en todos los juegos: `ejemplos-cartas.md` (se genera con `scripts/ejemplos_cartas.py`).

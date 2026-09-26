@@ -30,10 +30,12 @@ Las cartas cuentan con tres estadísticas principales alineadas verticalmente en
 
 | Posición | ATT | CTL | DEF |
 |---|---|---|---|
-| PR | 25–45 | 25–45 | 60–89 |
-| DF | 40–70 | 45–75 | 60–89 |
-| MC | 55–86 | 60–89 | 40–80 |
-| DL | 60–89 | 55–88 | 30–62 |
+| PR | 25 · 33 · 45 | 25 · 33 · 45 | 69 · 78 · 89 |
+| DF | 40 · 54 · 70 | 45 · 60 · 75 | 58 · 71 · 86 |
+| MC | 58 · 72 · 86 | 62 · 76 · 89 | 45 · 62 · 80 |
+| DL | 62 · 76 · 89 | 55 · 70 · 86 | 28 · 42 · 58 |
+
+(mínimo · jugador normal · máximo). Balance buscado: el portero tiene más DEF que los defensas, un delantero gana a un defensa ~68 % de las veces y al portero ~35 %, y un medio atacando gana a un defensa ~50 %.
 
 Cada personaje tiene **una carta por juego y versión** (estilo Strikers): p. ej. Axel Blaze IE1, Axel Blaze GO2 y Axel Blaze Adulto son cartas distintas. Por encima de 89 solo están las cartas Especiales.
 
