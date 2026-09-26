@@ -1,0 +1,409 @@
+Name (JPN romaji),Name (FR),Element,Gender,TeamID,Position,TP,Kick,Body,Control,Guard,Speed,Catch,Kakusei
+Raimon Natsumi (Manager),Nelly Raimon (Manager),Wind,Female,87.0,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Otonashi Haruna (Manager),Celia Hills (Manager),Wind,Female,87.0,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kudou Fuyuka (Manager),Camellia Travis (Manager),Wind,Female,87.0,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kino Aki (Manager),Silvia Woods (Manager),Wind,Female,87.0,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ootani Tsukushi (Manager),Aurelia Dingle (Manager),Wind,Female,87.0,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Endou Daisuke (Trainer),David Evans (Coach),Wind,Male,87.0,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Hibiki Seigou (Trainer),Seymour Hillman (Coach),Wind,Male,87.0,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kudou Michiya (Trainer),Percival Travis (Coach),Wind,Male,87.0,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kira Hitomiko (Trainer),Lina Schiller (Coach),Wind,Female,87.0,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Endou Mamoru ,Tutorial Mark,Earth,Male,88.0,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fubuki Shirou (Shirou - Raimon 2),Shawn Froste (Shawn - Raimon 2),Wind,Male,4.0,DF,160.0,80.0,60.0,80.0,90.0,110.0,80.0,2.0
+Kabeyama Heigorou (Raimon 1),Jack Wallside (Raimon 1),Earth,Male,1.0,DF,160.0,80.0,60.0,80.0,100.0,60.0,90.0,2.0
+Rihm,Rihm,Wood,Female,5.0,FW,160.0,90.0,70.0,80.0,60.0,100.0,80.0,2.0
+Someoka Ryuugo (Raimon 1),Kevin Dragonfly (Raimon 1),Wood,Male,1.0,FW,160.0,90.0,70.0,80.0,60.0,80.0,80.0,2.0
+Kisaragi Mako ,Maddie Moonlight,Wood,Female,13.0,FW,150.0,80.0,70.0,80.0,60.0,80.0,70.0,2.0
+Kakuma Keita (Commentator),Steve Grim (Empereurs Noirs),Wind,Male,1.0,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kakuma Oushou (Commentator),Tim Saunders (Raimon 1),Wind,Male,1.0,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ichinose Kazuya (Raimon 1),Erik Eagle (Raimon 1),Wood,Male,1.0,MF,180.0,90.0,70.0,80.0,70.0,80.0,70.0,2.0
+Megane Kakeru (Raimon 1),Willy Glass (Raimon 1),Wood,Male,1.0,FW,150.0,90.0,70.0,90.0,70.0,70.0,70.0,2.0
+Megane Kakeru (Raimon 2),Willy Glass (Raimon 2),Wood,Male,4.0,FW,150.0,90.0,70.0,90.0,70.0,70.0,70.0,2.0
+Maygar Nathan ,Maygar Neysan,Earth,Male,16.0,MF,180.0,80.0,70.0,90.0,70.0,70.0,90.0,2.0
+Sangoku Taichi ,Samguk Han,Fire,Male,14.0,GK,170.0,70.0,70.0,80.0,70.0,80.0,100.0,2.0
+Raffaele Generani ,Raffaele Generani,Earth,Male,17.0,FW,180.0,100.0,70.0,70.0,80.0,80.0,70.0,2.0
+Handa Shinichi (Raimon 1),Steve Grim (Raimon 1),Wind,Male,1.0,MF,170.0,80.0,70.0,80.0,80.0,90.0,80.0,2.0
+Cain Saito ,Keeanan DiFortune,Wood,Male,16.0,GK,170.0,70.0,70.0,70.0,80.0,80.0,110.0,2.0
+McCall Kisara ,Jareel Mangrove,Fire,Male,16.0,DF,170.0,90.0,70.0,90.0,90.0,70.0,70.0,2.0
+Domon Asuka (Raimon 1),Bobby Shearer (Raimon 1),Wood,Male,1.0,DF,180.0,70.0,70.0,70.0,90.0,80.0,80.0,2.0
+Kamezaki Kappa ,Karl Kappa,Wind,Male,88.0,GK,170.0,90.0,70.0,70.0,90.0,90.0,100.0,2.0
+Domon Asuka (Raimon 2),Bobby Shearer (Raimon 2),Wood,Male,4.0,DF,180.0,80.0,70.0,80.0,90.0,80.0,80.0,2.0
+Hori Michiko ,Hellen Hearth,Wood,Female,13.0,DF,150.0,80.0,70.0,90.0,90.0,80.0,70.0,2.0
+Hebino Makito ,Albion Lumina,Earth,Male,15.0,GK,160.0,70.0,70.0,100.0,90.0,80.0,110.0,2.0
+Tamano Gorou ,Paul Peabody,Wind,Male,88.0,DF,180.0,70.0,70.0,80.0,90.0,80.0,100.0,2.0
+Gini Geino ,Jimi Gaines,Wood,Male,16.0,DF,170.0,70.0,70.0,90.0,100.0,80.0,70.0,2.0
+Kabeyama Heigorou (Inazuma Japan),Jack Wallside (Inazuma Japon),Earth,Male,8.0,DF,170.0,90.0,70.0,90.0,100.0,70.0,90.0,2.0
+Kabeyama Heigorou (Raimon 2),Jack Wallside (Raimon 2),Earth,Male,4.0,DF,160.0,80.0,70.0,90.0,100.0,60.0,90.0,2.0
+Genda Koujirou (Shin Teikoku),Joseph King (Nouv. Royal Academy),Fire,Male,88.0,GK,180.0,80.0,70.0,90.0,100.0,70.0,110.0,2.0
+Makiya Hiroshi ,Mark Hillvalley,Earth,Male,9.0,DF,180.0,90.0,70.0,70.0,110.0,60.0,90.0,2.0
+Marco Maseratti ,Marco Maseratti,Earth,Male,17.0,DF,180.0,70.0,70.0,80.0,110.0,80.0,90.0,2.0
+Rococo Urupa ,Hector Helio,Earth,Male,16.0,GK,190.0,90.0,70.0,70.0,110.0,80.0,110.0,2.0
+Gigi Blasi ,Gigi Blasi,Wind,Male,17.0,GK,160.0,70.0,70.0,90.0,110.0,60.0,110.0,2.0
+Kidou Yuuto (Raimon 1),Jude Sharp (Raimon 1),Wind,Male,1.0,MF,170.0,70.0,80.0,90.0,50.0,90.0,80.0,2.0
+Diam,Diam,Wood,Male,5.0,FW,170.0,100.0,80.0,90.0,60.0,70.0,60.0,2.0
+Gouzu ,Dva,Wood,Male,23.0,DF,150.0,80.0,80.0,100.0,60.0,90.0,90.0,2.0
+Sakuma Jirou (Teikoku),David Samford (Royal Academy),Wood,Male,2.0,FW,180.0,90.0,80.0,80.0,60.0,90.0,80.0,2.0
+Yuukoku Hiroyuki ,John Tassman,Wood,Male,9.0,FW,160.0,90.0,80.0,90.0,60.0,90.0,80.0,2.0
+Maquia,Mercury,Wind,Female,5.0,FW,160.0,90.0,80.0,90.0,70.0,90.0,70.0,2.0
+Metron,Metron,Wind,Male,5.0,FW,170.0,90.0,80.0,90.0,70.0,90.0,80.0,2.0
+Yamino Kageto (Dark Emperors),Shadow (Empereurs Noirs),Wood,Male,7.0,FW,170.0,90.0,80.0,90.0,70.0,80.0,80.0,2.0
+Kimoro ,Zarbi,Wood,Male,19.0,FW,160.0,100.0,80.0,80.0,70.0,90.0,80.0,2.0
+Kito Ryand ,Kito Ryand,Fire,Male,16.0,MF,180.0,90.0,80.0,90.0,70.0,70.0,90.0,2.0
+Shishido Sakichi (Raimon 1),Sam Kincaid (Raimon 1),Fire,Male,1.0,MF,180.0,70.0,80.0,80.0,70.0,80.0,100.0,2.0
+Desarm,Dvalin,Fire,Male,5.0,GK,170.0,80.0,80.0,80.0,70.0,80.0,100.0,2.0
+Kazemaru Ichirouta (Dark Emperors),Nathan Swift (Empereurs Noirs),Wind,Male,7.0,FW,180.0,90.0,80.0,90.0,80.0,100.0,60.0,2.0
+Kurama Norihito ,Michael Balzack,Earth,Male,14.0,FW,180.0,110.0,80.0,90.0,80.0,80.0,60.0,2.0
+Ryuu Skell ,Li Leug,Wind,Male,16.0,MF,180.0,90.0,80.0,70.0,80.0,90.0,70.0,2.0
+Gouenji Masato ,Syon Blaze,Fire,Male,88.0,FW,180.0,110.0,80.0,100.0,80.0,80.0,70.0,2.0
+Narukami Kenya (Teikoku),Alan Master (Royal Academy),Wind,Male,2.0,MF,170.0,70.0,80.0,80.0,80.0,90.0,80.0,2.0
+Jimon Daiki (Teikoku),Daniel Hatch (Royal Academy),Wood,Male,2.0,FW,160.0,90.0,80.0,80.0,80.0,80.0,80.0,2.0
+Arute Saneki ,Artie Mishman,Wind,Male,3.0,MF,150.0,80.0,80.0,100.0,80.0,60.0,80.0,2.0
+Demete Yutaka (Zeus),Jonas Demetrius (Zeus),Fire,Male,3.0,FW,180.0,90.0,80.0,80.0,80.0,80.0,80.0,2.0
+Ichinose Kazuya (Raimon 2),Erik Eagle (Raimon 2),Wood,Male,4.0,MF,180.0,90.0,80.0,100.0,80.0,80.0,80.0,2.0
+Reize,Janus,Wood,Male,5.0,MF,160.0,80.0,80.0,90.0,80.0,100.0,80.0,2.0
+Bomber,Bomber,Fire,Male,6.0,MF,190.0,90.0,80.0,80.0,80.0,80.0,80.0,2.0
+Guel ,Gaeiel,Wind,Female,11.0,FW,170.0,90.0,80.0,80.0,80.0,110.0,80.0,2.0
+Sein ,Sael,Wood,Male,11.0,FW,180.0,90.0,80.0,100.0,80.0,100.0,80.0,2.0
+Demete Yutaka (Neo Japan),Jonas Demetrius (Neo Japon),Fire,Male,9.0,FW,180.0,90.0,80.0,90.0,80.0,80.0,90.0,2.0
+Ichinose Kazuya (Mondial Selection),Erik Eagle (Mondial Selection),Wood,Male,10.0,MF,180.0,100.0,80.0,90.0,80.0,80.0,90.0,2.0
+Coyote ,Avinash Chowhury,Wind,Male,10.0,FW,190.0,100.0,80.0,80.0,80.0,80.0,90.0,2.0
+Gojou Masaru (Teikoku),Gus Martin (Royal Academy),Wood,Male,2.0,DF,170.0,80.0,80.0,90.0,80.0,80.0,80.0,2.0
+Ottorino Nobili ,Ottorino Nobili,Wood,Male,17.0,DF,180.0,70.0,80.0,70.0,80.0,70.0,110.0,2.0
+Kazemaru Ichirouta (Raimon 1),Nathan Swift (Raimon 1),Wind,Male,1.0,DF,170.0,80.0,80.0,80.0,80.0,110.0,60.0,2.0
+Otonashi Haruna ,Celia Hills,Wind,Female,13.0,MF,180.0,70.0,80.0,100.0,80.0,100.0,60.0,2.0
+Matsuno Kuusuke (Raimon 1),Maxwell Carson (Raimon 1),Wind,Male,1.0,FW,180.0,80.0,80.0,90.0,80.0,80.0,70.0,2.0
+Mukata Tsutomu ,Tyler Murdock,Earth,Male,9.0,FW,170.0,90.0,80.0,100.0,80.0,80.0,70.0,2.0
+Miyasaka Ryou ,Miles Ryan,Wind,Male,88.0,DF,180.0,80.0,80.0,80.0,80.0,110.0,70.0,2.0
+Kurimatsu Teppei (Raimon 1),Tod Ironside (Raimon 1),Fire,Male,1.0,DF,170.0,80.0,80.0,70.0,80.0,90.0,80.0,2.0
+Tsunami Jousuke (Raimon 2),Hurley Kane (Raimon 2),Wind,Male,4.0,DF,180.0,90.0,80.0,60.0,80.0,80.0,80.0,2.0
+Quill,Kiwill,Wood,Female,5.0,MF,170.0,80.0,80.0,90.0,80.0,90.0,80.0,2.0
+Pandora,Pandora,Wind,Female,5.0,MF,160.0,80.0,80.0,90.0,80.0,80.0,80.0,2.0
+Araya Konko ,Kerry Bootgaiter,Wind,Female,13.0,MF,150.0,70.0,80.0,80.0,80.0,80.0,90.0,2.0
+Hyoudou Tsukasa ,Alessandro il Grande,Earth,Male,21.0,GK,180.0,80.0,80.0,90.0,80.0,80.0,100.0,3.0
+Midou Reika ,Lily Willow,Wood,Female,13.0,FW,150.0,90.0,80.0,90.0,80.0,70.0,80.0,2.0
+Daniele Sanctis ,Daniele Sanctis,Fire,Male,17.0,GK,190.0,70.0,80.0,70.0,80.0,80.0,100.0,2.0
+Sorano Aoi ,Skie Blue,Wood,Female,89.0,GK,180.0,80.0,80.0,90.0,80.0,80.0,110.0,2.0
+Kageno Jin (Raimon 1),Jim Wraith (Raimon 1),Wood,Male,1.0,DF,160.0,80.0,80.0,90.0,90.0,70.0,70.0,2.0
+Barra,Baller,Wood,Female,6.0,DF,170.0,70.0,80.0,80.0,90.0,90.0,70.0,2.0
+Hepai En ,Jeff Iron,Fire,Male,3.0,DF,150.0,80.0,80.0,90.0,90.0,80.0,80.0,2.0
+Kogure Yuuya (Raimon 2),Scott Banyan (Raimon 2),Wood,Male,4.0,DF,170.0,70.0,80.0,80.0,90.0,90.0,80.0,2.0
+Kiyama Hiroto ,Xavier Foster,Fire,Male,8.0,FW,180.0,110.0,80.0,90.0,90.0,90.0,80.0,2.0
+Gouin Takeshi ,Argie Bargie,Wood,Male,9.0,DF,200.0,80.0,80.0,70.0,90.0,80.0,80.0,2.0
+Oono Densuke ,Peter Drent,Earth,Male,2.0,DF,180.0,80.0,80.0,80.0,90.0,60.0,90.0,2.0
+Banjou Kazumichi ,Ben Simmons,Wood,Male,2.0,DF,170.0,80.0,80.0,80.0,90.0,80.0,90.0,2.0
+Kageno Jin (Dark Emperors),Jim Wraith (Empereurs Noirs),Wood,Male,7.0,DF,170.0,80.0,80.0,100.0,90.0,70.0,90.0,2.0
+Segata Ryuuichirou ,Zeke Valanche,Wind,Male,9.0,FW,180.0,80.0,80.0,60.0,90.0,80.0,90.0,2.0
+Bjorn Kyle ,Bilal Kalil,Wood,Male,10.0,DF,170.0,80.0,80.0,90.0,90.0,90.0,90.0,2.0
+Lagarto Carlos ,Carlos Lagarto,Wood,Male,10.0,DF,170.0,70.0,80.0,80.0,90.0,80.0,90.0,2.0
+Endou Canon/Kanon,Canon Evans,Wind,Male,88.0,FW,180.0,100.0,80.0,80.0,90.0,80.0,90.0,2.0
+Shinsuke x Bei ,J.P. x Bei,Earth,Male,102.0,GK,160.0,60.0,80.0,90.0,90.0,90.0,100.0,2.0
+Kirino x Jeanne ,Gabi x Jeanne,Wood,Male,102.0,DF,180.0,70.0,80.0,100.0,90.0,90.0,70.0,2.0
+Burn,Torch,Fire,Male,6.0,FW,170.0,100.0,80.0,80.0,90.0,80.0,90.0,2.0
+Nishigaki Mamoru (Dark Emperors),Malcolm Night (Empereurs Noirs),Fire,Male,7.0,DF,160.0,80.0,80.0,80.0,90.0,90.0,90.0,2.0
+Nishizono Shinsuke ,Jean-Pierre Lapin,Earth,Male,14.0,GK,160.0,60.0,80.0,90.0,90.0,90.0,100.0,3.0
+Kirino Ranmaru ,Gabriel Garcia,Wood,Male,14.0,DF,180.0,70.0,80.0,100.0,90.0,90.0,70.0,3.0
+Matoro Juka ,Joaquine Downtown,Fire,Female,13.0,DF,160.0,80.0,80.0,90.0,90.0,80.0,80.0,2.0
+Kushida Katsuyo ,Esther Greenland,Fire,Female,13.0,DF,170.0,80.0,80.0,80.0,90.0,80.0,80.0,2.0
+Torahama Kouko ,Alexia Sand,Wood,Female,13.0,DF,160.0,80.0,80.0,80.0,90.0,80.0,80.0,2.0
+Genda Koujirou (Teikoku),Joseph King (Royal Academy),Fire,Male,2.0,GK,180.0,80.0,80.0,80.0,90.0,70.0,90.0,2.0
+Endou Mamoru (Raimon 2),Mark Evans (Raimon 2),Earth,Male,4.0,GK,180.0,80.0,80.0,90.0,90.0,60.0,90.0,3.0
+Senguuji Yamato ,Quentin Cinquedea,Fire,Male,22.0,GK,180.0,80.0,80.0,90.0,90.0,90.0,110.0,3.0
+Shuten ,Eka,Wind,Male,23.0,GK,170.0,80.0,80.0,90.0,90.0,90.0,110.0,2.0
+Tachimukai Yuuki (Raimon 2),Darren LaChance (Raimon 2),Wood,Male,4.0,GK,170.0,80.0,80.0,90.0,90.0,70.0,90.0,2.0
+Grent,Grent,Fire,Male,6.0,GK,160.0,80.0,80.0,80.0,90.0,60.0,100.0,2.0
+Fox ,Cyril Fox,Earth,Male,10.0,GK,180.0,70.0,80.0,80.0,90.0,90.0,100.0,2.0
+Endou Mamoru (Raimon 1),Mark Evans (Raimon 1),Earth,Male,1.0,GK,180.0,70.0,80.0,70.0,90.0,60.0,110.0,3.0
+Nero,Nero,Wind,Male,5.0,GK,180.0,60.0,80.0,90.0,90.0,80.0,110.0,2.0
+Matchos ,Balèze,Wood,Male,19.0,GK,160.0,90.0,80.0,90.0,90.0,80.0,110.0,2.0
+Shinoyama Mitsuru (NEW),Aum Nirvana (NOUVEAU),Wind,Male,22.0,GK,180.0,70.0,80.0,80.0,90.0,80.0,110.0,2.0
+Miyabino Reiichi ,Preston Princeton,Wood,Male,89.0,GK,190.0,80.0,80.0,90.0,90.0,90.0,110.0,2.0
+Kino Aki ,Silvia,Earth,Female,13.0,GK,150.0,60.0,80.0,90.0,90.0,70.0,110.0,2.0
+Fubuki Shirou (Inazuma Japan),Shawn Froste (Inazuma Japon),Wind,Male,8.0,FW,180.0,100.0,80.0,90.0,100.0,110.0,60.0,2.0
+Amagi Daichi ,Wanli Changcheng,Earth,Male,14.0,DF,160.0,70.0,80.0,90.0,100.0,70.0,70.0,2.0
+Narukami Kenya (Neo Japan),Alan Master (Neo Japon),Wind,Male,9.0,MF,170.0,80.0,80.0,80.0,100.0,90.0,80.0,2.0
+Nenel ,Nenel,Fire,Male,11.0,DF,180.0,80.0,80.0,80.0,100.0,90.0,90.0,2.0
+Giuseppe Cannavaro ,Giuseppe Cannavaro,Wind,Male,17.0,DF,180.0,70.0,80.0,90.0,100.0,70.0,90.0,2.0
+Wally ,Futé,Wood,Male,19.0,DF,140.0,90.0,80.0,90.0,100.0,70.0,90.0,2.0
+Deboon ,Trapu,Wood,Male,19.0,DF,130.0,90.0,80.0,90.0,100.0,80.0,90.0,2.0
+Gaura ,Golf,Wind,Male,20.0,DF,150.0,90.0,80.0,80.0,100.0,80.0,90.0,2.0
+Genda Koujirou (Neo Japan),Joseph King (Neo Japon),Fire,Male,9.0,GK,180.0,80.0,80.0,90.0,100.0,70.0,100.0,2.0
+Domon Asuka (Mondial Selection),Bobby Shearer (Mondial Selection),Wood,Male,10.0,DF,180.0,80.0,80.0,90.0,100.0,80.0,90.0,2.0
+Bubo Torangas ,Bump Trungus,Wind,Male,12.0,DF,180.0,80.0,80.0,80.0,100.0,80.0,90.0,2.0
+Vento Gagliano ,Vento Galliano,Wind,Male,17.0,DF,170.0,70.0,80.0,70.0,100.0,100.0,90.0,2.0
+Tobitaka Seiya ,Archer Hawkins,Wind,Male,8.0,DF,180.0,100.0,80.0,80.0,100.0,80.0,70.0,2.0
+Jimon Daiki (Neo Japan),Daniel Hatch (Neo Japon),Wood,Male,9.0,FW,160.0,90.0,80.0,80.0,100.0,80.0,90.0,2.0
+Shinti Hanpa ,Quint Hampton,Wind,Male,16.0,MF,160.0,80.0,80.0,80.0,100.0,80.0,90.0,2.0
+Astaroth ,Astaroth,Fire,Male,11.0,GK,190.0,90.0,80.0,70.0,100.0,80.0,100.0,2.0
+Sugimori Takeshi (Mikage Sennou),Feldt (Cybertech),Wood,Male,88.0,GK,190.0,70.0,80.0,70.0,100.0,70.0,100.0,2.0
+Tachimukai Yuuki (Inazuma Japan),Darren LaChance (Inazuma Japon),Wood,Male,8.0,GK,180.0,80.0,80.0,90.0,100.0,70.0,110.0,2.0
+Endou Mamoru (ILJ),Mark Evans (ILJ),Earth,Male,18.0,GK,190.0,80.0,80.0,110.0,100.0,90.0,110.0,2.0
+Lotus ,Lotus,Earth,Male,24.0,GK,170.0,70.0,80.0,100.0,100.0,90.0,110.0,2.0
+IC,Icer,Wind,Female,5.0,MF,170.0,80.0,80.0,80.0,110.0,90.0,70.0,2.0
+Kiya Kouji ,Blake Obscura,Wood,Male,15.0,DF,200.0,80.0,80.0,110.0,110.0,90.0,70.0,2.0
+Gojou Masaru (ZERO),Gus Martin (ZERO),Wood,Male,89.0,DF,190.0,80.0,80.0,90.0,110.0,80.0,80.0,2.0
+Oogu ,Catvari,Earth,Male,23.0,DF,150.0,90.0,80.0,80.0,110.0,80.0,90.0,2.0
+Yasha ,Tyrah,Fire,Female,23.0,DF,170.0,80.0,80.0,90.0,110.0,100.0,90.0,2.0
+Chuuri ,Tulipe,Earth,Female,24.0,DF,180.0,80.0,80.0,90.0,110.0,100.0,90.0,2.0
+Teres Tolue ,Thiago Torres,Fire,Male,10.0,DF,180.0,70.0,80.0,90.0,110.0,70.0,100.0,2.0
+Zagomel Zande ,Lars Luceafar,Earth,Male,12.0,GK,200.0,80.0,80.0,70.0,110.0,80.0,110.0,2.0
+Anton Gattuso ,Anton Grazioso,Fire,Male,17.0,DF,170.0,70.0,80.0,80.0,110.0,80.0,80.0,2.0
+Ejima Kazuya ,Dwight Whittaker,Earth,Male,15.0,DF,160.0,80.0,80.0,90.0,110.0,70.0,90.0,2.0
+Kabeyama Heigorou (ILJ),Jack Wallside (ILJ),Earth,Male,18.0,DF,160.0,80.0,80.0,90.0,110.0,70.0,90.0,2.0
+Maagaru ,Aloes,Fire,Male,24.0,DF,170.0,80.0,80.0,100.0,110.0,100.0,90.0,2.0
+Mokuren ,Magnolia,Wood,Male,24.0,DF,160.0,80.0,80.0,90.0,110.0,100.0,90.0,2.0
+Kudou Fuyuka ,Camellia Travis,Wood,Female,13.0,DF,160.0,60.0,80.0,80.0,110.0,80.0,90.0,2.0
+Kidou Yuuto (Raimon 2),Jude Sharp (Raimon 2),Wind,Male,4.0,MF,180.0,80.0,90.0,90.0,60.0,90.0,80.0,2.0
+Raimon Natsumi ,Nelly Raimon,Fire,Female,13.0,FW,170.0,110.0,90.0,90.0,60.0,80.0,80.0,2.0
+Sakuma Jirou (Shin Teikoku),David Samford (Nouv. Royal Academy),Wood,Male,88.0,FW,180.0,100.0,90.0,90.0,60.0,90.0,80.0,2.0
+Afuro Terumi (Zeus),Byron Love (Zeus),Wood,Male,3.0,MF,160.0,100.0,90.0,90.0,70.0,80.0,60.0,2.0
+Fubuki Shirou (Atsuya - Raimon 2),Shawn Froste (Aiden - Raimon 2),Wind,Male,4.0,FW,170.0,90.0,90.0,70.0,70.0,110.0,60.0,2.0
+Gouenji Shuuya (Raimon 2),Axel Blaze (Raimon 2),Fire,Male,4.0,FW,180.0,100.0,90.0,90.0,70.0,80.0,70.0,2.0
+Dylan Keith ,Dylan Keats,Fire,Male,10.0,FW,180.0,110.0,90.0,80.0,70.0,90.0,80.0,2.0
+Drago Hill ,Drago Hill,Wood,Male,16.0,FW,170.0,100.0,90.0,90.0,70.0,70.0,80.0,2.0
+Satanathos ,Thanatos,Wood,Male,11.0,FW,180.0,90.0,90.0,90.0,70.0,80.0,90.0,2.0
+Fei x Tyrano ,Fey x Tyrano,Wood,Male,19.0,FW,170.0,100.0,90.0,90.0,70.0,100.0,90.0,2.0
+Fei x Big ,Fei x Big,Wood,Male,102.0,FW,170.0,100.0,90.0,90.0,70.0,100.0,90.0,2.0
+Edgar Valtinas ,Edgar Partinus,Wood,Male,10.0,FW,180.0,110.0,90.0,80.0,70.0,80.0,80.0,2.0
+Fei Rune ,Fei Rune,Wood,Male,19.0,FW,170.0,100.0,90.0,90.0,70.0,100.0,90.0,3.0
+Gouenji Shuuya (Raimon 1),Axel Blaze (Raimon 1),Fire,Male,1.0,FW,170.0,90.0,90.0,80.0,70.0,70.0,50.0,3.0
+Hayami Tsurumasa ,Eugène Peabody,Wind,Male,14.0,MF,170.0,70.0,90.0,80.0,70.0,100.0,60.0,2.0
+Kidou Yuuto (Teikoku),Jude Sharp (Royal Academy),Wind,Male,2.0,MF,170.0,70.0,90.0,90.0,70.0,90.0,70.0,2.0
+Sakiyama Shuuji ,John Bloom,Fire,Male,2.0,MF,170.0,70.0,90.0,90.0,70.0,90.0,80.0,2.0
+Kirigakure Saiji ,Sail Bluesea,Fire,Male,9.0,FW,170.0,70.0,90.0,100.0,70.0,90.0,80.0,2.0
+Tateno Mai ,Marge Fielding,Wind,Female,13.0,MF,180.0,80.0,90.0,80.0,70.0,90.0,80.0,2.0
+Yumu Rinji ,Yasir Haddad,Wood,Male,16.0,MF,170.0,80.0,90.0,90.0,70.0,70.0,80.0,2.0
+Crypto,Krypto,Wind,Female,5.0,MF,160.0,80.0,90.0,80.0,80.0,80.0,60.0,2.0
+Kazemaru Ichirouta (Inazuma Japan),Nathan Swift (Inazuma Japon),Wind,Male,8.0,DF,180.0,90.0,90.0,90.0,80.0,110.0,60.0,2.0
+Demonio Strada ,Julio Acuto,Fire,Male,10.0,MF,170.0,90.0,90.0,100.0,80.0,90.0,60.0,2.0
+Namikawa Rensuke ,Davy Jones,Wind,Male,22.0,FW,170.0,100.0,90.0,100.0,80.0,90.0,60.0,3.0
+Keeve,Kiburn,Fire,Female,5.0,DF,170.0,80.0,90.0,100.0,80.0,80.0,70.0,2.0
+Gran,Xene,Fire,Male,5.0,FW,180.0,100.0,90.0,80.0,80.0,100.0,70.0,2.0
+Handa Shinichi (Dark Emperors),Steve Grim (Empereurs Noirs),Wind,Male,7.0,MF,170.0,90.0,90.0,90.0,80.0,90.0,70.0,2.0
+Shimozuru Arata ,Neil Turner,Fire,Male,9.0,FW,170.0,100.0,90.0,90.0,80.0,80.0,70.0,2.0
+Eska Bamel ,Escavan Malice,Earth,Male,12.0,FW,180.0,100.0,90.0,90.0,80.0,90.0,70.0,2.0
+Kurumada Gouichi ,Subaru Honda,Fire,Male,14.0,DF,180.0,80.0,90.0,80.0,80.0,80.0,70.0,2.0
+Goushu Flare ,Gareth Flare,Fire,Male,16.0,FW,180.0,100.0,90.0,70.0,80.0,80.0,70.0,2.0
+Taki Sousuke ,Langford Ash,Earth,Male,21.0,FW,170.0,110.0,90.0,90.0,80.0,100.0,70.0,3.0
+Yukimura Hyouga ,Njord Snio,Wind,Male,21.0,FW,180.0,110.0,90.0,90.0,80.0,110.0,70.0,3.0
+Atena Tomo ,Wesley Knox,Wood,Male,3.0,MF,160.0,70.0,90.0,80.0,80.0,90.0,80.0,2.0
+IQ,Arkew,Wind,Male,5.0,DF,160.0,70.0,90.0,90.0,80.0,80.0,80.0,2.0
+Kurimatsu Teppei (Inazuma Japan),Tod Ironside (Inazuma Japon),Fire,Male,8.0,DF,170.0,80.0,90.0,90.0,80.0,80.0,80.0,2.0
+Rasetsu ,Dasan,Fire,Male,23.0,FW,170.0,110.0,90.0,90.0,80.0,90.0,80.0,2.0
+Shura ,Navan,Wind,Male,23.0,FW,160.0,100.0,90.0,100.0,80.0,90.0,80.0,2.0
+Kurimatsu Teppei (Dark Emperors),Tod Ironside (Empereurs Noirs),Fire,Male,7.0,MF,170.0,80.0,90.0,90.0,80.0,80.0,90.0,2.0
+Shishido Sakichi (Dark Emperors),Sam Kincaid (Empereurs Noirs),Fire,Male,7.0,MF,180.0,90.0,90.0,80.0,80.0,80.0,90.0,2.0
+Matsukaze Tenma (Tutorial),Arion Sherwind  (Tutorial),Wind,Male,14.0,MF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Saginuma Osamu (Neo Japan),Dave Quagmire (Neo Japon),Fire,Male,9.0,MF,170.0,100.0,90.0,90.0,80.0,80.0,90.0,2.0
+Skid Wu ,Jazzy Hedgeers,Fire,Male,16.0,FW,190.0,90.0,90.0,70.0,80.0,70.0,100.0,2.0
+Tsurugi Kyousuke ,Victor Blade,Fire,Male,14.0,FW,180.0,110.0,90.0,90.0,80.0,100.0,70.0,3.0
+Gazel,Gazelle,Wind,Male,6.0,FW,160.0,80.0,90.0,90.0,80.0,100.0,80.0,2.0
+Afuro Terumi (Mondial Selection),Byron Love (Sélection Mondiale),Wood,Male,10.0,MF,180.0,90.0,90.0,100.0,80.0,80.0,80.0,2.0
+Yamino Kageto (Raimon),Shadow (Raimon),Wood,Male,88.0,FW,160.0,90.0,90.0,90.0,80.0,80.0,60.0,2.0
+Doumen Shuuichirou ,Derek Swing,Wind,Male,2.0,MF,170.0,80.0,90.0,100.0,80.0,90.0,70.0,2.0
+Utsunomiya Toramaru ,Austin Hobbes,Wood,Male,8.0,FW,170.0,110.0,90.0,90.0,80.0,90.0,70.0,2.0
+Takanashi Shinobu ,Sue Sparrow,Wind,Female,13.0,MF,160.0,80.0,90.0,100.0,80.0,80.0,70.0,2.0
+Isozaki Kenma ,Infinity Beyond,Fire,Male,22.0,FW,170.0,110.0,90.0,90.0,80.0,90.0,70.0,2.0
+Tsurugi x Okita ,Victor x Okita,Fire,Male,102.0,FW,180.0,110.0,90.0,90.0,80.0,100.0,70.0,2.0
+Urabe Rika ,Suzette Hartland,Wood,Female,4.0,FW,160.0,80.0,90.0,90.0,80.0,80.0,80.0,2.0
+Hamano Kaiji ,Adé Kébé,Wind,Male,14.0,MF,170.0,80.0,90.0,90.0,80.0,90.0,80.0,2.0
+Ichino Nanasuke ,Hugues Baudet,Wind,Male,14.0,MF,160.0,90.0,90.0,90.0,80.0,90.0,80.0,2.0
+Yorozu Hiromi ,Bela Bluebells,Wind,Female,13.0,MF,180.0,90.0,90.0,90.0,80.0,80.0,60.0,2.0
+Seto Midori ,Jade Greene,Fire,Female,89.0,FW,180.0,110.0,90.0,90.0,80.0,90.0,70.0,2.0
+Fudou Akio (Inazuma Japan),Caleb Stonewall (Inazuma Japon),Fire,Male,8.0,MF,180.0,80.0,90.0,100.0,90.0,90.0,70.0,2.0
+Shindou Takuto ,Riccardo Di Rigo,Wood,Male,14.0,MF,190.0,90.0,90.0,100.0,90.0,90.0,70.0,3.0
+Marron Ian ,Ian Ferrum,Fire,Male,16.0,DF,180.0,70.0,90.0,70.0,90.0,90.0,70.0,2.0
+Kurosaki Makoto ,Cronus Fourseasons,Fire,Male,21.0,MF,180.0,100.0,90.0,100.0,90.0,100.0,70.0,3.0
+Hayabusa Hideki ,Zaphod Riker,Wind,Male,22.0,MF,170.0,90.0,90.0,90.0,90.0,100.0,70.0,3.0
+Matsuno Kuusuke (Dark Emperors),Maxwell Carson (Empereurs Noirs),Wind,Male,7.0,MF,180.0,70.0,90.0,100.0,90.0,80.0,80.0,2.0
+Gebo Torangas ,Lump Trungus,Fire,Male,12.0,DF,180.0,80.0,90.0,90.0,90.0,80.0,80.0,2.0
+Nishigaki Mamoru (Kirkwood),Malcolm Night (Kirkwood),Fire,Male,88.0,DF,160.0,80.0,90.0,80.0,90.0,90.0,80.0,2.0
+Ishido Shuuji ,Alex Zabel ,Fire,Male,89.0,FW,170.0,110.0,90.0,90.0,90.0,100.0,80.0,2.0
+Aporo Hikaru ,Apollo Light,Wood,Male,3.0,DF,160.0,90.0,90.0,80.0,90.0,70.0,90.0,2.0
+Gocker,Gocker,Earth,Male,6.0,DF,180.0,80.0,90.0,80.0,90.0,60.0,90.0,2.0
+Kurakake Clara ,Clear,Wind,Female,6.0,DF,170.0,70.0,90.0,90.0,90.0,80.0,90.0,2.0
+Reiza ,Juliet,Wind,Female,20.0,FW,180.0,100.0,90.0,90.0,90.0,90.0,90.0,2.0
+Aresu Ran ,Lane War,Earth,Male,3.0,DF,160.0,80.0,90.0,80.0,90.0,70.0,100.0,2.0
+Shindou x Nobunaga ,Riccardo x Nobunaga,Wood,Male,102.0,MF,190.0,90.0,90.0,100.0,90.0,90.0,70.0,2.0
+Someoka Ryuugo (Inazuma Japan),Kevin Dragonfly (Inazuma Japon),Wood,Male,8.0,FW,170.0,100.0,90.0,90.0,90.0,80.0,80.0,2.0
+Inaba Taian ,Inaba,Wind,Male,89.0,FW,150.0,100.0,90.0,100.0,90.0,90.0,80.0,3.0
+Hera Tadashi (Zeus),Henry House (Zeus),Fire,Male,3.0,MF,160.0,70.0,90.0,80.0,90.0,90.0,70.0,2.0
+Sakuma Jirou (Inazuma Japan),Jordan Greenway (Inazuma Japon),Wood,Male,8.0,MF,180.0,80.0,90.0,100.0,90.0,100.0,70.0,2.0
+Kita Ichiban ,Jimmy Kyrk,Wood,Male,22.0,FW,170.0,100.0,90.0,90.0,90.0,100.0,70.0,2.0
+Einamu ,Mike,Wood,Male,20.0,FW,160.0,100.0,90.0,90.0,90.0,90.0,80.0,2.0
+Sugimori Takeshi (Dark Emperors),Feldt (Empereurs Noirs),Wood,Male,7.0,GK,190.0,90.0,90.0,80.0,90.0,70.0,90.0,2.0
+Desuta ,Destra,Earth,Male,11.0,FW,190.0,110.0,90.0,80.0,90.0,80.0,90.0,2.0
+Engiru ,Panca,Wind,Male,23.0,MF,160.0,80.0,90.0,90.0,90.0,90.0,90.0,2.0
+Zanark Avalonic (Unused),Zanark Avalonic (Inutilisé),Wind,Male,23.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Sorano Aoi (Manager),Skie Blue (Manager),Wind,Female,87.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Yamana Akane (Manager),Rosie Redd (Manager),Wind,Female,87.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Seto Midori (Manager),Jade Greene (Manager),Wind,Female,87.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Endou Mamoru (Trainer),Mark Evans (Coach),Wind,Male,87.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Kidou Yuuto (Trainer),Jude Sharp (Coach),Wind,Male,87.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+San (Unused),Sterne (Inutilisé),Wind,Male,87.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Afuro Terumi (Coach),Byron Love  (Coach),Wind,Male,87.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Ishido Shuuji (Coach),Alex Zabel (Coach),Wind,Male,87.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Hikita Goushirou (Unused),Flint Charcoal (Inutilisé),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Ookazeya Giichi (Unused),Glaucous Gull (Inutilisé),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Rinno Tenki (Unused),Ashley Silverwood (Inutilisé),Wind,Female,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Mutou Satoshi (Unused),Cinereous Slate (Inutilisé),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Matsukaze Tenma  (Armed),Arion Sherwind  (Armure),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Tsurugi Kyousuke  (Armed),Victor Blade  (Armure),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Shindou Takuto  (Armed),Riccardo DiRigo  (Armure),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Nishizono Shinsuke  (Armed),Jean-Pierre Lapin  (Armure),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Nishiki Ryouma  (Armed),Ryoma Nishiki  (Armure),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Kirino Ranmaru  (Armed),Gabriel Garcia  (Armure),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Amemiya Taiyou x Koumei  (Armed),Sol Daystar x Zhuge Liang  (Armure),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Nanobana Kinako  (Armed),Goldie Lemmon  (Armure),Wind,Female,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Tsurugi Yuuichi  (Armed),Vladimir Blade  (Armure),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Hakuryuu  (Armed),Bailong  (Armure),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Alpha  (Armed),Alpha  (Armure),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Beta  (Armed),Beta  (Armure),Wind,Female,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Gamma  (Armed),Gamma  (Armure),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Zanark Avalonic  (Armed),Zanark  (Armure),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Fran  (Armed),Flora  (Armure),Wind,Female,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Fei Rune  (Armed),Fei Rune  (Armure),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Amemiya Taiyou  (Armed),Sol Daystar  (Armure),Wind,Male,88.0,GK,180.0,90.0,90.0,90.0,90.0,90.0,90.0,
+Zaizen Touko ,Victoria Vanguard,Wind,Female,4.0,MF,160.0,80.0,90.0,100.0,90.0,90.0,80.0,2.0
+Zanou ,Hotel,Earth,Male,20.0,GK,170.0,90.0,90.0,90.0,90.0,80.0,100.0,2.0
+Dosu Koi ,Daisy Fields,Fire,Female,13.0,GK,150.0,60.0,90.0,80.0,90.0,70.0,110.0,2.0
+Kariya Masaki ,Aitor Cazador,Wood,Male,14.0,DF,180.0,70.0,90.0,90.0,100.0,90.0,70.0,2.0
+Saki Yukio ,Candido Glow,Wood,Male,15.0,DF,170.0,80.0,90.0,90.0,100.0,100.0,70.0,2.0
+Ganymede,Ganymede,Earth,Male,5.0,DF,160.0,80.0,90.0,60.0,100.0,80.0,80.0,2.0
+Hera Tadashi (Neo Japan),Henry House (Neo Japon),Fire,Male,9.0,MF,180.0,80.0,90.0,90.0,100.0,80.0,80.0,2.0
+Izuno Yuu ,Wilbur Watkins,Wood,Male,9.0,FW,170.0,90.0,90.0,80.0,100.0,70.0,80.0,2.0
+Elfel ,Lephiel,Earth,Male,11.0,DF,180.0,70.0,90.0,80.0,100.0,100.0,80.0,2.0
+Hebimoth ,Behemoth,Wood,Male,11.0,DF,180.0,90.0,90.0,70.0,100.0,80.0,80.0,2.0
+Fubuki Shirou (ILJ),Shawn Froste (ILJ),Wind,Male,18.0,FW,160.0,110.0,90.0,110.0,100.0,100.0,80.0,2.0
+Kogure Yuuya (Inazuma Japan),Scott Banyan (Inazuma Japon),Wood,Male,8.0,DF,170.0,80.0,90.0,90.0,100.0,100.0,90.0,2.0
+Straw ,Chétif,Wood,Male,19.0,DF,150.0,80.0,90.0,100.0,100.0,90.0,90.0,2.0
+Smile ,Béate,Wood,Female,19.0,DF,190.0,80.0,90.0,90.0,100.0,100.0,90.0,2.0
+Ward ,Kilo,Wood,Male,20.0,DF,150.0,90.0,90.0,90.0,100.0,90.0,90.0,2.0
+Tasuke ,Tasuke,Wood,Male,89.0,DF,140.0,90.0,90.0,90.0,100.0,90.0,90.0,2.0
+Endou Mamoru (Inazuma Japan),Mark Evans (Inazuma Japon),Earth,Male,8.0,GK,190.0,80.0,90.0,90.0,100.0,60.0,100.0,3.0
+Nagumo Haruya ,Claude Beacons,Fire,Male,88.0,FW,190.0,100.0,90.0,80.0,100.0,80.0,100.0,2.0
+Yuuki Jou ,Tynan Crowe,Wood,Male,15.0,MF,170.0,100.0,90.0,80.0,100.0,80.0,70.0,3.0
+Ikka Stacks ,Ichabod Stark,Earth,Male,12.0,MF,180.0,80.0,90.0,90.0,100.0,80.0,80.0,2.0
+Dante Diavolo ,Dante Diavolo,Fire,Male,17.0,MF,170.0,80.0,90.0,80.0,100.0,80.0,80.0,2.0
+Deio Geki ,Danny Wood,Wind,Male,3.0,DF,160.0,90.0,90.0,70.0,100.0,70.0,90.0,2.0
+Daikko Buuka ,Radd Ischer,Wood,Male,12.0,DF,170.0,80.0,90.0,90.0,100.0,70.0,90.0,2.0
+Shourinji Ayumu (Raimon 1),Tim Saunders (Raimon 1),Wood,Male,1.0,MF,180.0,70.0,90.0,90.0,100.0,80.0,70.0,2.0
+Aoyama Shunsuke ,Shunsuke Aoyama,Wood,Male,14.0,MF,180.0,80.0,90.0,90.0,100.0,80.0,70.0,2.0
+Tsunami Jousuke (Inazuma Japan),Hurley Kane (Inazuma Japon),Wind,Male,8.0,DF,180.0,80.0,90.0,80.0,100.0,70.0,90.0,2.0
+Posei Donichi ,Paul Siddon,Earth,Male,3.0,GK,160.0,80.0,90.0,70.0,100.0,50.0,100.0,2.0
+Atsuishi Shigeto ,Ethan Whitering,Wood,Male,9.0,MF,180.0,80.0,90.0,80.0,100.0,80.0,100.0,2.0
+Kyan Rinka ,Dora Delight,Fire,Female,13.0,MF,150.0,80.0,90.0,70.0,100.0,70.0,80.0,2.0
+Onizuka Heita ,Beamer Daye,Fire,Male,15.0,DF,180.0,100.0,90.0,90.0,110.0,100.0,60.0,2.0
+Ryuuzaki Ouji ,Dracon Yale,Wind,Male,22.0,DF,150.0,80.0,90.0,100.0,110.0,80.0,80.0,3.0
+Kogure Yuuya (Adult),Scott Banyan (Adult),Wood,Male,89.0,DF,190.0,70.0,90.0,80.0,110.0,90.0,80.0,2.0
+Kazemaru Ichirouta (ILJ),Nathan Swift (ILJ),Wind,Male,18.0,DF,170.0,90.0,90.0,100.0,110.0,110.0,90.0,2.0
+Medam ,Oscar,Earth,Male,20.0,DF,170.0,90.0,90.0,100.0,110.0,90.0,90.0,2.0
+Gomaki Tetsurou ,Aimé Quintet,Wind,Male,22.0,DF,150.0,90.0,90.0,70.0,110.0,90.0,90.0,3.0
+Torb ,Sor,Wind,Male,89.0,DF,170.0,90.0,90.0,90.0,110.0,100.0,90.0,3.0
+Tsunami Jousuke (ILJ),Hurley Kane (ILJ),Wind,Male,18.0,DF,150.0,100.0,90.0,90.0,110.0,90.0,80.0,2.0
+Walter Mountain ,Walter Mountain,Earth,Male,16.0,DF,190.0,60.0,90.0,90.0,110.0,60.0,90.0,2.0
+Torb x Tochan ,Sor x Papa,Wind,Male,102.0,DF,170.0,90.0,90.0,90.0,110.0,100.0,90.0,2.0
+Kinako x Dragon ,Goldie x Dragon,Fire,Female,102.0,DF,180.0,100.0,90.0,90.0,110.0,90.0,90.0,2.0
+Nanobana Kinako ,Goldie Lemmon,Fire,Female,89.0,DF,180.0,100.0,90.0,90.0,110.0,90.0,90.0,3.0
+Someoka Ryuugo (Dark Emperors),Kevin Dragonfly (Empereurs Noirs),Wood,Male,7.0,FW,180.0,100.0,100.0,80.0,60.0,80.0,80.0,2.0
+Mac Roniejo ,Mac Robingo,Fire,Male,10.0,FW,180.0,110.0,100.0,90.0,60.0,90.0,80.0,2.0
+Kidou Yuuto (Inazuma Japan),Jude Sharp (Inazuma Japon),Wind,Male,8.0,MF,180.0,90.0,100.0,100.0,70.0,90.0,80.0,2.0
+Hakuryuu ,Bailong,Wind,Male,15.0,FW,180.0,110.0,100.0,100.0,70.0,100.0,70.0,3.0
+Enrico Olivier ,Enrico Oliver,Earth,Male,17.0,MF,170.0,90.0,100.0,70.0,70.0,90.0,70.0,2.0
+Minamisawa Atsushi ,Doug McArthur,Wind,Male,21.0,FW,150.0,90.0,100.0,90.0,70.0,100.0,70.0,2.0
+Gianluca Zanardi ,Gianluca Zanardi,Wood,Male,17.0,MF,180.0,70.0,100.0,80.0,70.0,90.0,80.0,2.0
+Fideo Ardena ,Paolo Bianchi,Wood,Male,17.0,FW,170.0,100.0,100.0,100.0,80.0,90.0,60.0,2.0
+Herume Matsuaki ,Arion Matlock,Wood,Male,3.0,MF,160.0,70.0,100.0,90.0,80.0,90.0,70.0,2.0
+Sakuma Jirou (Inazuma Japan),David Samford (Inazuma Japon),Wood,Male,8.0,FW,170.0,100.0,100.0,90.0,80.0,90.0,70.0,2.0
+Sandayuu Mishima ,Oni Triumvir,Wood,Male,12.0,MF,180.0,90.0,100.0,90.0,80.0,90.0,70.0,2.0
+Angelo Gabrini ,Angelo Gabrini,Wind,Male,17.0,MF,190.0,90.0,100.0,100.0,80.0,100.0,70.0,2.0
+Mitsuyoshi Yozakura ,Maxim Millennium,Wood,Male,22.0,FW,180.0,100.0,100.0,90.0,80.0,90.0,70.0,3.0
+Mistrene Callous ,Mystral Callous,Earth,Male,12.0,FW,180.0,100.0,100.0,80.0,80.0,100.0,80.0,2.0
+Gouenji Shuuya (ILJ),Axel Blaze (ILJ),Fire,Male,18.0,FW,170.0,110.0,100.0,110.0,80.0,100.0,80.0,2.0
+Someoka Ryuugo (ILJ),Kevin Dragonfly (ILJ),Wood,Male,18.0,FW,170.0,110.0,100.0,100.0,80.0,90.0,80.0,2.0
+Drill,Foret,Wood,Male,19.0,MF,150.0,90.0,100.0,90.0,80.0,90.0,80.0,2.0
+Asta ,Aster,Fire,Male,24.0,FW,180.0,110.0,100.0,100.0,80.0,100.0,80.0,2.0
+Suzuno Fuusuke ,Bryce Whitingale,Wind,Male,88.0,FW,180.0,100.0,100.0,100.0,80.0,100.0,80.0,2.0
+Otomura Gakuya ,Cadence Soundtown,Wood,Male,88.0,MF,160.0,80.0,100.0,90.0,80.0,90.0,80.0,2.0
+Super Zanark ,Super Zanark,Earth,Male,102.0,FW,180.0,110.0,100.0,100.0,80.0,90.0,80.0,2.0
+Meizu ,Sas,Wood,Male,23.0,MF,140.0,80.0,100.0,90.0,80.0,90.0,90.0,2.0
+Genius ,Gentiane,Earth,Male,24.0,FW,160.0,110.0,100.0,90.0,80.0,90.0,90.0,2.0
+Gouenji Shuuya (Inazuma Japan),Axel Blaze (Inazuma Japon),Fire,Male,8.0,FW,180.0,100.0,100.0,90.0,80.0,80.0,70.0,2.0
+Seidou Dan ,Dawntavius Spectrum,Fire,Male,15.0,MF,170.0,90.0,100.0,100.0,80.0,90.0,70.0,3.0
+Zanark Avalonic ,Zanark Avalonic,Earth,Male,23.0,FW,180.0,110.0,100.0,100.0,80.0,90.0,80.0,3.0
+Zanark x Sousou ,Zanark x Cao Cao,Earth,Male,102.0,FW,180.0,110.0,100.0,100.0,80.0,90.0,80.0,2.0
+Ulvida,Bellatrix,Wind,Female,5.0,MF,160.0,90.0,100.0,100.0,80.0,90.0,70.0,2.0
+Netsuha Natsuhiko ,Neppten,Wood,Male,6.0,FW,170.0,90.0,100.0,100.0,80.0,90.0,70.0,2.0
+Fudou Akio (Shin Teikoku),Caleb Stonewall (Nouv. Royal Academy),Fire,Male,88.0,MF,170.0,80.0,100.0,90.0,80.0,90.0,70.0,2.0
+Atsuishi Shigeto ,Heat,Wood,Male,6.0,MF,180.0,80.0,100.0,80.0,80.0,80.0,90.0,2.0
+Giorgio Giannini ,Giorgio Giannini,Earth,Male,17.0,MF,170.0,70.0,100.0,80.0,80.0,70.0,90.0,2.0
+Choi Chang Soo ,Changsu Choi,Fire,Male,10.0,MF,150.0,80.0,100.0,110.0,90.0,70.0,60.0,2.0
+Kitaki Tsuneo ,Bob Sled,Fire,Male,21.0,MF,150.0,70.0,100.0,100.0,90.0,100.0,70.0,3.0
+Wanda Naoto ,Dakkar Nemo,Wind,Male,22.0,MF,170.0,90.0,100.0,90.0,90.0,100.0,70.0,3.0
+Droll,Droll,Wind,Male,6.0,MF,170.0,80.0,100.0,80.0,90.0,80.0,80.0,2.0
+Kiyama Hiroto (ILJ),Xavier Foster (ILJ),Fire,Male,18.0,FW,170.0,110.0,100.0,100.0,90.0,100.0,80.0,2.0
+Sakuma Jirou (ILJ),David Samford (ILJ),Wood,Male,18.0,FW,170.0,110.0,100.0,100.0,90.0,100.0,80.0,2.0
+Neira ,India,Fire,Female,20.0,MF,170.0,80.0,100.0,90.0,90.0,100.0,80.0,2.0
+Kibayama Douzan ,Pinkus Mountbatten,Earth,Male,89.0,MF,180.0,100.0,100.0,80.0,90.0,70.0,80.0,2.0
+Yuuichi x Kyousuke ,Vladimir x Victor,Fire,Male,102.0,FW,160.0,110.0,100.0,100.0,90.0,90.0,80.0,2.0
+Hijikata Raiden ,Thor Stoutberg,Wind,Male,8.0,MF,170.0,90.0,100.0,80.0,90.0,70.0,90.0,2.0
+Ishidaira Hanzou ,Zack Cummings,Earth,Male,9.0,DF,170.0,80.0,100.0,70.0,90.0,70.0,90.0,2.0
+Drache Gyunter ,Drachen Gunther,Fire,Male,12.0,MF,190.0,80.0,100.0,90.0,90.0,70.0,90.0,2.0
+Manto ,Barrette,Wood,Female,19.0,MF,180.0,90.0,100.0,100.0,90.0,100.0,90.0,2.0
+Chibitto ,Minus,Wood,Male,19.0,MF,150.0,80.0,100.0,90.0,90.0,90.0,90.0,2.0
+Kuosu ,Lima,Wind,Male,20.0,MF,160.0,90.0,100.0,90.0,90.0,90.0,90.0,2.0
+Kai ,Yang,Earth,Male,15.0,FW,170.0,100.0,100.0,100.0,90.0,90.0,60.0,3.0
+Matsukaze Tenma ,Arion Sherwind,Wind,Male,14.0,MF,170.0,90.0,100.0,100.0,90.0,90.0,70.0,3.0
+Amemiya Taiyou ,Sol Daystar,Fire,Male,21.0,FW,160.0,100.0,100.0,90.0,90.0,80.0,70.0,3.0
+Mahoro Tadashi ,Harrold Houdini,Wood,Male,21.0,MF,170.0,90.0,100.0,100.0,90.0,90.0,70.0,3.0
+Ide Norikazu ,Octavus Kraken,Fire,Male,22.0,DF,170.0,90.0,100.0,90.0,90.0,90.0,70.0,3.0
+Mikado Haruma ,Rex Remington,Earth,Male,22.0,FW,160.0,100.0,100.0,90.0,90.0,90.0,70.0,3.0
+Taiyou x Koumei ,Sol x Zhuge,Fire,Male,102.0,FW,160.0,100.0,100.0,90.0,90.0,80.0,70.0,2.0
+Alpha ,Alpha,Fire,Male,20.0,FW,170.0,110.0,100.0,100.0,90.0,90.0,80.0,3.0
+Beta ,Beta,Wind,Female,20.0,FW,190.0,110.0,100.0,100.0,90.0,100.0,80.0,3.0
+Fran x Kuroi Bara,Flora x Rose Noire,Wind,Female,24.0,FW,170.0,110.0,100.0,90.0,90.0,100.0,80.0,2.0
+Fran ,Flora,Wind,Female,24.0,FW,170.0,110.0,100.0,90.0,90.0,100.0,80.0,2.0
+Tsurugi Yuuichi ,Vladimir Blade,Fire,Male,89.0,FW,160.0,110.0,100.0,100.0,90.0,90.0,80.0,3.0
+Saryuu Evan (SARU),Siméon Ayp,Earth,Male,89.0,FW,160.0,110.0,100.0,100.0,90.0,90.0,80.0,3.0
+Saryuu Evan x S Idenshi,Simeon x Gene S,Earth,Male,102.0,FW,160.0,110.0,100.0,100.0,90.0,90.0,80.0,2.0
+Lubbock Henktacker ,Phil A. Minion,Fire,Male,10.0,DF,180.0,70.0,100.0,100.0,90.0,70.0,90.0,2.0
+Orca ,November,Fire,Female,20.0,MF,180.0,90.0,100.0,90.0,90.0,90.0,90.0,2.0
+Dorimu ,Foxtrot,Wind,Male,20.0,MF,160.0,90.0,100.0,100.0,90.0,100.0,90.0,2.0
+Taki Yoshihiko ,Bradford Ash,Earth,Male,21.0,FW,180.0,90.0,100.0,100.0,90.0,90.0,60.0,2.0
+Rhionne,Rhine,Wind,Female,6.0,MF,160.0,70.0,100.0,80.0,90.0,100.0,80.0,2.0
+San ,Sterne,Wood,Male,89.0,FW,180.0,110.0,100.0,100.0,90.0,100.0,80.0,2.0
+Shinjami ,Sapta,Fire,Female,23.0,MF,170.0,90.0,100.0,90.0,90.0,90.0,90.0,2.0
+Shourinji Ayumu (Dark Emperors),Tim Saunders (Empereurs Noirs),Wood,Male,7.0,MF,190.0,80.0,100.0,80.0,100.0,80.0,90.0,2.0
+Ginis Jinkins ,Jynx Jenkins,Wood,Male,12.0,DF,180.0,80.0,100.0,80.0,100.0,70.0,90.0,2.0
+Alessandro Rossa ,Alessandro Rossa,Wood,Male,17.0,MF,190.0,70.0,100.0,80.0,100.0,80.0,80.0,2.0
+Belzebu ,Bael,Earth,Male,11.0,DF,190.0,80.0,100.0,80.0,110.0,90.0,80.0,2.0
+Makari Ginjirou ,Iggie Loo,Wind,Male,21.0,DF,170.0,80.0,100.0,90.0,110.0,80.0,70.0,3.0
+Rinne Makoto ,Shady Shwartz,Earth,Male,15.0,MF,170.0,90.0,110.0,100.0,70.0,90.0,60.0,3.0
+Baddap Sleed ,Bash Lancer,Wood,Male,12.0,FW,180.0,110.0,110.0,90.0,70.0,90.0,70.0,2.0
+Kageyama Hikaru ,Lucien Dark,Wood,Male,14.0,FW,150.0,100.0,110.0,90.0,80.0,110.0,60.0,2.0
+Henmi Wataru ,Herman Waldon,Wind,Male,2.0,MF,170.0,90.0,110.0,90.0,80.0,90.0,70.0,2.0
+Mark Kruger ,Mark Krueger,Wood,Male,10.0,MF,180.0,90.0,110.0,80.0,80.0,80.0,70.0,2.0
+Windy Faster ,Zephyr Vitesse,Wind,Male,16.0,DF,150.0,60.0,110.0,80.0,80.0,100.0,70.0,2.0
+Mephisto ,Malphas,Wind,Male,11.0,MF,150.0,90.0,110.0,90.0,80.0,80.0,80.0,2.0
+Maxi Kuu ,Maximino,Wind,Male,16.0,MF,170.0,70.0,110.0,80.0,80.0,90.0,70.0,2.0
+Nice Dolphin ,Dolphin Hensen,Wind,Male,10.0,MF,170.0,70.0,110.0,100.0,80.0,80.0,80.0,2.0
+Winel ,Wenel,Fire,Male,11.0,MF,170.0,90.0,110.0,90.0,80.0,90.0,80.0,2.0
+Clark Wonderbot ,Clark von Wunderbar,Wind,Male,89.0,FW,120.0,110.0,110.0,90.0,80.0,80.0,110.0,2.0
+Shuu,Tezcat,Wood,Male,15.0,FW,160.0,90.0,110.0,110.0,90.0,90.0,70.0,3.0
+Nishiki x Sakamoto ,Ryoma x Sakamoto,Earth,Male,102.0,MF,160.0,90.0,110.0,100.0,90.0,80.0,70.0,2.0
+Fudou Akio (ILJ),Caleb Stonewall (ILJ),Fire,Male,18.0,MF,170.0,100.0,110.0,100.0,90.0,100.0,80.0,2.0
+Tenma x Shuu ,Arion x Tezcat,Wind,Male,19.0,MF,180.0,90.0,110.0,90.0,90.0,90.0,80.0,2.0
+Tenma x Arthur ,Arion x Arthur,Wind,Male,19.0,MF,180.0,90.0,110.0,90.0,90.0,90.0,80.0,2.0
+Goburis ,Asta,Earth,Male,23.0,MF,160.0,90.0,110.0,90.0,90.0,100.0,80.0,2.0
+Okiddo ,Orchidée,Wind,Male,24.0,MF,160.0,100.0,110.0,100.0,90.0,100.0,80.0,2.0
+Laven ,Lilas,Wood,Male,24.0,MF,150.0,70.0,110.0,100.0,90.0,100.0,80.0,2.0
+Afuro Terumi (Adult),Byron Love (Adulte),Wood,Male,89.0,MF,170.0,100.0,110.0,100.0,90.0,90.0,80.0,2.0
+Kidou Yuuto (ILJ),Jude Sharp (ILJ),Wind,Male,18.0,MF,160.0,100.0,110.0,110.0,90.0,90.0,90.0,2.0
+Dande ,Pissenlit,Fire,Male,24.0,MF,180.0,90.0,110.0,90.0,90.0,100.0,90.0,2.0
+Nishiki Ryouma ,Ryoma Nishiki,Earth,Male,14.0,MF,160.0,90.0,110.0,100.0,90.0,80.0,70.0,3.0
+Kishibe Taiga ,Bay Laurel,Earth,Male,21.0,MF,170.0,90.0,110.0,80.0,90.0,100.0,70.0,3.0
+Matsukaze Tenma (Tenmas),Arion Sherwind (Sherwinds),Wind,Male,19.0,MF,180.0,90.0,110.0,90.0,90.0,90.0,80.0,2.0
+Rei Rukh ,Ar Ecks,Earth,Male,89.0,MF,150.0,90.0,110.0,100.0,90.0,90.0,80.0,2.0
+Gamma ,Gamma,Wood,Male,20.0,FW,190.0,110.0,110.0,90.0,90.0,100.0,90.0,3.0
+Viola ,Fuchsia,Wind,Male,24.0,MF,160.0,90.0,110.0,90.0,100.0,100.0,80.0,2.0
+Kamomi ,Camomille,Earth,Female,24.0,MF,170.0,90.0,110.0,100.0,100.0,100.0,90.0,2.0
+Yamana Akane ,Rodie Redd,Wind,Female,89.0,MF,160.0,80.0,110.0,100.0,100.0,80.0,70.0,2.0

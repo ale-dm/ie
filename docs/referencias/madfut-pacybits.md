@@ -58,6 +58,56 @@ Guía para principiantes publicada por un moderador de r/MADFUT (hace ~4 años).
 
 Las recompensas por completar serie o división son las mismas online y contra la IA.
 
+## Madfut — Calibración con Cartas Oro Top
+
+Capturas aportadas por el autor (Madfut, Smoq Games): cartas oro únicas de media 87–91. Stats en el orden de la carta: verde (ATT), azul (CTL), rojo (DEF).
+
+| Carta | Media | Pos | ATT | CTL | DEF |
+|---|---|---|---|---|---|
+| Mbappé | 91 | ST | 89 | 83 | 42 |
+| Hansen | 90 | RW | 86 | 88 | 50 |
+| Kerr | 90 | ST | 88 | 79 | 47 |
+| Vini Jr. | 90 | LW | 88 | 83 | 34 |
+| De Bruyne | 90 | CM | 86 | 89 | 64 |
+| Smith | 89 | ST | 87 | 81 | 50 |
+| Ødegaard | 89 | CM | 84 | 87 | 64 |
+| Donnarumma | 89 | GK | 39 | 34 | 88 |
+| Alisson | 89 | GK | 41 | 43 | 88 |
+| Courtois | 89 | GK | 36 | 29 | 88 |
+| van Dijk | 89 | CB | 67 | 70 | 87 |
+| ter Stegen | 89 | GK | 39 | 42 | 88 |
+| Salah | 89 | RW | 87 | 83 | 49 |
+| Kobel | 88 | GK | 35 | 33 | 87 |
+| Wirtz | 88 | CAM | 83 | 86 | 50 |
+| Katoto | 88 | ST | 86 | 78 | 43 |
+| Debinha | 88 | CAM | 84 | 86 | 48 |
+| Diani | 88 | RW | 86 | 82 | 58 |
+| Patri Guijarro | 88 | CDM | 84 | 83 | 86 |
+| Mead | 88 | RW | 86 | 83 | 66 |
+| Renard | 88 | CB | 67 | 68 | 87 |
+| Irene Paredes | 88 | CB | 61 | 66 | 86 |
+| Endler | 88 | GK | 34 | 30 | 87 |
+| Foden | 88 | RW | 87 | 85 | 55 |
+| Messi | 88 | RW | 86 | 87 | 37 |
+| Griezmann | 88 | ST | 86 | 86 | 61 |
+| Lewandowski | 88 | ST | 86 | 80 | 48 |
+| Bernardo Silva | 88 | CM | 84 | 87 | 68 |
+| Oblak | 88 | GK | 38 | 35 | 87 |
+| Rüdiger | 88 | CB | 67 | 70 | 86 |
+| Osimhen | 87 | ST | 85 | 70 | 46 |
+| Dybala | 87 | CAM | 85 | 84 | 44 |
+| Saka | 87 | RW | 85 | 82 | 60 |
+| Marquinhos | 87 | CB | 69 | 73 | 86 |
+| Sommer | 87 | GK | 38 | 33 | 86 |
+| Barella | 87 | CM | 82 | 85 | 78 |
+
+Resumen:
+- La stat principal nunca pasa de 89 en las oro normales.
+- **Porteros:** ATT 34–41, CTL 29–43 y DEF 86–88.
+- **Centrales:** ATT 61–69, CTL 66–73 y DEF 86–87.
+- **Delanteros y extremos:** ATT 85–89, CTL 70–88 y DEF 34–66.
+- **Mediocentros:** ATT 82–86, CTL 83–89 y DEF 44–78.
+
 ## Pacybits — Versus
 
 - Modo **Versus** de "stat contra stat", en draft, contra la IA y contra otros jugadores. [4]
