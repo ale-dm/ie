@@ -61,10 +61,13 @@
       ]
     },
     "tipo": {
+      "description": "Rareza por color (GDD 2.3) o especial.",
       "enum": [
-        "bronce",
-        "plata",
-        "oro",
+        "verde",
+        "azul",
+        "lila",
+        "amarillo",
+        "naranja",
         "especial"
       ]
     },

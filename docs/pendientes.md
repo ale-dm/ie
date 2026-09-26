@@ -13,8 +13,7 @@ Lo que el GDD todavía no define. Las referencias de Madfut y Pacybits están en
 ## Técnicas
 - [ ] Potencia y coste de Tensión de cada técnica (en Victory Road el coste es relativo a la potencia).
 - [ ] Técnicas de Habilidad: ¿ocupan hueco? ¿Cuestan Tensión? ¿Qué efectos tienen (sobre la carta o sobre el equipo)?
-- [ ] Qué rarezas (Bronce, Plata, Oro…) son "muy básicas" y cuáles "mejores".
-- [ ] Una hipertécnica (2 huecos), ¿tiene que ocupar un grupo entero o puede repartirse entre dos grupos?
+- [ ] Qué rarezas (Verde, Azul, Lila, Amarillo, Naranja) tienen 2 huecos y cuáles 4.
 - [ ] Valor de la ventaja elemental.
 
 ## Modo Fatal
@@ -22,7 +21,6 @@ Lo que el GDD todavía no define. Las referencias de Madfut y Pacybits están en
 - [ ] **Supertécnicas en la ronda:** quién las activa (¿el que elige, el que responde o los dos?), en qué momento, si el rival lo ve y cuánto suman a la stat.
 - [ ] **Coste de Tensión** de cada supertécnica.
 - [ ] **Estados especiales:** puntos fijos de cada uno (Keshin, Armadura, Mixi-Max, Tótem, Cambio de Forma, Despertar) y qué pasiva o boost de equipo da cada Espíritu Guerrero. Referencia: tabla del PDF de Victory Road en `referencias/inazuma-eleven.md`.
-- [ ] Cambio de Forma: ¿1 o 2 huecos? En Victory Road sustituye parte de las técnicas equipadas.
 - [ ] Despertar: ¿habrá variantes como en Victory Road (Burning Overdrive, Keeper's Grit…)?
 - [ ] Tótem: ¿se mantiene la mecánica de crecer al ganar duelos (en Victory Road, +20 % por cada Focus ganado, hasta el 75 %)?
 - [ ] ¿Se pueden usar supertécnicas y transformaciones en la ronda de desempate?
@@ -32,9 +30,10 @@ Lo que el GDD todavía no define. Las referencias de Madfut y Pacybits están en
 - [ ] Monedas, precios de sobres y probabilidades.
 - [ ] Reglas de Trading (en Pacybits solo se intercambian duplicadas).
 - [ ] Recompensas de Draft y SBC.
-- [ ] **Valoración (media) de una carta y de un equipo:** hace falta para las series de Fatal Mi Club; las cartas solo tienen ATT/CTL/DEF.
+- [ ] **Pesos de la valoración por posición** y rangos de valoración de cada rareza.
+- [ ] **Paso de las stats de Victory Road a ATT / CTL / DEF (1–100).** Las 7 stats y las fórmulas de duelo están en `referencias/victory-road-datos.md`.
+- [ ] Cartas Especiales: ¿se basan en los Héroes de Victory Road (6 técnicas, stats ≈ +25 %)?
 - [ ] Qué series y divisiones hay, cuántos partidos tiene cada una y cuáles son sus recompensas.
-- [ ] Criterio de rareza: qué hace que una carta sea bronce, plata, oro o especial, y cuántos grupos de huecos tiene cada una.
 
 ## Técnico
 - [ ] Motor y backend.

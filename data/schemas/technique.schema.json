@@ -4,18 +4,31 @@
   "title": "Técnica",
   "description": "Campos definidos en el GDD, sección 4.2.",
   "type": "object",
-  "required": ["id", "nombre", "tipo", "huecos"],
+  "required": [
+    "id",
+    "nombre",
+    "tipo",
+    "huecos"
+  ],
   "properties": {
-    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
-    "nombre": { "type": "string" },
-    "tipo": {
-      "enum": ["supertecnica-estandar", "hipertecnica-combinada", "transformacion-basica", "transformacion-avanzada"]
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
     },
-    "huecos": { "description": "1 estándar / transformación básica; 2 hiper-combinada / transformación avanzada.", "enum": [1, 2] }
-  },
-  "allOf": [
-    { "if": { "properties": { "tipo": { "enum": ["supertecnica-estandar", "transformacion-basica"] } } },
-      "then": { "properties": { "huecos": { "const": 1 } } },
-      "else": { "properties": { "huecos": { "const": 2 } } } }
-  ]
+    "nombre": {
+      "type": "string"
+    },
+    "tipo": {
+      "enum": [
+        "supertecnica-estandar",
+        "hipertecnica-combinada",
+        "transformacion-basica",
+        "transformacion-avanzada"
+      ]
+    },
+    "huecos": {
+      "description": "Todas las técnicas ocupan 1 hueco (GDD 4.2).",
+      "const": 1
+    }
+  }
 }

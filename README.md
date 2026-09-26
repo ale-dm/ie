@@ -9,7 +9,8 @@ docs/
   GDD.md                        Documento de Diseño de Juego
   decisiones.md                 Decisiones de diseño tomadas
   pendientes.md                 Preguntas abiertas
-  referencias/madfut-pacybits.md  Cómo funcionan Madfut y Pacybits, con fuentes
+  referencias/                  Madfut, Pacybits, juegos de Inazuma y datos de Victory Road
 data/
   schemas/                      JSON Schema de cartas y técnicas
+  fuentes/victory-road/         CSV de personajes, héroes, técnicas y poderes de Victory Road
 ```

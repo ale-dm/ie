@@ -24,6 +24,20 @@ Las cartas cuentan con tres estadísticas principales alineadas verticalmente en
 | CTL | Control / Pase / Regate | Utilizado en disputas del centro del campo y movilidad. |
 | DEF | Defensa / Parada | Utilizado para cortar avances o detener tiros en portería. |
 
+### 2.3 Rareza
+
+Como en Victory Road, las cartas base tienen 5 rarezas por color, en lugar de Bronce, Plata y Oro:
+
+| Color | Rareza (Victory Road) |
+|---|---|
+| Verde | Normal (Common Player) |
+| Azul | En Crecimiento (Growing Player) |
+| Lila | Avanzado (Advanced Player) |
+| Amarillo | Top (Top Player) |
+| Naranja | Legendario (Legendary Player) |
+
+Además están las cartas **Especiales / Boosteadas** (ver 4.1). Los nombres en español son provisionales. Pendiente: qué rarezas tienen 2 huecos y cuáles 4, y los rangos de valoración de cada una.
+
 ## 3. Sistema de Química (0 a 100)
 
 La química mide la cohesión de la plantilla y afecta directamente las estadísticas finales de las cartas durante los partidos del modo Fatal.
@@ -73,9 +87,11 @@ Los huecos del árbol se agrupan **de dos en dos** (grupos 1, 2 y 3, como en Vic
 | Tipo de Movimiento | Ocupación | Descripción |
 |---|---|---|
 | Supertécnica Estándar | 1 Hueco | Técnicas individuales básicas de tiro, regate o parada. |
-| Hipertécnica / Combinada | 2 Huecos | Técnicas de alto poder que requieren 2 jugadores o gran potencia. |
+| Hipertécnica / Combinada | 1 Hueco | Técnicas de alto poder que requieren 2 jugadores o gran potencia. |
 | Transformación Básica | 1 Hueco | Habilita la activación de Espíritu Guerrero (Keshin) o Despertar. |
-| Transformación Avanzada | 2 Huecos | Habilita la activación de Mixi-Max, Armadura de Keshin o Tótem. |
+| Transformación Avanzada | 1 Hueco | Habilita la activación de Mixi-Max, Armadura de Keshin, Tótem o Cambio de Forma. |
+
+Todas las técnicas ocupan 1 hueco; no hay técnicas de dos huecos.
 
 ## 5. Modo Fatal: Sistema de Combate 1vs1 (10 Rondas + Desempate)
 

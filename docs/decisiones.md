@@ -21,3 +21,6 @@ Solo decisiones tomadas por el autor del diseño.
 | 2026-09-26 | La técnica de un estado especial se añade al árbol sustituyendo la posición del estado, y se muestra con un aspecto distinto. |
 | 2026-09-26 | Solo Espíritu Guerrero, Mixi-Max y Tótem dan técnica (sustituye el hueco del estado); Armadura, Cambio de Forma y Despertar solo dan boost de puntos. |
 | 2026-09-26 | Los estados especiales y su técnica duran solo esa ronda; el Espíritu Guerrero dura 2 rondas por su pasiva o boost al equipo. |
+| 2026-09-26 | Todas las técnicas ocupan 1 hueco; no hay técnicas de dos huecos. |
+| 2026-09-26 | Rarezas por color como en Victory Road (Verde, Azul, Lila, Amarillo, Naranja) en lugar de Bronce/Plata/Oro, más las cartas Especiales. |
+| 2026-09-26 | Valoración de carta ponderada por posición y valoración de equipo = media de los 11 (pesos y rangos por definir). |
