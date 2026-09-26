@@ -118,24 +118,32 @@ El modo Fatal se desarrolla a lo largo de 10 duelos individuales por turnos, má
 - **Los dos jugadores** pueden usarlas: el que elige primero y el que responde.
 - Se deciden **al elegir la carta**, de forma **oculta**, y se revelan al resolver la ronda.
 - Una supertécnica **suma puntos fijos** a la stat del duelo. Cada técnica tiene su propia potencia y su propio coste de Tensión (valores por definir técnica a técnica).
-- Algunas técnicas y estados especiales (p. ej. Espíritu Guerrero) pueden dar **efectos pasivos** en lugar de, o además de, puntos. Por definir tomando como referencia los juegos de la saga.
+- Los estados especiales (Hiperenergía) también dan **bonus en puntos fijos**, no porcentajes.
+- **Técnicas de Habilidad:** existen técnicas pasivas, como en los juegos. Cuando se activa la Hiperenergía, si el estado especial tiene técnica propia, esta se suma al árbol de habilidades de la carta.
+- Las técnicas **no evolucionan por uso**. Solo suben de potencia repitiéndolas en los huecos 5 y 6.
 - También se pueden usar en la **ronda de desempate**.
 
-### 5.5 Ronda de Desempate
+### 5.5 Ventaja Elemental
+
+- Ciclo: **Fuego > Bosque > Aire > Tierra > Fuego**. Cuenta el elemento del jugador, no el de la técnica.
+- El valor de la ventaja está por definir.
+- Bonus por usar una técnica del mismo elemento: de momento no.
+
+### 5.6 Ronda de Desempate
 
 - Si tras las 10 rondas el marcador está igualado, se enfrenta la última carta de cada equipo (la número 11) y se suman todas sus stats. La más alta gana el partido.
 - Si la diferencia no es mayor que 5, el partido termina en empate.
 
-### 5.6 Modalidades
+### 5.7 Modalidades
 
 - **Fatal Mi Club:** se construye un equipo por serie que no supere la valoración requerida (ej. serie 75 → equipo de 75 o menos). Solo con cartas del club.
 - **Fatal Draft:** equipo formado en un Draft. Solo se usan los 11 titulares y no hay restricción de club.
 
-### 5.7 Impulsos Fatales
+### 5.8 Impulsos Fatales
 
 Cada temporada hay un conjunto de impulsos por serie (Fatal Mi Club) y por división (Fatal Draft). Dan bonus a las stats si el equipo cumple unos requisitos (ej. +2 en todas las stats con 6 o más tipos de cartas).
 
-### 5.8 Puntos por Partido
+### 5.9 Puntos por Partido
 
 | Rival | Victoria | Empate | Derrota |
 |---|---|---|---|

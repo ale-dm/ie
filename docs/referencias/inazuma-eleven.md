@@ -31,18 +31,44 @@ Solo lo que dicen las fuentes, con enlace. Sirve para adaptar al Modo Fatal las 
 
 ## 2. Estados Especiales
 
-### Victory Road — Poderes Hiperdimensionales
+### Victory Road — Poderes Hiperdimensionales (tabla del PDF) [13]
+
+Documento `IEVR_Hyper_Moves_Stat_Bonuses.pdf` (v1.0.5, WIP), aportado por el autor del proyecto y guardado en esta carpeta. Valores en % salvo duración y cooldown.
+
+| Poder | AT | DF | Tiro AT | Poder Focus | Potencia hissatsu | CD hissatsu | Muro DF | KP | Bonus elemento | Mov. | Duración | Cooldown | Técnica extra | Pasiva extra |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Burning Overdrive (Despertar) | 30 | 30 | 20 | 20 | 30 | 50 | – | – | – | 45 | 30 s | 90 s | ✘ | ✘ |
+| Keeper's Grit (Despertar) | 30 | 30 | – | – | 30 | 50 | – | 20 | – | 45 | 30 s | 90 s | ✘ | ✘ |
+| Ironclad Guardian (Despertar) | 30 | 50 | – | – | 30 | 50 | 30 | – | – | 45 | 30 s | 90 s | ✘ | ✘ |
+| Elemental Catalyst (Despertar) | 30 | 30 | – | 20 | 30 | 50 | – | – | ×2 | 45 | 30 s | 90 s | ✘ | ✘ |
+| Instant Burst (Despertar) | 30 | 30 | – | 20 | 30 | 70 | – | – | – | 45 | 30 s | 90 s | ✘ | ✘ |
+| Keshin | 50 | 50 | – | – | – | – | – | 15¹ | – | 30 | 45 s | 60 s | ✔ | ✔ |
+| Keshin (Armadura) | 30 | 30 | – | – | 50 | 50 | – | 15¹ | – | 45 | 45 s | 60 s | ✘ | ✘ |
+| Mixi-Max | 50 | 50 | – | – | 20 | 50 | – | 15¹ | – | 45 | 45 s | 60 s | ✔ | ✘ |
+| Tótem | 35–75² | 35–75² | – | – | – | – | – | 15¹ | – | 45 | 60 s | 60 s | ✔ | ✘ |
+| Kizuna Trans | 10 | 10 | – | – | 20 | 20 | – | – | – | 30 | 60 s | 90 s | ✔¹ | ✘ |
+| Cambio de Forma (Mode Change) | 60 | 60 | – | – | – | 80 | – | – | – | – | 75 s | 60 s | ✔³ | ✘ |
+
+1. Solo si el poder base aporta una técnica de portero extra.
+2. Empieza en 35 %; +20 % de AT/DF por cada duelo de Focus ganado, hasta un máximo del 75 %. El AT/DF extra se conserva al reutilizar el Tótem.
+3. Sustituye todas o parte de las técnicas equipadas. Los Cambios de Forma tienen tableros de habilidades (Abilearn Boards) predefinidos.
+
+- La columna "Tension Cost" del PDF está vacía en v1.0.5: según su historial de cambios, se eliminó el coste de Tensión de Armadura, Mixi-Max y Despertares.
+- El historial menciona una v1.0.6 (06/08/2026) que actualiza el AT/DF de la Armadura; el PDF aportado muestra los valores de la v1.0.5.
+
+### Victory Road — Otras fuentes
 
 | Estado | Bonus AT/DF | Otros efectos | Fuente |
 |---|---|---|---|
-| Espíritu Guerrero (Keshin) | +40 % | Técnicas exclusivas del Keshin. **Pasiva de equipo** propia de cada Keshin (ej. +20 % al tiro). Duración larga. Gana los duelos de Focus. | [6][7] |
-| Armadura (Keshin Armed) | +20 % | Refuerza las supertécnicas normales. Sin pasiva. Duración corta. Gana los duelos de Focus. | [6][7] |
-| Mixi-Max | +50 % | Técnica adicional exclusiva y pasiva. Sin pasiva de equipo. La duración más larga. Solo en ciertos jugadores y no combinable con Keshin ni Tótem. | [6][7][8] |
-| Despertar (Awakening) | +30 % | Más velocidad de movimiento. Cinco variantes con bonus propios (ej. Nekketsu Overdrive: +20 % AT de tiro). | [6][7] |
-| Kizuna Trans (Transformación de Vínculo) | +10 % | El jugador se transforma en un compañero: toma su aspecto y puede usar sus supertécnicas. | [2][6][7] |
-| Tótem (Soul) | — | Según [6], todavía no estaba implementado en Victory Road en ese momento. | [6] |
+| Espíritu Guerrero (Keshin) | +40 % | Técnicas exclusivas. Pasiva de equipo propia de cada Keshin (ej. +20 % al tiro). Gana los duelos de Focus. | [6][7] |
+| Armadura (Keshin Armed) | +20 % | Refuerza las supertécnicas normales. Sin pasiva. Duración corta. | [6][7] |
+| Mixi-Max | +50 % | Técnica exclusiva. Sin pasiva de equipo. Solo en ciertos jugadores; no combinable con Keshin ni Tótem. | [6][7][8] |
+| Despertar | +30 % | Más velocidad. Cinco variantes. | [6][7] |
+| Kizuna Trans | +10 % | Transformarse en un compañero y usar sus técnicas. | [2][6][7] |
 
-- Activar Keshin, Mixi-Max o Aura requiere la **barra azul de Tensión llena** y la consume. [9]
+Estas fuentes son anteriores al PDF, y sus valores de Keshin y Armadura no coinciden con él (el PDF recoge actualizaciones posteriores).
+
+- Activar Keshin, Mixi-Max o Aura requiere la barra azul de Tensión llena y la consume. [9]
 - Las pasivas se muestran en la esquina inferior izquierda durante el partido. [7]
 
 ### Juegos de 3DS (GO, Chrono Stone, Galaxy)
@@ -56,7 +82,8 @@ Solo lo que dicen las fuentes, con enlace. Sirve para adaptar al Modo Fatal las 
 ## 3. Nombres en Español
 
 - **Tótem** es el nombre en español de *Soul* (también llamado *Poder Animal*, y *Alma* en el manga). [12]
-- **Cambio de Forma:** probablemente *Kizuna Trans* (transformarse en un compañero). **Pendiente de confirmar con el autor.**
+- **Cambio de Forma** = *Mode Change* de Victory Road. [13]
+- La *Kizuna Trans* (Bond Transform) queda descartada para nuestro juego.
 
 ## Fuentes
 
@@ -72,3 +99,4 @@ Solo lo que dicen las fuentes, con enlace. Sirve para adaptar al Modo Fatal las 
 10. [Keshin – Inazuma Eleven GO Galaxy Wiki](https://inazuma-eleven-go-galaxy.fandom.com/wiki/Keshin), [Kick Force X – Inazuma Eleven Wiki](https://inazuma-eleven.fandom.com/wiki/Kick_Force_X). Citados a partir del resumen del buscador.
 11. [Keshin Armed](https://inazuma-eleven.fandom.com/wiki/Keshin_Armed), [Soul](https://inazuma-eleven.fandom.com/wiki/Soul), [Mixi Max](https://inazuma-eleven.fandom.com/wiki/Mixi_Max) – Inazuma Eleven Wiki. Citados a partir del resumen del buscador.
 12. [Tótem – Wiki Inazuma Eleven (es)](https://inazuma.fandom.com/es/wiki/T%C3%B3tem). Citado a partir del resumen del buscador.
+13. `IEVR_Hyper_Moves_Stat_Bonuses.pdf` (v1.0.5), en esta misma carpeta. Aportado por el autor del proyecto.

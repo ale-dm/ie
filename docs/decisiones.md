@@ -10,3 +10,8 @@ Solo decisiones tomadas por el autor del diseño.
 | 2026-09-26 | Supertécnicas: las pueden usar los dos jugadores, se eligen ocultas junto con la carta, suman puntos fijos (potencia y coste propios de cada técnica) y valen en el desempate. |
 | 2026-09-26 | Repetir una técnica en los huecos 5 o 6 suma +1 a su potencia por repetición. |
 | 2026-09-26 | Estados especiales: Espíritu Guerrero (Keshin), Mixi-Max, Armadura, Tótem, Cambio de Forma y Despertar. Sus efectos (incluidas pasivas) se definirán a partir de los juegos de 3DS y Victory Road. |
+| 2026-09-26 | Kizuna Trans descartada. "Cambio de Forma" corresponde al Mode Change de Victory Road. |
+| 2026-09-26 | Los bonus de los estados especiales son puntos fijos. |
+| 2026-09-26 | Técnicas de Habilidad (pasivas): sí. Al activar la Hiperenergía, si el estado tiene técnica propia, se suma al árbol de habilidades de la carta. |
+| 2026-09-26 | Ventaja elemental: sí (valor por definir). Bonus por técnica del mismo elemento: de momento no. |
+| 2026-09-26 | Las técnicas no evolucionan por uso. |
