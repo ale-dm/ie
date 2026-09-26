@@ -54,6 +54,7 @@ Cada carta incluye una sección de Techniques Spéciales (inspirada en la interf
 
 - **Cartas Base (Bronce, Plata, Oro):** 4 Huecos de técnica (estricto).
 - **Cartas Especiales / Boosteadas:** 5 o 6 Huecos de técnica (representan momentos o partidos icónicos de la franquicia, como finales de torneo o despertares de personajes).
+- **Huecos 5 y 6:** no tienen por qué ser hipertécnicas; pueden ser otras técnicas, o repetir una de las que ya tiene. Cada repetición suma **+1** a la potencia de esa técnica.
 
 ### 4.2 Ocupación de Huecos por Habilidad
 
@@ -96,7 +97,7 @@ El modo Fatal se desarrolla a lo largo de 10 duelos individuales por turnos, má
 ### 5.2 Barra de Hiperenergía (Máximo 2 Cargas)
 
 - **Condición de Carga:** Se obtiene 1 Carga cada vez que el jugador utiliza acumulativamente 2 Supertécnicas en el partido.
-- **Uso:** Gastar 1 carga permite activar el estado especial de la carta (Keshin, Mixi-Max, Armadura, Tótem o Despertar) en esa ronda, aplicando sus respectivos modificadores.
+- **Uso:** Gastar 1 carga permite activar el estado especial de la carta (Keshin, Mixi-Max, Armadura, Tótem, Cambio de Forma o Despertar) en esa ronda, aplicando sus respectivos modificadores.
 
 ### 5.3 Estructura del Partido (igual que Madfut)
 
@@ -112,21 +113,29 @@ El modo Fatal se desarrolla a lo largo de 10 duelos individuales por turnos, má
   - Si también son iguales, nadie obtiene el punto.
 - **10 rondas.** Gana quien tenga más puntos.
 
-### 5.4 Ronda de Desempate
+### 5.4 Supertécnicas y Transformaciones en la Ronda
+
+- **Los dos jugadores** pueden usarlas: el que elige primero y el que responde.
+- Se deciden **al elegir la carta**, de forma **oculta**, y se revelan al resolver la ronda.
+- Una supertécnica **suma puntos fijos** a la stat del duelo. Cada técnica tiene su propia potencia y su propio coste de Tensión (valores por definir técnica a técnica).
+- Algunas técnicas y estados especiales (p. ej. Espíritu Guerrero) pueden dar **efectos pasivos** en lugar de, o además de, puntos. Por definir tomando como referencia los juegos de la saga.
+- También se pueden usar en la **ronda de desempate**.
+
+### 5.5 Ronda de Desempate
 
 - Si tras las 10 rondas el marcador está igualado, se enfrenta la última carta de cada equipo (la número 11) y se suman todas sus stats. La más alta gana el partido.
 - Si la diferencia no es mayor que 5, el partido termina en empate.
 
-### 5.5 Modalidades
+### 5.6 Modalidades
 
 - **Fatal Mi Club:** se construye un equipo por serie que no supere la valoración requerida (ej. serie 75 → equipo de 75 o menos). Solo con cartas del club.
 - **Fatal Draft:** equipo formado en un Draft. Solo se usan los 11 titulares y no hay restricción de club.
 
-### 5.6 Impulsos Fatales
+### 5.7 Impulsos Fatales
 
 Cada temporada hay un conjunto de impulsos por serie (Fatal Mi Club) y por división (Fatal Draft). Dan bonus a las stats si el equipo cumple unos requisitos (ej. +2 en todas las stats con 6 o más tipos de cartas).
 
-### 5.7 Puntos por Partido
+### 5.8 Puntos por Partido
 
 | Rival | Victoria | Empate | Derrota |
 |---|---|---|---|

@@ -11,14 +11,18 @@ Lo que el GDD todavía no define. Las referencias de Madfut y Pacybits están en
 - [ ] Penalización por jugar fuera de posición (Madfut la tiene; no está documentado cuánto).
 
 ## Técnicas
-- [ ] Cuánto sube la potencia o el grado al repetir una técnica en los huecos 5 y 6.
-- [ ] Añadir al GDD la regla de los huecos 5 y 6 (está en `decisiones.md`).
+- [ ] Potencia y coste de Tensión de cada técnica (en Victory Road el coste es relativo a la potencia).
+- [ ] ¿Técnicas de tipo Habilidad (pasivas sin coste) como en los juegos?
+- [ ] ¿Bonus por usar una técnica del mismo elemento que el jugador? ¿Ventaja elemental (Fuego > Bosque > Aire > Tierra > Fuego)?
+- [ ] ¿Evolución de técnicas por uso, como en los juegos, además de la repetición en los huecos 5 y 6?
 
 ## Modo Fatal
 - [ ] **Qué pistas ve el que responde.** En Madfut se ve, por ejemplo, "centrocampista italiano" o "delantero del Manchester United"; aquí podrían ser posición + equipo, elemento o era.
 - [ ] **Supertécnicas en la ronda:** quién las activa (¿el que elige, el que responde o los dos?), en qué momento, si el rival lo ve y cuánto suman a la stat.
 - [ ] **Coste de Tensión** de cada supertécnica.
-- [ ] **Transformaciones:** qué modificadores aplica cada una (Keshin, Mixi-Max, Armadura, Tótem, Despertar).
+- [ ] **Estados especiales:** bonus y pasiva de cada uno. Referencia de Victory Road: Keshin +40 % con pasiva de equipo, Armadura +20 %, Mixi-Max +50 %, Despertar +30 %, Kizuna Trans +10 %; ver `referencias/inazuma-eleven.md`.
+- [ ] ¿"Cambio de Forma" es Kizuna Trans (transformarse en un compañero)? ¿Ocupa 1 o 2 huecos?
+- [ ] ¿Los bonus de los estados especiales son porcentajes (como en Victory Road) o puntos fijos (como las supertécnicas)?
 - [ ] ¿Se pueden usar supertécnicas y transformaciones en la ronda de desempate?
 - [ ] Contenido de los Impulsos Fatales de la primera temporada.
 
